@@ -59,6 +59,7 @@ useSeoMeta({
             </span>
           </h1>
 
+          
           <p class="text-base md:text-lg text-gray-300 mb-10 leading-relaxed font-medium border-l-4 border-green-500 pl-6">
             {{ t('brand.description') }}
           </p>
