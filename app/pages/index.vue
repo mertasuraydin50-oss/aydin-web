@@ -14,6 +14,7 @@ const {
   localePath
 } = useLocalizedContent()
 
+  
 const latestPosts = computed(() => localizedPosts.value.slice(0, 3))
 
 const serviceIcons: Record<string, string> = {
