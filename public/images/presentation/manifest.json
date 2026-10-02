@@ -1,0 +1,822 @@
+{
+  "count": 136,
+  "extractedAt": "2026-09-07T11:28:13.417Z",
+  "images": [
+    {
+      "id": 1,
+      "file": "aydinox-001.png",
+      "src": "/images/presentation/curated/aydinox-001.png",
+      "size": 2077312
+    },
+    {
+      "id": 2,
+      "file": "aydinox-002.png",
+      "src": "/images/presentation/curated/aydinox-002.png",
+      "size": 368806
+    },
+    {
+      "id": 3,
+      "file": "aydinox-003.png",
+      "src": "/images/presentation/curated/aydinox-003.png",
+      "size": 1809991
+    },
+    {
+      "id": 4,
+      "file": "aydinox-004.png",
+      "src": "/images/presentation/curated/aydinox-004.png",
+      "size": 1695186
+    },
+    {
+      "id": 5,
+      "file": "aydinox-005.png",
+      "src": "/images/presentation/curated/aydinox-005.png",
+      "size": 1049393
+    },
+    {
+      "id": 6,
+      "file": "aydinox-006.jpg",
+      "src": "/images/presentation/curated/aydinox-006.jpg",
+      "size": 155621
+    },
+    {
+      "id": 7,
+      "file": "aydinox-007.jpg",
+      "src": "/images/presentation/curated/aydinox-007.jpg",
+      "size": 141855
+    },
+    {
+      "id": 8,
+      "file": "aydinox-008.jpg",
+      "src": "/images/presentation/curated/aydinox-008.jpg",
+      "size": 190871
+    },
+    {
+      "id": 9,
+      "file": "aydinox-009.jpg",
+      "src": "/images/presentation/curated/aydinox-009.jpg",
+      "size": 139933
+    },
+    {
+      "id": 10,
+      "file": "aydinox-010.jpg",
+      "src": "/images/presentation/curated/aydinox-010.jpg",
+      "size": 173641
+    },
+    {
+      "id": 11,
+      "file": "aydinox-011.jpg",
+      "src": "/images/presentation/curated/aydinox-011.jpg",
+      "size": 130727
+    },
+    {
+      "id": 12,
+      "file": "aydinox-012.jpg",
+      "src": "/images/presentation/curated/aydinox-012.jpg",
+      "size": 112789
+    },
+    {
+      "id": 13,
+      "file": "aydinox-013.jpg",
+      "src": "/images/presentation/curated/aydinox-013.jpg",
+      "size": 117027
+    },
+    {
+      "id": 14,
+      "file": "aydinox-014.jpg",
+      "src": "/images/presentation/curated/aydinox-014.jpg",
+      "size": 212313
+    },
+    {
+      "id": 15,
+      "file": "aydinox-015.jpg",
+      "src": "/images/presentation/curated/aydinox-015.jpg",
+      "size": 265057
+    },
+    {
+      "id": 16,
+      "file": "aydinox-016.jpg",
+      "src": "/images/presentation/curated/aydinox-016.jpg",
+      "size": 175786
+    },
+    {
+      "id": 17,
+      "file": "aydinox-017.jpg",
+      "src": "/images/presentation/curated/aydinox-017.jpg",
+      "size": 275235
+    },
+    {
+      "id": 18,
+      "file": "aydinox-018.jpg",
+      "src": "/images/presentation/curated/aydinox-018.jpg",
+      "size": 291544
+    },
+    {
+      "id": 19,
+      "file": "aydinox-019.jpg",
+      "src": "/images/presentation/curated/aydinox-019.jpg",
+      "size": 204152
+    },
+    {
+      "id": 20,
+      "file": "aydinox-020.png",
+      "src": "/images/presentation/curated/aydinox-020.png",
+      "size": 1392573
+    },
+    {
+      "id": 21,
+      "file": "aydinox-021.png",
+      "src": "/images/presentation/curated/aydinox-021.png",
+      "size": 1237463
+    },
+    {
+      "id": 22,
+      "file": "aydinox-022.jpg",
+      "src": "/images/presentation/curated/aydinox-022.jpg",
+      "size": 161091
+    },
+    {
+      "id": 23,
+      "file": "aydinox-023.jpg",
+      "src": "/images/presentation/curated/aydinox-023.jpg",
+      "size": 234074
+    },
+    {
+      "id": 24,
+      "file": "aydinox-024.jpg",
+      "src": "/images/presentation/curated/aydinox-024.jpg",
+      "size": 209122
+    },
+    {
+      "id": 25,
+      "file": "aydinox-025.png",
+      "src": "/images/presentation/curated/aydinox-025.png",
+      "size": 1197974
+    },
+    {
+      "id": 26,
+      "file": "aydinox-026.png",
+      "src": "/images/presentation/curated/aydinox-026.png",
+      "size": 2095339
+    },
+    {
+      "id": 27,
+      "file": "aydinox-027.png",
+      "src": "/images/presentation/curated/aydinox-027.png",
+      "size": 2200845
+    },
+    {
+      "id": 28,
+      "file": "aydinox-028.png",
+      "src": "/images/presentation/curated/aydinox-028.png",
+      "size": 2142864
+    },
+    {
+      "id": 29,
+      "file": "aydinox-029.png",
+      "src": "/images/presentation/curated/aydinox-029.png",
+      "size": 2002536
+    },
+    {
+      "id": 30,
+      "file": "aydinox-030.png",
+      "src": "/images/presentation/curated/aydinox-030.png",
+      "size": 1641720
+    },
+    {
+      "id": 31,
+      "file": "aydinox-031.png",
+      "src": "/images/presentation/curated/aydinox-031.png",
+      "size": 1981171
+    },
+    {
+      "id": 32,
+      "file": "aydinox-032.png",
+      "src": "/images/presentation/curated/aydinox-032.png",
+      "size": 1744143
+    },
+    {
+      "id": 33,
+      "file": "aydinox-033.png",
+      "src": "/images/presentation/curated/aydinox-033.png",
+      "size": 1622896
+    },
+    {
+      "id": 34,
+      "file": "aydinox-034.png",
+      "src": "/images/presentation/curated/aydinox-034.png",
+      "size": 1670349
+    },
+    {
+      "id": 35,
+      "file": "aydinox-035.png",
+      "src": "/images/presentation/curated/aydinox-035.png",
+      "size": 1398812
+    },
+    {
+      "id": 36,
+      "file": "aydinox-036.png",
+      "src": "/images/presentation/curated/aydinox-036.png",
+      "size": 1909030
+    },
+    {
+      "id": 37,
+      "file": "aydinox-037.png",
+      "src": "/images/presentation/curated/aydinox-037.png",
+      "size": 1418680
+    },
+    {
+      "id": 38,
+      "file": "aydinox-038.png",
+      "src": "/images/presentation/curated/aydinox-038.png",
+      "size": 1053374
+    },
+    {
+      "id": 39,
+      "file": "aydinox-039.png",
+      "src": "/images/presentation/curated/aydinox-039.png",
+      "size": 1153652
+    },
+    {
+      "id": 40,
+      "file": "aydinox-040.png",
+      "src": "/images/presentation/curated/aydinox-040.png",
+      "size": 1754688
+    },
+    {
+      "id": 41,
+      "file": "aydinox-041.png",
+      "src": "/images/presentation/curated/aydinox-041.png",
+      "size": 1638060
+    },
+    {
+      "id": 42,
+      "file": "aydinox-042.png",
+      "src": "/images/presentation/curated/aydinox-042.png",
+      "size": 351356
+    },
+    {
+      "id": 43,
+      "file": "aydinox-043.jpg",
+      "src": "/images/presentation/curated/aydinox-043.jpg",
+      "size": 237359
+    },
+    {
+      "id": 44,
+      "file": "aydinox-044.png",
+      "src": "/images/presentation/curated/aydinox-044.png",
+      "size": 1319108
+    },
+    {
+      "id": 45,
+      "file": "aydinox-045.png",
+      "src": "/images/presentation/curated/aydinox-045.png",
+      "size": 771359
+    },
+    {
+      "id": 46,
+      "file": "aydinox-046.png",
+      "src": "/images/presentation/curated/aydinox-046.png",
+      "size": 2043923
+    },
+    {
+      "id": 47,
+      "file": "aydinox-047.png",
+      "src": "/images/presentation/curated/aydinox-047.png",
+      "size": 796530
+    },
+    {
+      "id": 48,
+      "file": "aydinox-048.png",
+      "src": "/images/presentation/curated/aydinox-048.png",
+      "size": 696531
+    },
+    {
+      "id": 49,
+      "file": "aydinox-049.png",
+      "src": "/images/presentation/curated/aydinox-049.png",
+      "size": 2241068
+    },
+    {
+      "id": 50,
+      "file": "aydinox-050.png",
+      "src": "/images/presentation/curated/aydinox-050.png",
+      "size": 2619628
+    },
+    {
+      "id": 51,
+      "file": "aydinox-051.png",
+      "src": "/images/presentation/curated/aydinox-051.png",
+      "size": 1423363
+    },
+    {
+      "id": 52,
+      "file": "aydinox-052.png",
+      "src": "/images/presentation/curated/aydinox-052.png",
+      "size": 1168897
+    },
+    {
+      "id": 53,
+      "file": "aydinox-053.png",
+      "src": "/images/presentation/curated/aydinox-053.png",
+      "size": 522460
+    },
+    {
+      "id": 54,
+      "file": "aydinox-054.png",
+      "src": "/images/presentation/curated/aydinox-054.png",
+      "size": 984538
+    },
+    {
+      "id": 55,
+      "file": "aydinox-055.png",
+      "src": "/images/presentation/curated/aydinox-055.png",
+      "size": 1280400
+    },
+    {
+      "id": 56,
+      "file": "aydinox-056.png",
+      "src": "/images/presentation/curated/aydinox-056.png",
+      "size": 1054638
+    },
+    {
+      "id": 57,
+      "file": "aydinox-057.png",
+      "src": "/images/presentation/curated/aydinox-057.png",
+      "size": 675365
+    },
+    {
+      "id": 58,
+      "file": "aydinox-058.png",
+      "src": "/images/presentation/curated/aydinox-058.png",
+      "size": 650400
+    },
+    {
+      "id": 59,
+      "file": "aydinox-059.png",
+      "src": "/images/presentation/curated/aydinox-059.png",
+      "size": 1317969
+    },
+    {
+      "id": 60,
+      "file": "aydinox-060.png",
+      "src": "/images/presentation/curated/aydinox-060.png",
+      "size": 713661
+    },
+    {
+      "id": 61,
+      "file": "aydinox-061.png",
+      "src": "/images/presentation/curated/aydinox-061.png",
+      "size": 761966
+    },
+    {
+      "id": 62,
+      "file": "aydinox-062.jpg",
+      "src": "/images/presentation/curated/aydinox-062.jpg",
+      "size": 101231
+    },
+    {
+      "id": 63,
+      "file": "aydinox-063.png",
+      "src": "/images/presentation/curated/aydinox-063.png",
+      "size": 584126
+    },
+    {
+      "id": 64,
+      "file": "aydinox-064.png",
+      "src": "/images/presentation/curated/aydinox-064.png",
+      "size": 1095191
+    },
+    {
+      "id": 65,
+      "file": "aydinox-065.png",
+      "src": "/images/presentation/curated/aydinox-065.png",
+      "size": 511595
+    },
+    {
+      "id": 66,
+      "file": "aydinox-066.png",
+      "src": "/images/presentation/curated/aydinox-066.png",
+      "size": 1171428
+    },
+    {
+      "id": 67,
+      "file": "aydinox-067.png",
+      "src": "/images/presentation/curated/aydinox-067.png",
+      "size": 604041
+    },
+    {
+      "id": 68,
+      "file": "aydinox-068.png",
+      "src": "/images/presentation/curated/aydinox-068.png",
+      "size": 614320
+    },
+    {
+      "id": 69,
+      "file": "aydinox-069.png",
+      "src": "/images/presentation/curated/aydinox-069.png",
+      "size": 1395915
+    },
+    {
+      "id": 70,
+      "file": "aydinox-070.png",
+      "src": "/images/presentation/curated/aydinox-070.png",
+      "size": 2149369
+    },
+    {
+      "id": 71,
+      "file": "aydinox-071.png",
+      "src": "/images/presentation/curated/aydinox-071.png",
+      "size": 1479355
+    },
+    {
+      "id": 72,
+      "file": "aydinox-072.png",
+      "src": "/images/presentation/curated/aydinox-072.png",
+      "size": 1448445
+    },
+    {
+      "id": 73,
+      "file": "aydinox-073.png",
+      "src": "/images/presentation/curated/aydinox-073.png",
+      "size": 2167693
+    },
+    {
+      "id": 74,
+      "file": "aydinox-074.png",
+      "src": "/images/presentation/curated/aydinox-074.png",
+      "size": 1962126
+    },
+    {
+      "id": 75,
+      "file": "aydinox-075.png",
+      "src": "/images/presentation/curated/aydinox-075.png",
+      "size": 2046208
+    },
+    {
+      "id": 76,
+      "file": "aydinox-076.png",
+      "src": "/images/presentation/curated/aydinox-076.png",
+      "size": 1193916
+    },
+    {
+      "id": 77,
+      "file": "aydinox-077.png",
+      "src": "/images/presentation/curated/aydinox-077.png",
+      "size": 1132844
+    },
+    {
+      "id": 78,
+      "file": "aydinox-078.png",
+      "src": "/images/presentation/curated/aydinox-078.png",
+      "size": 894244
+    },
+    {
+      "id": 79,
+      "file": "aydinox-079.png",
+      "src": "/images/presentation/curated/aydinox-079.png",
+      "size": 1118542
+    },
+    {
+      "id": 80,
+      "file": "aydinox-080.png",
+      "src": "/images/presentation/curated/aydinox-080.png",
+      "size": 1660539
+    },
+    {
+      "id": 81,
+      "file": "aydinox-081.png",
+      "src": "/images/presentation/curated/aydinox-081.png",
+      "size": 768516
+    },
+    {
+      "id": 82,
+      "file": "aydinox-082.png",
+      "src": "/images/presentation/curated/aydinox-082.png",
+      "size": 1108295
+    },
+    {
+      "id": 83,
+      "file": "aydinox-083.png",
+      "src": "/images/presentation/curated/aydinox-083.png",
+      "size": 1378064
+    },
+    {
+      "id": 84,
+      "file": "aydinox-084.png",
+      "src": "/images/presentation/curated/aydinox-084.png",
+      "size": 802393
+    },
+    {
+      "id": 85,
+      "file": "aydinox-085.png",
+      "src": "/images/presentation/curated/aydinox-085.png",
+      "size": 821914
+    },
+    {
+      "id": 86,
+      "file": "aydinox-086.png",
+      "src": "/images/presentation/curated/aydinox-086.png",
+      "size": 1035938
+    },
+    {
+      "id": 87,
+      "file": "aydinox-087.png",
+      "src": "/images/presentation/curated/aydinox-087.png",
+      "size": 1192223
+    },
+    {
+      "id": 88,
+      "file": "aydinox-088.png",
+      "src": "/images/presentation/curated/aydinox-088.png",
+      "size": 536259
+    },
+    {
+      "id": 89,
+      "file": "aydinox-089.png",
+      "src": "/images/presentation/curated/aydinox-089.png",
+      "size": 536175
+    },
+    {
+      "id": 90,
+      "file": "aydinox-090.png",
+      "src": "/images/presentation/curated/aydinox-090.png",
+      "size": 493927
+    },
+    {
+      "id": 91,
+      "file": "aydinox-091.png",
+      "src": "/images/presentation/curated/aydinox-091.png",
+      "size": 2383201
+    },
+    {
+      "id": 92,
+      "file": "aydinox-092.png",
+      "src": "/images/presentation/curated/aydinox-092.png",
+      "size": 1783336
+    },
+    {
+      "id": 93,
+      "file": "aydinox-093.png",
+      "src": "/images/presentation/curated/aydinox-093.png",
+      "size": 1536776
+    },
+    {
+      "id": 94,
+      "file": "aydinox-094.png",
+      "src": "/images/presentation/curated/aydinox-094.png",
+      "size": 515393
+    },
+    {
+      "id": 95,
+      "file": "aydinox-095.png",
+      "src": "/images/presentation/curated/aydinox-095.png",
+      "size": 599774
+    },
+    {
+      "id": 96,
+      "file": "aydinox-096.png",
+      "src": "/images/presentation/curated/aydinox-096.png",
+      "size": 635902
+    },
+    {
+      "id": 97,
+      "file": "aydinox-097.png",
+      "src": "/images/presentation/curated/aydinox-097.png",
+      "size": 537206
+    },
+    {
+      "id": 98,
+      "file": "aydinox-098.png",
+      "src": "/images/presentation/curated/aydinox-098.png",
+      "size": 534877
+    },
+    {
+      "id": 99,
+      "file": "aydinox-099.jpeg",
+      "src": "/images/presentation/curated/aydinox-099.jpeg",
+      "size": 133613
+    },
+    {
+      "id": 100,
+      "file": "aydinox-100.jpg",
+      "src": "/images/presentation/curated/aydinox-100.jpg",
+      "size": 183324
+    },
+    {
+      "id": 101,
+      "file": "aydinox-101.jpg",
+      "src": "/images/presentation/curated/aydinox-101.jpg",
+      "size": 242326
+    },
+    {
+      "id": 102,
+      "file": "aydinox-102.jpeg",
+      "src": "/images/presentation/curated/aydinox-102.jpeg",
+      "size": 128397
+    },
+    {
+      "id": 103,
+      "file": "aydinox-103.jpg",
+      "src": "/images/presentation/curated/aydinox-103.jpg",
+      "size": 211361
+    },
+    {
+      "id": 104,
+      "file": "aydinox-104.jpg",
+      "src": "/images/presentation/curated/aydinox-104.jpg",
+      "size": 256310
+    },
+    {
+      "id": 105,
+      "file": "aydinox-105.jpg",
+      "src": "/images/presentation/curated/aydinox-105.jpg",
+      "size": 261627
+    },
+    {
+      "id": 106,
+      "file": "aydinox-106.jpg",
+      "src": "/images/presentation/curated/aydinox-106.jpg",
+      "size": 254167
+    },
+    {
+      "id": 107,
+      "file": "aydinox-107.png",
+      "src": "/images/presentation/curated/aydinox-107.png",
+      "size": 503592
+    },
+    {
+      "id": 108,
+      "file": "aydinox-108.png",
+      "src": "/images/presentation/curated/aydinox-108.png",
+      "size": 919670
+    },
+    {
+      "id": 109,
+      "file": "aydinox-109.png",
+      "src": "/images/presentation/curated/aydinox-109.png",
+      "size": 1026666
+    },
+    {
+      "id": 110,
+      "file": "aydinox-110.png",
+      "src": "/images/presentation/curated/aydinox-110.png",
+      "size": 2105020
+    },
+    {
+      "id": 111,
+      "file": "aydinox-111.png",
+      "src": "/images/presentation/curated/aydinox-111.png",
+      "size": 1267255
+    },
+    {
+      "id": 112,
+      "file": "aydinox-112.png",
+      "src": "/images/presentation/curated/aydinox-112.png",
+      "size": 467564
+    },
+    {
+      "id": 113,
+      "file": "aydinox-113.png",
+      "src": "/images/presentation/curated/aydinox-113.png",
+      "size": 460642
+    },
+    {
+      "id": 114,
+      "file": "aydinox-114.png",
+      "src": "/images/presentation/curated/aydinox-114.png",
+      "size": 143250
+    },
+    {
+      "id": 115,
+      "file": "aydinox-115.png",
+      "src": "/images/presentation/curated/aydinox-115.png",
+      "size": 849191
+    },
+    {
+      "id": 116,
+      "file": "aydinox-116.png",
+      "src": "/images/presentation/curated/aydinox-116.png",
+      "size": 573469
+    },
+    {
+      "id": 117,
+      "file": "aydinox-117.png",
+      "src": "/images/presentation/curated/aydinox-117.png",
+      "size": 1502413
+    },
+    {
+      "id": 118,
+      "file": "aydinox-118.png",
+      "src": "/images/presentation/curated/aydinox-118.png",
+      "size": 1411041
+    },
+    {
+      "id": 119,
+      "file": "aydinox-119.png",
+      "src": "/images/presentation/curated/aydinox-119.png",
+      "size": 1193838
+    },
+    {
+      "id": 120,
+      "file": "aydinox-120.png",
+      "src": "/images/presentation/curated/aydinox-120.png",
+      "size": 904517
+    },
+    {
+      "id": 121,
+      "file": "aydinox-121.png",
+      "src": "/images/presentation/curated/aydinox-121.png",
+      "size": 292132
+    },
+    {
+      "id": 122,
+      "file": "aydinox-122.png",
+      "src": "/images/presentation/curated/aydinox-122.png",
+      "size": 381104
+    },
+    {
+      "id": 123,
+      "file": "aydinox-123.png",
+      "src": "/images/presentation/curated/aydinox-123.png",
+      "size": 1425746
+    },
+    {
+      "id": 124,
+      "file": "aydinox-124.png",
+      "src": "/images/presentation/curated/aydinox-124.png",
+      "size": 1325432
+    },
+    {
+      "id": 125,
+      "file": "aydinox-125.jpg",
+      "src": "/images/presentation/curated/aydinox-125.jpg",
+      "size": 167235
+    },
+    {
+      "id": 126,
+      "file": "aydinox-126.png",
+      "src": "/images/presentation/curated/aydinox-126.png",
+      "size": 262498
+    },
+    {
+      "id": 127,
+      "file": "aydinox-127.png",
+      "src": "/images/presentation/curated/aydinox-127.png",
+      "size": 522755
+    },
+    {
+      "id": 128,
+      "file": "aydinox-128.png",
+      "src": "/images/presentation/curated/aydinox-128.png",
+      "size": 359844
+    },
+    {
+      "id": 129,
+      "file": "aydinox-129.png",
+      "src": "/images/presentation/curated/aydinox-129.png",
+      "size": 228841
+    },
+    {
+      "id": 130,
+      "file": "aydinox-130.png",
+      "src": "/images/presentation/curated/aydinox-130.png",
+      "size": 290667
+    },
+    {
+      "id": 131,
+      "file": "aydinox-131.png",
+      "src": "/images/presentation/curated/aydinox-131.png",
+      "size": 381154
+    },
+    {
+      "id": 132,
+      "file": "aydinox-132.png",
+      "src": "/images/presentation/curated/aydinox-132.png",
+      "size": 380764
+    },
+    {
+      "id": 133,
+      "file": "aydinox-133.jpg",
+      "src": "/images/presentation/curated/aydinox-133.jpg",
+      "size": 270298
+    },
+    {
+      "id": 134,
+      "file": "aydinox-134.png",
+      "src": "/images/presentation/curated/aydinox-134.png",
+      "size": 179756
+    },
+    {
+      "id": 135,
+      "file": "aydinox-135.png",
+      "src": "/images/presentation/curated/aydinox-135.png",
+      "size": 567763
+    },
+    {
+      "id": 136,
+      "file": "aydinox-136.png",
+      "src": "/images/presentation/curated/aydinox-136.png",
+      "size": 1627729
+    }
+  ]
+}

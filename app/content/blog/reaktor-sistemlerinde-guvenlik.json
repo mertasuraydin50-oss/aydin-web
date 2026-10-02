@@ -1,0 +1,52 @@
+{
+  "id": "reaktor-sistemlerinde-guvenlik",
+  "slugs": {
+    "tr": "reaktor-sistemlerinde-guvenlik",
+    "en": "reactor-system-safety"
+  },
+  "shared": {
+    "date": "2025-12-28"
+  },
+  "translations": {
+    "tr": {
+      "title": "Reaktör Sistemlerinde Güvenlik",
+      "excerpt": "Kimyasal proseslerde reaktör güvenliği ve kontrol sistemleri.",
+      "category": "Güvenlik",
+      "body": "Reaktör sistemlerinde basınç, sıcaklık ve karıştırma kontrolü güvenli üretimin temelidir.\n\nAcil durum ventilasyonu, basınç emniyet valfleri ve sensör entegrasyonu zorunlu güvenlik unsurlarıdır.\n\nProje mühendisliği aşamasında risk analizi yapılarak uygun güvenlik önlemleri planlanmalıdır.",
+      "seoTitle": "Reaktör Sistemlerinde Güvenlik | Aydınox",
+      "keywords": [
+        "Güvenlik",
+        "Aydınox"
+      ],
+      "tags": [
+        "Güvenlik"
+      ],
+      "faq": [
+        {
+          "q": "Teklif almak için ne yapmalıyım?",
+          "a": "İletişim formu veya telefon ile bize ulaşabilirsiniz."
+        }
+      ]
+    },
+    "en": {
+      "title": "Safety in Reactor Systems",
+      "excerpt": "Reactor safety and control systems in chemical processes.",
+      "category": "Safety",
+      "body": "Pressure, temperature and mixing control in reactor systems are the foundation of safe production.\n\nEmergency ventilation, pressure safety valves and sensor integration are mandatory safety elements.\n\nRisk analysis should be performed during the project engineering phase and appropriate safety measures planned.",
+      "seoTitle": "Safety in Reactor Systems | Aydınox",
+      "keywords": [
+        "Safety",
+        "Aydınox"
+      ],
+      "tags": [
+        "Safety"
+      ],
+      "faq": [
+        {
+          "q": "What should I do to get a quote?",
+          "a": "You can reach us via contact form or phone."
+        }
+      ]
+    }
+  }
+}

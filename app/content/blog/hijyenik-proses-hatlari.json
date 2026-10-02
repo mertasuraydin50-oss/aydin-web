@@ -1,0 +1,52 @@
+{
+  "id": "hijyenik-proses-hatlari",
+  "slugs": {
+    "tr": "hijyenik-proses-hatlari",
+    "en": "hygienic-process-lines"
+  },
+  "shared": {
+    "date": "2026-01-12"
+  },
+  "translations": {
+    "tr": {
+      "title": "Hijyenik Proses Hatları Nasıl Tasarlanır?",
+      "excerpt": "Gıda ve ilaç üretiminde hijyenik sistem tasarımının temel prensipleri.",
+      "category": "Mühendislik",
+      "body": "Hijyenik proses hatlarında CIP (Clean-in-Place) uyumu, minimum ölü hacim ve kolay temizlenebilir yüzeyler kritik öneme sahiptir.\n\nBorulama, bağlantı elemanları ve ekipman seçimi proses güvenliğini belirler.\n\nAydınox olarak tüm projelerimizde sektör standartlarına uygun hijyenik tasarım prensiplerini uyguluyoruz.",
+      "seoTitle": "Hijyenik Proses Hatları Nasıl Tasarlanır? | Aydınox",
+      "keywords": [
+        "Mühendislik",
+        "Aydınox"
+      ],
+      "tags": [
+        "Mühendislik"
+      ],
+      "faq": [
+        {
+          "q": "Teklif almak için ne yapmalıyım?",
+          "a": "İletişim formu veya telefon ile bize ulaşabilirsiniz."
+        }
+      ]
+    },
+    "en": {
+      "title": "How to Design Hygienic Process Lines?",
+      "excerpt": "Basic principles of hygienic system design in food and pharmaceutical production.",
+      "category": "Engineering",
+      "body": "CIP (Clean-in-Place) compatibility, minimum dead volume and easily cleanable surfaces are critical in hygienic process lines.\n\nPiping, connection elements and equipment selection determine process safety.\n\nAt Aydınox, we apply hygienic design principles in accordance with industry standards in all our projects.",
+      "seoTitle": "How to Design Hygienic Process Lines? | Aydınox",
+      "keywords": [
+        "Engineering",
+        "Aydınox"
+      ],
+      "tags": [
+        "Engineering"
+      ],
+      "faq": [
+        {
+          "q": "What should I do to get a quote?",
+          "a": "You can reach us via contact form or phone."
+        }
+      ]
+    }
+  }
+}

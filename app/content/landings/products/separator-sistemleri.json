@@ -1,0 +1,203 @@
+{
+  "id": "separator-sistemleri",
+  "translations": {
+    "tr": {
+      "seoTitle": "Separatör Sistemleri | Aydınox",
+      "seoDescription": "Ayırma ve arıtma prosesleri.",
+      "keywords": [
+        "Separatör Sistemleri",
+        "Filtreler ve Etüv Sistemleri",
+        "paslanmaz çelik",
+        "Aydınox"
+      ],
+      "heroDescription": "Ayırma ve arıtma prosesleri.",
+      "chips": [
+        "Paslanmaz çelik malzeme",
+        "Hijyenik tasarım",
+        "TSE standartlarına uygun",
+        "Projeye özel kapasite"
+      ],
+      "intro": [
+        "Proses hatlarında ayırma ve arıtma için özel sistemler.",
+        "Filtreler ve Etüv Sistemleri kategorisinde separatör sistemleri çözümlerimiz gıda, ilaç, kimya ve kozmetik sektörlerine uygun olarak tasarlanır."
+      ],
+      "highlights": [
+        {
+          "icon": "lucide:shield-check",
+          "title": "Paslanmaz çelik malzeme",
+          "text": "Separatör Sistemleri projelerinde paslanmaz çelik malzeme standartlarımızın temelidir."
+        },
+        {
+          "icon": "lucide:settings",
+          "title": "Hijyenik tasarım",
+          "text": "Separatör Sistemleri projelerinde hijyenik tasarım standartlarımızın temelidir."
+        },
+        {
+          "icon": "lucide:factory",
+          "title": "TSE standartlarına uygun",
+          "text": "Separatör Sistemleri projelerinde tse standartlarına uygun standartlarımızın temelidir."
+        },
+        {
+          "icon": "lucide:badge-check",
+          "title": "Projeye özel kapasite",
+          "text": "Separatör Sistemleri projelerinde projeye özel kapasite standartlarımızın temelidir."
+        }
+      ],
+      "specs": [
+        [
+          "Malzeme",
+          "Paslanmaz çelik (304/316L)"
+        ],
+        [
+          "Standart",
+          "TSE / sektörel hijyen gereksinimleri"
+        ],
+        [
+          "Kapasite",
+          "Projeye özel"
+        ],
+        [
+          "Kategori",
+          "Filtreler ve Etüv Sistemleri"
+        ],
+        [
+          "Uygulama",
+          "Gıda, ilaç, kimya, kozmetik"
+        ]
+      ],
+      "usesTitle": "Kullanım Alanları",
+      "usesLead": "Separatör Sistemleri hangi proseslerde tercih edilir?",
+      "uses": [
+        {
+          "title": "Gıda Sanayi",
+          "text": "Hijyenik proses hatlarında depolama ve üretim uygulamaları."
+        },
+        {
+          "title": "İlaç Sanayi",
+          "text": "GMP uyumlu steril proses ve depolama sistemleri."
+        },
+        {
+          "title": "Kimya Sanayi",
+          "text": "Kimyasal reaksiyon ve depolama prosesleri."
+        }
+      ],
+      "faqTitle": "Sık Sorulan Sorular",
+      "faqLead": "Separatör Sistemleri hakkında merak edilenler.",
+      "faq": [
+        {
+          "q": "Separatör Sistemleri için hangi malzeme kullanılır?",
+          "a": "Proses koşullarına göre 304 veya 316L paslanmaz çelik tercih edilir. Gıda ve ilaç uygulamalarında genellikle 316L önerilir."
+        },
+        {
+          "q": "Teslim süresi ne kadardır?",
+          "a": "Kapasite ve proje karmaşıklığına göre değişir. Teklif aşamasında net teslim takvimi paylaşılır."
+        },
+        {
+          "q": "Montaj hizmeti veriyor musunuz?",
+          "a": "Evet. Üretim, saha montajı, tesisat kurulumu ve devreye alma hizmetlerini uçtan uca sunuyoruz."
+        }
+      ],
+      "specsTitle": "Teknik Özellikler",
+      "specsLead": "Separatör Sistemleri temel teknik parametreleri."
+    },
+    "en": {
+      "seoTitle": "Separator Systems | Aydınox",
+      "seoDescription": "Separation and purification processes.",
+      "keywords": [
+        "Separator Systems",
+        "Filters and Oven Systems",
+        "stainless steel",
+        "Aydınox"
+      ],
+      "heroDescription": "Separation and purification processes.",
+      "chips": [
+        "Stainless steel material",
+        "Hygienic design",
+        "TSE standard compliant",
+        "Project-specific capacity"
+      ],
+      "intro": [
+        "Special systems for separation and purification in process lines.",
+        "Our separator systems solutions in the Filters and Oven Systems category are designed for food, pharmaceutical, chemical and cosmetic industries."
+      ],
+      "highlights": [
+        {
+          "icon": "lucide:shield-check",
+          "title": "Stainless steel material",
+          "text": "Stainless steel material is a cornerstone of our standards in Separator Systems projects."
+        },
+        {
+          "icon": "lucide:settings",
+          "title": "Hygienic design",
+          "text": "Hygienic design is a cornerstone of our standards in Separator Systems projects."
+        },
+        {
+          "icon": "lucide:factory",
+          "title": "TSE standard compliant",
+          "text": "TSE standard compliant is a cornerstone of our standards in Separator Systems projects."
+        },
+        {
+          "icon": "lucide:badge-check",
+          "title": "Project-specific capacity",
+          "text": "Project-specific capacity is a cornerstone of our standards in Separator Systems projects."
+        }
+      ],
+      "specs": [
+        [
+          "Material",
+          "Stainless steel (304/316L)"
+        ],
+        [
+          "Standard",
+          "TSE / industry hygiene requirements"
+        ],
+        [
+          "Capacity",
+          "Project-specific"
+        ],
+        [
+          "Category",
+          "Filters and Oven Systems"
+        ],
+        [
+          "Application",
+          "Food, pharma, chemical, cosmetic"
+        ]
+      ],
+      "usesTitle": "Application Areas",
+      "usesLead": "Where is Separator Systems preferred?",
+      "uses": [
+        {
+          "title": "Food Industry",
+          "text": "Storage and production applications in hygienic process lines."
+        },
+        {
+          "title": "Pharmaceutical Industry",
+          "text": "GMP-compliant sterile process and storage systems."
+        },
+        {
+          "title": "Chemical Industry",
+          "text": "Chemical reaction and storage processes."
+        }
+      ],
+      "faqTitle": "Frequently Asked Questions",
+      "faqLead": "Common questions about Separator Systems.",
+      "faq": [
+        {
+          "q": "What material is used for Separator Systems?",
+          "a": "304 or 316L stainless steel is selected based on process conditions. 316L is generally recommended for food and pharmaceutical applications."
+        },
+        {
+          "q": "What is the delivery time?",
+          "a": "It varies depending on capacity and project complexity. A clear delivery schedule is shared during the quote phase."
+        },
+        {
+          "q": "Do you provide assembly services?",
+          "a": "Yes. We offer end-to-end production, on-site assembly, piping installation and commissioning services."
+        }
+      ],
+      "specsTitle": "Technical Specifications",
+      "specsLead": "Separator Systems key technical parameters."
+    }
+  }
+}

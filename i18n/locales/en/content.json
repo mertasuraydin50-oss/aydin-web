@@ -1,0 +1,59 @@
+{
+  "site": {
+    "stats": {
+      "projects": "Completed Projects",
+      "years": "Years of Experience",
+      "standards": "TSE Standard Production",
+      "sectors": "Main Industries"
+    },
+    "whyUs": {
+      "hygiene": {
+        "title": "Hygienic Production",
+        "description": "Stainless steel quality suitable for food, pharmaceutical and chemical industries."
+      },
+      "engineering": {
+        "title": "Project Engineering",
+        "description": "End-to-end process solutions from design to assembly."
+      },
+      "production": {
+        "title": "On-Site Production",
+        "description": "High manufacturing quality in tank, reactor and custom machine production."
+      },
+      "quality": {
+        "title": "Quality Policy",
+        "description": "Safe and sustainable production approach in accordance with TSE standards."
+      }
+    },
+    "sectors": {
+      "food": "Food Industry",
+      "pharma": "Pharmaceutical Industry",
+      "chemical": "Chemical & Paint",
+      "cosmetic": "Cosmetic Industry"
+    }
+  },
+  "references": {
+    "items": {
+      "tank": {
+        "label": "Process Tank Plant",
+        "description": "Stainless steel storage and process tank installation"
+      },
+      "reactor": {
+        "label": "Reactor Line",
+        "description": "Custom reactor and mixer system for chemical process"
+      },
+      "food": {
+        "label": "Food Production Line",
+        "description": "Hygienic equipment and piping assembly application"
+      }
+    }
+  },
+  "gallery": {
+    "categories": {
+      "all": "All",
+      "tank": "Tank Production",
+      "reaktor": "Reactor & Mixer",
+      "montaj": "Assembly & Plant",
+      "uretim": "Production"
+    }
+  }
+}

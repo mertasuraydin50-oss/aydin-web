@@ -1,0 +1,59 @@
+{
+  "site": {
+    "stats": {
+      "projects": "Tamamlanan Proje",
+      "years": "Yıllık Deneyim",
+      "standards": "Standartlarında Üretim",
+      "sectors": "Ana Sektör"
+    },
+    "whyUs": {
+      "hygiene": {
+        "title": "Hijyenik Üretim",
+        "description": "Gıda, ilaç ve kimya sektörlerine uygun paslanmaz çelik kalitesi."
+      },
+      "engineering": {
+        "title": "Proje Mühendisliği",
+        "description": "Tasarımdan montaja kadar uçtan uca proses çözümleri."
+      },
+      "production": {
+        "title": "Yerinde Üretim",
+        "description": "Tank, reaktör ve özel makine imalatında yüksek imalat kalitesi."
+      },
+      "quality": {
+        "title": "Kalite Politikası",
+        "description": "TSE standartlarında, güvenli ve sürdürülebilir üretim anlayışı."
+      }
+    },
+    "sectors": {
+      "food": "Gıda Sanayi",
+      "pharma": "İlaç Sanayi",
+      "chemical": "Kimya & Boya",
+      "cosmetic": "Kozmetik Sanayi"
+    }
+  },
+  "references": {
+    "items": {
+      "tank": {
+        "label": "Proses Tank Tesisi",
+        "description": "Paslanmaz çelik depolama ve proses tank kurulumu"
+      },
+      "reactor": {
+        "label": "Reaktör Hattı",
+        "description": "Kimyasal proses için özel reaktör ve karıştırıcı sistemi"
+      },
+      "food": {
+        "label": "Gıda Üretim Hattı",
+        "description": "Hijyenik ekipman ve tesisat montaj uygulaması"
+      }
+    }
+  },
+  "gallery": {
+    "categories": {
+      "all": "Tümü",
+      "tank": "Tank Üretimi",
+      "reaktor": "Reaktör & Karıştırıcı",
+      "montaj": "Montaj & Tesis",
+      "uretim": "Üretim"
+    }
+  }
+}

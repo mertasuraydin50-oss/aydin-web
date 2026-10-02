@@ -1,0 +1,188 @@
+{
+  "language": {
+    "label": "Language",
+    "tr": "TR",
+    "en": "EN",
+    "switchTo": "Switch language"
+  },
+  "brand": {
+    "name": "Aydınox Process Machinery",
+    "shortName": "Aydınox",
+    "tagline": "Innovation and Safety Guaranteed",
+    "description": "Your trusted manufacturing partner for stainless steel process equipment, tank production, plant installation and engineering solutions."
+  },
+  "nav": {
+    "products": "Products",
+    "services": "Services",
+    "corporate": "Corporate",
+    "gallery": "Gallery",
+    "blog": "Blog",
+    "contact": "Contact",
+    "quote": "Get a Quote",
+    "quoteNow": "Get a Quote Now",
+    "allProducts": "View All Products",
+    "allServices": "View All Services",
+    "about": "About Us",
+    "mission": "Mission & Vision",
+    "quality": "Quality Policy",
+    "documents": "Certificates",
+    "careers": "Human Resources",
+    "kvkk": "Privacy Notice",
+    "faq": "FAQ",
+    "home": "Home"
+  },
+  "common": {
+    "readMore": "View Details",
+    "detail": "Details",
+    "read": "Read",
+    "readArticle": "Read article",
+    "callUs": "Call Us",
+    "contactUs": "Contact Us",
+    "phone": "Phone",
+    "email": "Email",
+    "address": "Address",
+    "close": "Close",
+    "notFound": "Page not found",
+    "productNotFound": "Product not found",
+    "serviceNotFound": "Service not found",
+    "postNotFound": "Article not found"
+  },
+  "home": {
+    "heroTitle": "In Your Production",
+    "heroCtaContact": "Contact Us",
+    "heroCtaProducts": "Explore Products",
+    "productsBadge": "Products",
+    "productsTitle": "Process Equipment and Machinery",
+    "productsAll": "View All Products",
+    "referencesTitle": "Our Reference Projects",
+    "corporateBadge": "Corporate",
+    "corporateTitle": "Quality",
+    "corporateTitleHighlight": "Starts in Every",
+    "corporateTitleEnd": "Process",
+    "corporateBody": "At Aydınox Process Machinery, we manufacture stainless steel tanks, reactors, mixers, filters and custom-designed machines; we partner with food, pharmaceutical, chemical and cosmetic industries through plant installation and assembly services.",
+    "corporateLink": "About Us",
+    "servicesBadge": "Services",
+    "servicesTitle": "End-to-End Process Solutions",
+    "servicesCtaTitle": "Get a Quote for Your Project",
+    "servicesCtaBody": "Let our expert team plan the best solution for you.",
+    "sectorsBadge": "Industries",
+    "sectorsTitle": "Industries We Serve",
+    "statsBadge": "Numbers",
+    "statsTitle": "Aydınox in Numbers",
+    "blogBadge": "Blog",
+    "blogTitle": "Industry Insights",
+    "blogAll": "All Articles",
+    "ctaTitle": "Contact Us for Process Equipment and Plant Installation",
+    "ctaBody": "Reach out to learn about our project design, production, assembly and service offerings."
+  },
+  "products": {
+    "badge": "Products",
+    "title": "Process Equipment",
+    "description": "Discover our stainless steel tank, reactor, mixer and custom machine solutions.",
+    "detailBadge": "Product Detail",
+    "related": "Related Products",
+    "quoteFor": "Get a quote for {name}",
+    "breadcrumb": "Products"
+  },
+  "services": {
+    "badge": "Services",
+    "title": "Our Services",
+    "description": "End-to-end services from project design to assembly, maintenance and automation.",
+    "detailBadge": "Services",
+    "requestService": "Request Service",
+    "otherServices": "Other Services",
+    "quoteFor": "Contact us for {name}"
+  },
+  "corporate": {
+    "sectionTitle": "Corporate",
+    "productionTitle": "Production and Applications",
+    "productionLabel": "Production {n}"
+  },
+  "blog": {
+    "badge": "Blog",
+    "title": "Blog",
+    "description": "Process equipment, hygienic systems and industry content.",
+    "otherPosts": "Other Articles"
+  },
+  "gallery": {
+    "badge": "Gallery",
+    "title": "Project Gallery",
+    "description": "Images from our production, assembly and plant installation projects."
+  },
+  "contact": {
+    "badge": "Contact",
+    "title": "Contact Us",
+    "description": "Contact our team for project design, production, assembly or technical support.",
+    "formTitle": "Quote Form",
+    "formPlaceholder": "Form field coming soon. You can reach us by phone or email for now.",
+    "mapPlaceholder": "Map / Form Area"
+  },
+  "cta": {
+    "title": "Get a Quote for Your Project",
+    "description": "Let our expert team plan your process equipment and plant installation solution together.",
+    "quote": "Get a Quote",
+    "call": "Call Us"
+  },
+  "footer": {
+    "products": "Products",
+    "services": "Services",
+    "contactUs": "Contact Us",
+    "corporate": "Corporate",
+    "rights": "All rights reserved."
+  },
+  "faqPage": {
+    "badge": "FAQ",
+    "title": "Frequently Asked Questions",
+    "description": "Common questions about process equipment, tank production and our services.",
+    "keywords": "stainless steel tank, process equipment, FAQ, Aydınox, plant installation",
+    "searchPlaceholder": "Search questions...",
+    "results": "{n} results found"
+  },
+  "search": {
+    "label": "Site search",
+    "placeholder": "Search products, services or blog...",
+    "placeholderHero": "What are you looking for?",
+    "button": "Search",
+    "empty": "No results found.",
+    "seeAll": "See all results",
+    "pageTitle": "Search Results",
+    "pageDescription": "Search across products, services, blog posts and corporate pages.",
+    "pageLead": "{n} results for \"{q}\"",
+    "kinds": {
+      "product": "Product",
+      "category": "Category",
+      "service": "Service",
+      "blog": "Blog",
+      "page": "Page"
+    }
+  },
+  "quotePage": {
+    "badge": "Quote",
+    "title": "Get a Quote",
+    "description": "Get a quote for stainless steel process equipment and plant installation for your project.",
+    "formNote": "The form will be active soon. You can reach us by phone or email for now.",
+    "fields": {
+      "name": "Full Name",
+      "company": "Company",
+      "phone": "Phone",
+      "email": "Email",
+      "message": "Project Details"
+    }
+  },
+  "blogPage": {
+    "readTime": "{n} min read",
+    "faqTitle": "Frequently Asked Questions",
+    "relatedArticles": "Related Articles"
+  },
+  "articleCta": {
+    "title": "Get a Quote for Your Project",
+    "body": "Contact our expert team for your stainless steel process equipment and plant installation projects."
+  },
+  "corporatePage": {
+    "valuesTitle": "Our Values",
+    "rolesTitle": "Open Positions",
+    "certificatesTitle": "Certificates",
+    "applyTitle": "Application",
+    "applyBody": "You can send your CV to info{'@'}aydinox.com.tr."
+  }
+}

@@ -1,0 +1,8 @@
+@import "tailwindcss";
+@import "@nuxt/ui";
+
+@theme static {
+  --font-sans: 'Montserrat', ui-sans-serif, system-ui, sans-serif;
+  --color-brand-navy: #1e3a5f;
+  --color-brand-green: #22c55e;
+}

@@ -1,0 +1,203 @@
+{
+  "id": "reaktorler",
+  "translations": {
+    "tr": {
+      "seoTitle": "Reaktörler | Aydınox",
+      "seoDescription": "Kimyasal reaksiyon prosesleri.",
+      "keywords": [
+        "Reaktörler",
+        "Reaktörler ve Karıştırıcılar",
+        "paslanmaz çelik",
+        "Aydınox"
+      ],
+      "heroDescription": "Kimyasal reaksiyon prosesleri.",
+      "chips": [
+        "Paslanmaz çelik malzeme",
+        "Hijyenik tasarım",
+        "TSE standartlarına uygun",
+        "Projeye özel kapasite"
+      ],
+      "intro": [
+        "Proses ihtiyaçlarına göre tasarlanmış paslanmaz çelik reaktör sistemleri.",
+        "Reaktörler ve Karıştırıcılar kategorisinde reaktörler çözümlerimiz gıda, ilaç, kimya ve kozmetik sektörlerine uygun olarak tasarlanır."
+      ],
+      "highlights": [
+        {
+          "icon": "lucide:shield-check",
+          "title": "Paslanmaz çelik malzeme",
+          "text": "Reaktörler projelerinde paslanmaz çelik malzeme standartlarımızın temelidir."
+        },
+        {
+          "icon": "lucide:settings",
+          "title": "Hijyenik tasarım",
+          "text": "Reaktörler projelerinde hijyenik tasarım standartlarımızın temelidir."
+        },
+        {
+          "icon": "lucide:factory",
+          "title": "TSE standartlarına uygun",
+          "text": "Reaktörler projelerinde tse standartlarına uygun standartlarımızın temelidir."
+        },
+        {
+          "icon": "lucide:badge-check",
+          "title": "Projeye özel kapasite",
+          "text": "Reaktörler projelerinde projeye özel kapasite standartlarımızın temelidir."
+        }
+      ],
+      "specs": [
+        [
+          "Malzeme",
+          "Paslanmaz çelik (304/316L)"
+        ],
+        [
+          "Standart",
+          "TSE / sektörel hijyen gereksinimleri"
+        ],
+        [
+          "Kapasite",
+          "Projeye özel"
+        ],
+        [
+          "Kategori",
+          "Reaktörler ve Karıştırıcılar"
+        ],
+        [
+          "Uygulama",
+          "Gıda, ilaç, kimya, kozmetik"
+        ]
+      ],
+      "usesTitle": "Kullanım Alanları",
+      "usesLead": "Reaktörler hangi proseslerde tercih edilir?",
+      "uses": [
+        {
+          "title": "Gıda Sanayi",
+          "text": "Hijyenik proses hatlarında depolama ve üretim uygulamaları."
+        },
+        {
+          "title": "İlaç Sanayi",
+          "text": "GMP uyumlu steril proses ve depolama sistemleri."
+        },
+        {
+          "title": "Kimya Sanayi",
+          "text": "Kimyasal reaksiyon ve depolama prosesleri."
+        }
+      ],
+      "faqTitle": "Sık Sorulan Sorular",
+      "faqLead": "Reaktörler hakkında merak edilenler.",
+      "faq": [
+        {
+          "q": "Reaktörler için hangi malzeme kullanılır?",
+          "a": "Proses koşullarına göre 304 veya 316L paslanmaz çelik tercih edilir. Gıda ve ilaç uygulamalarında genellikle 316L önerilir."
+        },
+        {
+          "q": "Teslim süresi ne kadardır?",
+          "a": "Kapasite ve proje karmaşıklığına göre değişir. Teklif aşamasında net teslim takvimi paylaşılır."
+        },
+        {
+          "q": "Montaj hizmeti veriyor musunuz?",
+          "a": "Evet. Üretim, saha montajı, tesisat kurulumu ve devreye alma hizmetlerini uçtan uca sunuyoruz."
+        }
+      ],
+      "specsTitle": "Teknik Özellikler",
+      "specsLead": "Reaktörler temel teknik parametreleri."
+    },
+    "en": {
+      "seoTitle": "Reactors | Aydınox",
+      "seoDescription": "Chemical reaction processes.",
+      "keywords": [
+        "Reactors",
+        "Reactors and Mixers",
+        "stainless steel",
+        "Aydınox"
+      ],
+      "heroDescription": "Chemical reaction processes.",
+      "chips": [
+        "Stainless steel material",
+        "Hygienic design",
+        "TSE standard compliant",
+        "Project-specific capacity"
+      ],
+      "intro": [
+        "Stainless steel reactor systems designed according to process requirements.",
+        "Our reactors solutions in the Reactors and Mixers category are designed for food, pharmaceutical, chemical and cosmetic industries."
+      ],
+      "highlights": [
+        {
+          "icon": "lucide:shield-check",
+          "title": "Stainless steel material",
+          "text": "Stainless steel material is a cornerstone of our standards in Reactors projects."
+        },
+        {
+          "icon": "lucide:settings",
+          "title": "Hygienic design",
+          "text": "Hygienic design is a cornerstone of our standards in Reactors projects."
+        },
+        {
+          "icon": "lucide:factory",
+          "title": "TSE standard compliant",
+          "text": "TSE standard compliant is a cornerstone of our standards in Reactors projects."
+        },
+        {
+          "icon": "lucide:badge-check",
+          "title": "Project-specific capacity",
+          "text": "Project-specific capacity is a cornerstone of our standards in Reactors projects."
+        }
+      ],
+      "specs": [
+        [
+          "Material",
+          "Stainless steel (304/316L)"
+        ],
+        [
+          "Standard",
+          "TSE / industry hygiene requirements"
+        ],
+        [
+          "Capacity",
+          "Project-specific"
+        ],
+        [
+          "Category",
+          "Reactors and Mixers"
+        ],
+        [
+          "Application",
+          "Food, pharma, chemical, cosmetic"
+        ]
+      ],
+      "usesTitle": "Application Areas",
+      "usesLead": "Where is Reactors preferred?",
+      "uses": [
+        {
+          "title": "Food Industry",
+          "text": "Storage and production applications in hygienic process lines."
+        },
+        {
+          "title": "Pharmaceutical Industry",
+          "text": "GMP-compliant sterile process and storage systems."
+        },
+        {
+          "title": "Chemical Industry",
+          "text": "Chemical reaction and storage processes."
+        }
+      ],
+      "faqTitle": "Frequently Asked Questions",
+      "faqLead": "Common questions about Reactors.",
+      "faq": [
+        {
+          "q": "What material is used for Reactors?",
+          "a": "304 or 316L stainless steel is selected based on process conditions. 316L is generally recommended for food and pharmaceutical applications."
+        },
+        {
+          "q": "What is the delivery time?",
+          "a": "It varies depending on capacity and project complexity. A clear delivery schedule is shared during the quote phase."
+        },
+        {
+          "q": "Do you provide assembly services?",
+          "a": "Yes. We offer end-to-end production, on-site assembly, piping installation and commissioning services."
+        }
+      ],
+      "specsTitle": "Technical Specifications",
+      "specsLead": "Reactors key technical parameters."
+    }
+  }
+}

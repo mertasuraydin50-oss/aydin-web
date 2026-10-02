@@ -1,0 +1,203 @@
+{
+  "id": "basincli-tanklar",
+  "translations": {
+    "tr": {
+      "seoTitle": "Basınçlı Tanklar | Aydınox",
+      "seoDescription": "Basınçlı proses uygulamaları.",
+      "keywords": [
+        "Basınçlı Tanklar",
+        "Paslanmaz Çelik Tanklar",
+        "paslanmaz çelik",
+        "Aydınox"
+      ],
+      "heroDescription": "Basınçlı proses uygulamaları.",
+      "chips": [
+        "Paslanmaz çelik malzeme",
+        "Hijyenik tasarım",
+        "TSE standartlarına uygun",
+        "Projeye özel kapasite"
+      ],
+      "intro": [
+        "Basınç gerektiren prosesler için güvenli tank çözümleri.",
+        "Paslanmaz Çelik Tanklar kategorisinde basınçlı tanklar çözümlerimiz gıda, ilaç, kimya ve kozmetik sektörlerine uygun olarak tasarlanır."
+      ],
+      "highlights": [
+        {
+          "icon": "lucide:shield-check",
+          "title": "Paslanmaz çelik malzeme",
+          "text": "Basınçlı Tanklar projelerinde paslanmaz çelik malzeme standartlarımızın temelidir."
+        },
+        {
+          "icon": "lucide:settings",
+          "title": "Hijyenik tasarım",
+          "text": "Basınçlı Tanklar projelerinde hijyenik tasarım standartlarımızın temelidir."
+        },
+        {
+          "icon": "lucide:factory",
+          "title": "TSE standartlarına uygun",
+          "text": "Basınçlı Tanklar projelerinde tse standartlarına uygun standartlarımızın temelidir."
+        },
+        {
+          "icon": "lucide:badge-check",
+          "title": "Projeye özel kapasite",
+          "text": "Basınçlı Tanklar projelerinde projeye özel kapasite standartlarımızın temelidir."
+        }
+      ],
+      "specs": [
+        [
+          "Malzeme",
+          "Paslanmaz çelik (304/316L)"
+        ],
+        [
+          "Standart",
+          "TSE / sektörel hijyen gereksinimleri"
+        ],
+        [
+          "Kapasite",
+          "Projeye özel"
+        ],
+        [
+          "Kategori",
+          "Paslanmaz Çelik Tanklar"
+        ],
+        [
+          "Uygulama",
+          "Gıda, ilaç, kimya, kozmetik"
+        ]
+      ],
+      "usesTitle": "Kullanım Alanları",
+      "usesLead": "Basınçlı Tanklar hangi proseslerde tercih edilir?",
+      "uses": [
+        {
+          "title": "Gıda Sanayi",
+          "text": "Hijyenik proses hatlarında depolama ve üretim uygulamaları."
+        },
+        {
+          "title": "İlaç Sanayi",
+          "text": "GMP uyumlu steril proses ve depolama sistemleri."
+        },
+        {
+          "title": "Kimya Sanayi",
+          "text": "Kimyasal reaksiyon ve depolama prosesleri."
+        }
+      ],
+      "faqTitle": "Sık Sorulan Sorular",
+      "faqLead": "Basınçlı Tanklar hakkında merak edilenler.",
+      "faq": [
+        {
+          "q": "Basınçlı Tanklar için hangi malzeme kullanılır?",
+          "a": "Proses koşullarına göre 304 veya 316L paslanmaz çelik tercih edilir. Gıda ve ilaç uygulamalarında genellikle 316L önerilir."
+        },
+        {
+          "q": "Teslim süresi ne kadardır?",
+          "a": "Kapasite ve proje karmaşıklığına göre değişir. Teklif aşamasında net teslim takvimi paylaşılır."
+        },
+        {
+          "q": "Montaj hizmeti veriyor musunuz?",
+          "a": "Evet. Üretim, saha montajı, tesisat kurulumu ve devreye alma hizmetlerini uçtan uca sunuyoruz."
+        }
+      ],
+      "specsTitle": "Teknik Özellikler",
+      "specsLead": "Basınçlı Tanklar temel teknik parametreleri."
+    },
+    "en": {
+      "seoTitle": "Pressure Tanks | Aydınox",
+      "seoDescription": "Pressurized process applications.",
+      "keywords": [
+        "Pressure Tanks",
+        "Stainless Steel Tanks",
+        "stainless steel",
+        "Aydınox"
+      ],
+      "heroDescription": "Pressurized process applications.",
+      "chips": [
+        "Stainless steel material",
+        "Hygienic design",
+        "TSE standard compliant",
+        "Project-specific capacity"
+      ],
+      "intro": [
+        "Safe tank solutions for processes requiring pressure.",
+        "Our pressure tanks solutions in the Stainless Steel Tanks category are designed for food, pharmaceutical, chemical and cosmetic industries."
+      ],
+      "highlights": [
+        {
+          "icon": "lucide:shield-check",
+          "title": "Stainless steel material",
+          "text": "Stainless steel material is a cornerstone of our standards in Pressure Tanks projects."
+        },
+        {
+          "icon": "lucide:settings",
+          "title": "Hygienic design",
+          "text": "Hygienic design is a cornerstone of our standards in Pressure Tanks projects."
+        },
+        {
+          "icon": "lucide:factory",
+          "title": "TSE standard compliant",
+          "text": "TSE standard compliant is a cornerstone of our standards in Pressure Tanks projects."
+        },
+        {
+          "icon": "lucide:badge-check",
+          "title": "Project-specific capacity",
+          "text": "Project-specific capacity is a cornerstone of our standards in Pressure Tanks projects."
+        }
+      ],
+      "specs": [
+        [
+          "Material",
+          "Stainless steel (304/316L)"
+        ],
+        [
+          "Standard",
+          "TSE / industry hygiene requirements"
+        ],
+        [
+          "Capacity",
+          "Project-specific"
+        ],
+        [
+          "Category",
+          "Stainless Steel Tanks"
+        ],
+        [
+          "Application",
+          "Food, pharma, chemical, cosmetic"
+        ]
+      ],
+      "usesTitle": "Application Areas",
+      "usesLead": "Where is Pressure Tanks preferred?",
+      "uses": [
+        {
+          "title": "Food Industry",
+          "text": "Storage and production applications in hygienic process lines."
+        },
+        {
+          "title": "Pharmaceutical Industry",
+          "text": "GMP-compliant sterile process and storage systems."
+        },
+        {
+          "title": "Chemical Industry",
+          "text": "Chemical reaction and storage processes."
+        }
+      ],
+      "faqTitle": "Frequently Asked Questions",
+      "faqLead": "Common questions about Pressure Tanks.",
+      "faq": [
+        {
+          "q": "What material is used for Pressure Tanks?",
+          "a": "304 or 316L stainless steel is selected based on process conditions. 316L is generally recommended for food and pharmaceutical applications."
+        },
+        {
+          "q": "What is the delivery time?",
+          "a": "It varies depending on capacity and project complexity. A clear delivery schedule is shared during the quote phase."
+        },
+        {
+          "q": "Do you provide assembly services?",
+          "a": "Yes. We offer end-to-end production, on-site assembly, piping installation and commissioning services."
+        }
+      ],
+      "specsTitle": "Technical Specifications",
+      "specsLead": "Pressure Tanks key technical parameters."
+    }
+  }
+}

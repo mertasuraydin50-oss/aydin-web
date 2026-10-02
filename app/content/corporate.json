@@ -1,0 +1,286 @@
+[
+  {
+    "id": "hakkimizda",
+    "slugs": {
+      "tr": "hakkimizda",
+      "en": "about-us"
+    },
+    "shared": {
+      "layout": "about"
+    },
+    "translations": {
+      "tr": {
+        "title": "Hakkımızda",
+        "badge": "Kurumsal",
+        "description": "Aydınox Proses Makine, paslanmaz çelik proses ekipmanları ve tesis kurulumu alanında güvenilir bir çözüm ortağıdır.",
+        "sections": [
+          {
+            "heading": "Biz Kimiz?",
+            "body": "Aydınox Proses Makine, proses, makine, imalat, tank ve fabrika kurulumu alanlarında proje tasarım, üretim, montaj ve servis hizmetleri sunan global odaklı bir üreticidir."
+          },
+          {
+            "heading": "Ne Yapıyoruz?",
+            "body": "Paslanmaz çelik tanklar, reaktörler, karıştırıcılar, filtreler, etüv uygulamaları ve müşteri talebine özel makineler üretiyor; tesisat montaj ve otomasyon hizmetleriyle projeleri uçtan uca tamamlıyoruz."
+          }
+        ]
+      },
+      "en": {
+        "title": "About Us",
+        "badge": "Corporate",
+        "description": "Aydınox Process Machinery is a trusted partner in stainless steel process equipment and plant installation.",
+        "sections": [
+          {
+            "heading": "Who We Are",
+            "body": "Aydınox Process Machinery is a globally focused manufacturer offering project design, production, assembly and service in process, machinery, manufacturing, tanks and plant installation."
+          },
+          {
+            "heading": "What We Do",
+            "body": "We manufacture stainless steel tanks, reactors, mixers, filters, oven applications and custom machines; we complete projects end-to-end with piping assembly and automation services."
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "misyon-vizyon",
+    "slugs": {
+      "tr": "misyon-vizyon",
+      "en": "mission-vision"
+    },
+    "shared": {
+      "layout": "mission"
+    },
+    "translations": {
+      "tr": {
+        "title": "Misyon & Vizyon",
+        "badge": "Kurumsal",
+        "description": "Kaliteli, güvenilir ve yenilikçi üretim çözümleriyle sektörde öncü olma hedefimiz.",
+        "sections": [
+          {
+            "heading": "Misyonumuz",
+            "body": "Müşterilerimize kaliteli, güvenilir ve yenilikçi üretim ve mühendislik çözümleri sunarak işlerini daha verimli hale getirmeyi ve başarılarını artırmayı hedefliyoruz."
+          },
+          {
+            "heading": "Vizyonumuz",
+            "body": "Proses makine ve paslanmaz çelik ekipman üretiminde Türkiye'nin ve bölgenin tercih edilen, teknolojide lider üreticilerinden biri olmak."
+          }
+        ]
+      },
+      "en": {
+        "title": "Mission & Vision",
+        "badge": "Corporate",
+        "description": "Our goal is to be a leader in the industry with quality, reliable and innovative production solutions.",
+        "sections": [
+          {
+            "heading": "Our Mission",
+            "body": "We aim to make our customers' businesses more efficient and increase their success by providing quality, reliable and innovative production and engineering solutions."
+          },
+          {
+            "heading": "Our Vision",
+            "body": "To be one of Turkey's and the region's preferred, technology-leading manufacturers in process machinery and stainless steel equipment production."
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "kalite-politikasi",
+    "slugs": {
+      "tr": "kalite-politikasi",
+      "en": "quality-policy"
+    },
+    "shared": {
+      "layout": "quality"
+    },
+    "translations": {
+      "tr": {
+        "title": "Kalite Politikası",
+        "badge": "Kurumsal",
+        "description": "Kanunlara, yasal düzenlemelere ve müşteri beklentilerine tam uyumlu kaliteli üretim.",
+        "sections": [
+          {
+            "heading": "Kalite Anlayışımız",
+            "body": "Kalite politikamız; kanunlara ve yasal düzenlemelere titizlikle uyarak, topluma, doğal çevreye ve insanlığa yararlı olma hassasiyetini göstererek, müşterilerimizin ihtiyaç ve beklentilerini karşılayacak kaliteli ve güvenli ürünler üretmektir."
+          },
+          {
+            "heading": "Standartlar",
+            "body": "TSE standartlarında üretim yapıyor; gıda, ilaç, kozmetik ve kimya sektörlerinin hijyenik sistem gereksinimlerine uygun ekipman ve tesisat çözümleri sunuyoruz."
+          }
+        ]
+      },
+      "en": {
+        "title": "Quality Policy",
+        "badge": "Corporate",
+        "description": "Quality production fully compliant with laws, regulations and customer expectations.",
+        "sections": [
+          {
+            "heading": "Our Quality Approach",
+            "body": "Our quality policy is to produce quality and safe products that meet our customers' needs and expectations, while strictly complying with laws and regulations and showing sensitivity to society, the environment and humanity."
+          },
+          {
+            "heading": "Standards",
+            "body": "We manufacture in accordance with TSE standards; we offer equipment and piping solutions suitable for the hygienic system requirements of food, pharmaceutical, cosmetic and chemical industries."
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "belgeler",
+    "slugs": {
+      "tr": "belgeler",
+      "en": "certificates"
+    },
+    "shared": {
+      "layout": "documents"
+    },
+    "translations": {
+      "tr": {
+        "title": "Belgeler",
+        "badge": "Kurumsal",
+        "description": "Kalite, güvenlik ve uygunluk belgelerimiz.",
+        "sections": [
+          {
+            "heading": "Sertifikalar & Uygunluk",
+            "body": "Ürün ve hizmetlerimiz ilgili teknik standartlara uygun olarak üretilmektedir. Güncel belge listesi talep üzerine paylaşılmaktadır."
+          },
+          {
+            "heading": "Teknik Dokümantasyon",
+            "body": "Montaj kılavuzları, proses şemaları ve proje dokümanları teknik ekibimiz tarafından hazırlanmaktadır."
+          }
+        ]
+      },
+      "en": {
+        "title": "Certificates",
+        "badge": "Corporate",
+        "description": "Our quality, safety and compliance certificates.",
+        "sections": [
+          {
+            "heading": "Certificates & Compliance",
+            "body": "Our products and services are manufactured in accordance with relevant technical standards. The current certificate list is shared upon request."
+          },
+          {
+            "heading": "Technical Documentation",
+            "body": "Assembly manuals, process diagrams and project documents are prepared by our technical team."
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "insan-kaynaklari",
+    "slugs": {
+      "tr": "insan-kaynaklari",
+      "en": "human-resources"
+    },
+    "shared": {
+      "layout": "careers"
+    },
+    "translations": {
+      "tr": {
+        "title": "İnsan Kaynakları",
+        "badge": "Kurumsal",
+        "description": "Aydınox ailesine katılmak ister misiniz?",
+        "sections": [
+          {
+            "heading": "Ekibimize Katılın",
+            "body": "Üretim, proje mühendisliği, montaj, satış ve operasyon alanlarında deneyimli veya kariyer hedefleyen adayları ekibimize dahil etmekten memnuniyet duyarız."
+          },
+          {
+            "heading": "Başvuru",
+            "body": "Özgeçmişinizi info@aydinox.com.tr adresine gönderebilir veya iletişim formu üzerinden bize ulaşabilirsiniz."
+          }
+        ]
+      },
+      "en": {
+        "title": "Human Resources",
+        "badge": "Corporate",
+        "description": "Would you like to join the Aydınox family?",
+        "sections": [
+          {
+            "heading": "Join Our Team",
+            "body": "We are pleased to include experienced candidates or those pursuing a career in production, project engineering, assembly, sales and operations."
+          },
+          {
+            "heading": "Application",
+            "body": "You can send your CV to info@aydinox.com.tr or contact us through the contact form."
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "kvkk",
+    "slugs": {
+      "tr": "kvkk",
+      "en": "privacy-notice"
+    },
+    "shared": {
+      "layout": "legal"
+    },
+    "translations": {
+      "tr": {
+        "title": "KVKK Aydınlatma Metni",
+        "badge": "Yasal",
+        "description": "6698 sayılı Kişisel Verilerin Korunması Kanunu kapsamında veri işleme faaliyetlerimize ilişkin aydınlatma metni.",
+        "sections": [
+          {
+            "heading": "1. Veri sorumlusu",
+            "body": "6698 sayılı Kişisel Verilerin Korunması Kanunu (KVKK) md. 10 uyarınca kişisel verileriniz; Aydınox Proses Makine tarafından veri sorumlusu sıfatıyla işlenmektedir.\n\nUnvan: Aydınox Proses Makine\nAdres: Balçık Mah. Mustafa Kemal Cad. Çam Sokak No: 5, Gebze-Kocaeli\nE-posta: info@aydinox.com.tr\nTelefon: +90 262 751 43 07"
+          },
+          {
+            "heading": "2. Kapsam",
+            "body": "Bu metin; web sitesi ziyaretçileri, teklif ve iletişim formu dolduranlar, telefon veya e-posta ile ulaşanlar ve İnsan Kaynakları üzerinden özgeçmiş ileten adaylar için geçerlidir."
+          },
+          {
+            "heading": "3. İşlenen kişisel veriler",
+            "body": "Kimlik: ad soyad.\nİletişim: telefon, e-posta.\nMüşteri işlem: firma adı, talep türü, ürün/hizmet grubu.\nProje: şehir, proje detayları, serbest metin notlar.\nİnsan kaynakları: özgeçmiş ve e-postada paylaşılan bilgiler.\nİşlem güvenliği: IP adresi, form gönderim zamanı, KVKK onay kaydı."
+          },
+          {
+            "heading": "4. İşleme amaçları",
+            "body": "Teklif hazırlamak; üretim, montaj ve mühendislik süreçlerini yürütmek; müşteri ilişkileri ve şikayet takibi; iş başvurusunu değerlendirmek; yasal yükümlülükleri yerine getirmek; sitenin güvenliğini sağlamak."
+          },
+          {
+            "heading": "5. Hukuki sebepler",
+            "body": "KVKK md. 5 kapsamında sözleşmenin kurulması veya ifası, hukuki yükümlülük, meşru menfaat ve açık rıza hukuki sebeplerine dayanılarak işlenmektedir."
+          },
+          {
+            "heading": "6. Haklarınız",
+            "body": "KVKK md. 11 kapsamında; verilerinizin işlenip işlenmediğini öğrenme, bilgi talep etme, düzeltme, silme ve zararın giderilmesini talep etme haklarına sahipsiniz.\n\nBaşvurularınızı info@aydinox.com.tr adresine iletebilirsiniz."
+          }
+        ]
+      },
+      "en": {
+        "title": "Privacy Notice (KVKK)",
+        "badge": "Legal",
+        "description": "Notice under Turkish Personal Data Protection Law No. 6698 on data processing activities.",
+        "sections": [
+          {
+            "heading": "1. Data controller",
+            "body": "Under Article 10 of Law No. 6698 on the Protection of Personal Data (KVKK), your personal data is processed by Aydınox Process Machinery as data controller.\n\nAddress: Balçık Mah. Mustafa Kemal Cad. Çam Sokak No: 5, Gebze-Kocaeli\nEmail: info@aydinox.com.tr\nPhone: +90 262 751 43 07"
+          },
+          {
+            "heading": "2. Scope",
+            "body": "This notice covers website visitors, people who submit quote or contact forms, those who reach us by phone or email, and candidates who send a CV via Human Resources."
+          },
+          {
+            "heading": "3. Personal data processed",
+            "body": "Identity: name.\nContact: phone, email.\nCustomer transaction: company name, request type, product/service group.\nProject: city, project details, free-text notes.\nCareers: CV and information shared in email.\nTransaction security: IP address, form submit time, privacy consent record."
+          },
+          {
+            "heading": "4. Purposes of processing",
+            "body": "Preparing quotes; running production, assembly and engineering processes; client relations and complaints; assessing job applications; meeting legal duties; keeping the site secure."
+          },
+          {
+            "heading": "5. Legal bases",
+            "body": "Processing is based on contract formation or performance, legal obligation, legitimate interest and explicit consent under KVKK Art. 5."
+          },
+          {
+            "heading": "6. Your rights",
+            "body": "Under KVKK Art. 11 you may learn whether your data is processed, request information, correction, deletion and compensation for damage.\n\nYou may submit requests to info@aydinox.com.tr."
+          }
+        ]
+      }
+    }
+  }
+]

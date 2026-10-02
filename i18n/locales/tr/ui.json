@@ -1,0 +1,188 @@
+{
+  "language": {
+    "label": "Dil",
+    "tr": "TR",
+    "en": "EN",
+    "switchTo": "Dili değiştir"
+  },
+  "brand": {
+    "name": "Aydınox Proses Makine",
+    "shortName": "Aydınox",
+    "tagline": "İnovasyon ve Güvenlik Garantisi",
+    "description": "Paslanmaz çelik proses ekipmanları, tank üretimi, tesis kurulumu ve mühendislik çözümleri sunan güvenilir üretim partneriniz."
+  },
+  "nav": {
+    "products": "Ürünler",
+    "services": "Hizmetler",
+    "corporate": "Kurumsal",
+    "gallery": "Galeri",
+    "blog": "Blog",
+    "contact": "İletişim",
+    "quote": "Teklif Al",
+    "quoteNow": "Hemen Teklif Al",
+    "allProducts": "Tüm Ürünleri Görüntüle",
+    "allServices": "Tüm Hizmetleri Görüntüle",
+    "about": "Hakkımızda",
+    "mission": "Misyon & Vizyon",
+    "quality": "Kalite Politikası",
+    "documents": "Belgeler",
+    "careers": "İnsan Kaynakları",
+    "kvkk": "KVKK",
+    "faq": "SSS",
+    "home": "Ana Sayfa"
+  },
+  "common": {
+    "readMore": "Detayları Gör",
+    "detail": "Detay",
+    "read": "Oku",
+    "readArticle": "Yazıyı oku",
+    "callUs": "Bizi Arayın",
+    "contactUs": "İletişime Geç",
+    "phone": "Telefon",
+    "email": "E-posta",
+    "address": "Adres",
+    "close": "Kapat",
+    "notFound": "Sayfa bulunamadı",
+    "productNotFound": "Ürün bulunamadı",
+    "serviceNotFound": "Hizmet bulunamadı",
+    "postNotFound": "Yazı bulunamadı"
+  },
+  "home": {
+    "heroTitle": "Üretiminizde",
+    "heroCtaContact": "Bize Ulaşın",
+    "heroCtaProducts": "Ürünleri İncele",
+    "productsBadge": "Ürünler",
+    "productsTitle": "Proses Ekipmanları ve Makineler",
+    "productsAll": "Tüm Ürünleri İncele",
+    "referencesTitle": "Referans Projelerimiz",
+    "corporateBadge": "Kurumsal",
+    "corporateTitle": "Kalite",
+    "corporateTitleHighlight": "Her Prosesde",
+    "corporateTitleEnd": "Başlar",
+    "corporateBody": "Aydınox Proses Makine olarak paslanmaz çelik tanklar, reaktörler, karıştırıcılar, filtreler ve özel tasarım makineler üretiyor; tesis kurulum ve montaj hizmetleriyle gıda, ilaç, kimya ve kozmetik sektörlerine çözüm ortaklığı sunuyoruz.",
+    "corporateLink": "Hakkımızda",
+    "servicesBadge": "Hizmetler",
+    "servicesTitle": "Uçtan Uca Proses Çözümleri",
+    "servicesCtaTitle": "Projeniz İçin Teklif Alın",
+    "servicesCtaBody": "Uzman ekibimiz size en uygun çözümü planlasın.",
+    "sectorsBadge": "Sektörler",
+    "sectorsTitle": "Hizmet Verdiğimiz Sektörler",
+    "statsBadge": "Rakamlar",
+    "statsTitle": "Sayılarla Aydınox",
+    "blogBadge": "Blog",
+    "blogTitle": "Sektörel İçerikler",
+    "blogAll": "Tüm Yazılar",
+    "ctaTitle": "Proses Ekipmanı ve Tesis Kurulumu İçin Bizimle İletişime Geçin",
+    "ctaBody": "Proje tasarım, üretim, montaj ve servis hizmetlerimiz hakkında bilgi almak için bize ulaşın."
+  },
+  "products": {
+    "badge": "Ürünler",
+    "title": "Proses Ekipmanları",
+    "description": "Paslanmaz çelik tank, reaktör, karıştırıcı ve özel makine çözümlerimizi keşfedin.",
+    "detailBadge": "Ürün Detay",
+    "related": "İlgili Ürünler",
+    "quoteFor": "{name} için teklif alın",
+    "breadcrumb": "Ürünler"
+  },
+  "services": {
+    "badge": "Hizmetler",
+    "title": "Hizmetlerimiz",
+    "description": "Proje tasarımdan montaja, bakımdan otomasyona kadar uçtan uca hizmetler.",
+    "detailBadge": "Hizmetler",
+    "requestService": "Hizmet Talep Et",
+    "otherServices": "Diğer Hizmetler",
+    "quoteFor": "{name} için iletişime geçin"
+  },
+  "corporate": {
+    "sectionTitle": "Kurumsal",
+    "productionTitle": "Üretim ve Uygulama",
+    "productionLabel": "Üretim {n}"
+  },
+  "blog": {
+    "badge": "Blog",
+    "title": "Blog",
+    "description": "Proses ekipmanları, hijyenik sistemler ve sektörel içerikler.",
+    "otherPosts": "Diğer Yazılar"
+  },
+  "gallery": {
+    "badge": "Galeri",
+    "title": "Proje Galerisi",
+    "description": "Üretim, montaj ve tesis kurulum projelerimizden görseller."
+  },
+  "contact": {
+    "badge": "İletişim",
+    "title": "Bize Ulaşın",
+    "description": "Proje tasarım, üretim, montaj veya teknik destek için ekibimizle iletişime geçin.",
+    "formTitle": "Teklif Formu",
+    "formPlaceholder": "Form alanı yakında eklenecek. Şimdilik telefon veya e-posta ile ulaşabilirsiniz.",
+    "mapPlaceholder": "Harita / Form Alanı"
+  },
+  "cta": {
+    "title": "Projeniz İçin Teklif Alın",
+    "description": "Uzman ekibimiz proses ekipmanı ve tesis kurulum çözümünü birlikte planlasın.",
+    "quote": "Teklif Al",
+    "call": "Bizi Arayın"
+  },
+  "footer": {
+    "products": "Ürünler",
+    "services": "Hizmetler",
+    "contactUs": "Bize Ulaşın",
+    "corporate": "Kurumsal",
+    "rights": "Tüm hakları saklıdır."
+  },
+  "faqPage": {
+    "badge": "SSS",
+    "title": "Sıkça Sorulan Sorular",
+    "description": "Proses ekipmanları, tank üretimi ve hizmetlerimiz hakkında sık sorulan sorular.",
+    "keywords": "paslanmaz çelik tank, proses ekipmanları, SSS, Aydınox, tesis kurulumu",
+    "searchPlaceholder": "Soru ara...",
+    "results": "{n} sonuç bulundu"
+  },
+  "search": {
+    "label": "Site araması",
+    "placeholder": "Ürün, hizmet veya blog ara...",
+    "placeholderHero": "Ne arıyorsunuz?",
+    "button": "Ara",
+    "empty": "Sonuç bulunamadı.",
+    "seeAll": "Tüm sonuçları gör",
+    "pageTitle": "Arama Sonuçları",
+    "pageDescription": "Ürünler, hizmetler, blog yazıları ve kurumsal sayfalar arasında arayın.",
+    "pageLead": "\"{q}\" için {n} sonuç",
+    "kinds": {
+      "product": "Ürün",
+      "category": "Kategori",
+      "service": "Hizmet",
+      "blog": "Blog",
+      "page": "Sayfa"
+    }
+  },
+  "quotePage": {
+    "badge": "Teklif",
+    "title": "Teklif Alın",
+    "description": "Projeniz için paslanmaz çelik proses ekipmanı ve tesis kurulum teklifi alın.",
+    "formNote": "Form alanı yakında aktif olacaktır. Şimdilik telefon veya e-posta ile ulaşabilirsiniz.",
+    "fields": {
+      "name": "Ad Soyad",
+      "company": "Firma",
+      "phone": "Telefon",
+      "email": "E-posta",
+      "message": "Proje Detayları"
+    }
+  },
+  "blogPage": {
+    "readTime": "{n} dk okuma",
+    "faqTitle": "Sık Sorulan Sorular",
+    "relatedArticles": "İlgili Yazılar"
+  },
+  "articleCta": {
+    "title": "Projeniz İçin Teklif Alın",
+    "body": "Paslanmaz çelik proses ekipmanı ve tesis kurulum projeleriniz için uzman ekibimizle iletişime geçin."
+  },
+  "corporatePage": {
+    "valuesTitle": "Değerlerimiz",
+    "rolesTitle": "Açık Pozisyonlar",
+    "certificatesTitle": "Sertifikalar",
+    "applyTitle": "Başvuru",
+    "applyBody": "Özgeçmişinizi info{'@'}aydinox.com.tr adresine gönderebilirsiniz."
+  }
+}

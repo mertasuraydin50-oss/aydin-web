@@ -1,0 +1,171 @@
+{
+  "id": "bakim-servis",
+  "translations": {
+    "tr": {
+      "seoTitle": "Bakım ve Servis | Aydınox",
+      "seoDescription": "Periyodik bakım, revizyon ve teknik destek hizmetleri.",
+      "keywords": [
+        "Bakım ve Servis",
+        "Aydınox",
+        "proses ekipmanı"
+      ],
+      "h1": "Bakım ve Servis",
+      "asideLabel": "Hizmet Detayı",
+      "heroDescription": "Periyodik bakım, revizyon ve teknik destek hizmetleri.",
+      "chips": [
+        "Periyodik bakım",
+        "Yedek parça",
+        "Acil müdahale",
+        "Teknik danışmanlık"
+      ],
+      "intro": [
+        "Kurulan sistemlerin uzun ömürlü ve güvenli çalışması için bakım, revizyon ve teknik servis desteği sunuyoruz.",
+        "Aydınox olarak proses ekipmanı ve tesis kurulum projelerinde uçtan uca hizmet sunuyoruz."
+      ],
+      "highlights": [
+        {
+          "icon": "lucide:drafting-compass",
+          "title": "Periyodik bakım",
+          "text": "Periyodik bakım kapsamında deneyimli ekibimizle hizmet veriyoruz."
+        },
+        {
+          "icon": "lucide:factory",
+          "title": "Yedek parça",
+          "text": "Yedek parça kapsamında deneyimli ekibimizle hizmet veriyoruz."
+        },
+        {
+          "icon": "lucide:hard-hat",
+          "title": "Acil müdahale",
+          "text": "Acil müdahale kapsamında deneyimli ekibimizle hizmet veriyoruz."
+        },
+        {
+          "icon": "lucide:wrench",
+          "title": "Teknik danışmanlık",
+          "text": "Teknik danışmanlık kapsamında deneyimli ekibimizle hizmet veriyoruz."
+        }
+      ],
+      "processTitle": "Süreç Nasıl İlerler?",
+      "processLead": "Projelerimizde izlediğimiz standart adımlar.",
+      "process": [
+        {
+          "title": "Keşif ve Analiz",
+          "text": "Proses ihtiyaçları, kapasite ve saha koşulları değerlendirilir."
+        },
+        {
+          "title": "Tasarım ve Planlama",
+          "text": "Teknik çizim, kapasite hesabı ve proje planı hazırlanır."
+        },
+        {
+          "title": "Üretim / Uygulama",
+          "text": "Atölye üretimi veya saha uygulaması gerçekleştirilir."
+        },
+        {
+          "title": "Devreye Alma",
+          "text": "Test, kalite kontrol ve teslim süreci tamamlanır."
+        }
+      ],
+      "includedTitle": "Hizmet Kapsamı",
+      "included": [
+        "Periyodik bakım",
+        "Yedek parça",
+        "Acil müdahale",
+        "Teknik danışmanlık"
+      ],
+      "faqTitle": "Sık Sorulan Sorular",
+      "faqLead": "Bakım ve Servis hakkında merak edilenler.",
+      "faq": [
+        {
+          "q": "Bakım ve Servis için nasıl teklif alabilirim?",
+          "a": "İletişim formu veya telefon ile bize ulaşabilirsiniz. Proje detaylarını paylaştıktan sonra teknik ekibimiz teklif hazırlar."
+        },
+        {
+          "q": "Hangi sektörlere hizmet veriyorsunuz?",
+          "a": "Gıda, ilaç, kimya ve kozmetik sektörlerine proses ekipmanı ve tesis kurulum hizmetleri sunuyoruz."
+        }
+      ]
+    },
+    "en": {
+      "seoTitle": "Maintenance and Service | Aydınox",
+      "seoDescription": "Periodic maintenance, overhaul and technical support services.",
+      "keywords": [
+        "Maintenance and Service",
+        "Aydınox",
+        "process equipment"
+      ],
+      "h1": "Maintenance and Service",
+      "asideLabel": "Service Detail",
+      "heroDescription": "Periodic maintenance, overhaul and technical support services.",
+      "chips": [
+        "Periodic maintenance",
+        "Spare parts",
+        "Emergency response",
+        "Technical consulting"
+      ],
+      "intro": [
+        "We provide maintenance, overhaul and technical service support for long-lasting and safe operation of installed systems.",
+        "At Aydınox, we provide end-to-end services in process equipment and plant installation projects."
+      ],
+      "highlights": [
+        {
+          "icon": "lucide:drafting-compass",
+          "title": "Periodic maintenance",
+          "text": "We serve with our experienced team in Periodic maintenance."
+        },
+        {
+          "icon": "lucide:factory",
+          "title": "Spare parts",
+          "text": "We serve with our experienced team in Spare parts."
+        },
+        {
+          "icon": "lucide:hard-hat",
+          "title": "Emergency response",
+          "text": "We serve with our experienced team in Emergency response."
+        },
+        {
+          "icon": "lucide:wrench",
+          "title": "Technical consulting",
+          "text": "We serve with our experienced team in Technical consulting."
+        }
+      ],
+      "processTitle": "How Does the Process Work?",
+      "processLead": "Standard steps we follow in our projects.",
+      "process": [
+        {
+          "title": "Survey and Analysis",
+          "text": "Process requirements, capacity and site conditions are evaluated."
+        },
+        {
+          "title": "Design and Planning",
+          "text": "Technical drawings, capacity calculation and project plan are prepared."
+        },
+        {
+          "title": "Production / Application",
+          "text": "Workshop production or on-site application is carried out."
+        },
+        {
+          "title": "Commissioning",
+          "text": "Testing, quality control and delivery process is completed."
+        }
+      ],
+      "includedTitle": "Service Scope",
+      "included": [
+        "Periodic maintenance",
+        "Spare parts",
+        "Emergency response",
+        "Technical consulting"
+      ],
+      "faqTitle": "Frequently Asked Questions",
+      "faqLead": "Common questions about Maintenance and Service.",
+      "faq": [
+        {
+          "q": "How can I get a quote for Maintenance and Service?",
+          "a": "You can reach us via the contact form or phone. Our technical team prepares a quote after you share project details."
+        },
+        {
+          "q": "Which industries do you serve?",
+          "a": "We provide process equipment and plant installation services to food, pharmaceutical, chemical and cosmetic industries."
+        }
+      ]
+    }
+  }
+}

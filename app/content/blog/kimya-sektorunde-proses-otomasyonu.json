@@ -1,0 +1,52 @@
+{
+  "id": "kimya-sektorunde-proses-otomasyonu",
+  "slugs": {
+    "tr": "kimya-sektorunde-proses-otomasyonu",
+    "en": "process-automation-chemical-industry"
+  },
+  "shared": {
+    "date": "2025-11-18"
+  },
+  "translations": {
+    "tr": {
+      "title": "Kimya Sektöründe Proses Otomasyonu",
+      "excerpt": "Otomasyon entegrasyonunun üretim verimliliğine etkisi.",
+      "category": "Otomasyon",
+      "body": "Proses otomasyonu, üretim hatlarında tutarlılık, izlenebilirlik ve verimlilik sağlar.\n\nSensör, PLC ve SCADA entegrasyonu ile gerçek zamanlı proses kontrolü mümkündür.\n\nAydınox, ekipman üretiminin yanı sıra otomasyon entegrasyonu hizmeti de sunmaktadır.",
+      "seoTitle": "Kimya Sektöründe Proses Otomasyonu | Aydınox",
+      "keywords": [
+        "Otomasyon",
+        "Aydınox"
+      ],
+      "tags": [
+        "Otomasyon"
+      ],
+      "faq": [
+        {
+          "q": "Teklif almak için ne yapmalıyım?",
+          "a": "İletişim formu veya telefon ile bize ulaşabilirsiniz."
+        }
+      ]
+    },
+    "en": {
+      "title": "Process Automation in the Chemical Industry",
+      "excerpt": "The impact of automation integration on production efficiency.",
+      "category": "Automation",
+      "body": "Process automation provides consistency, traceability and efficiency in production lines.\n\nReal-time process control is possible with sensor, PLC and SCADA integration.\n\nAydınox offers automation integration services in addition to equipment manufacturing.",
+      "seoTitle": "Process Automation in the Chemical Industry | Aydınox",
+      "keywords": [
+        "Automation",
+        "Aydınox"
+      ],
+      "tags": [
+        "Automation"
+      ],
+      "faq": [
+        {
+          "q": "What should I do to get a quote?",
+          "a": "You can reach us via contact form or phone."
+        }
+      ]
+    }
+  }
+}

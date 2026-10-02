@@ -1,0 +1,532 @@
+[
+  {
+    "id": "paslanmaz-celik-tanklar",
+    "slugs": {
+      "tr": "paslanmaz-celik-tanklar",
+      "en": "stainless-steel-tanks"
+    },
+    "shared": {
+      "icon": "i-lucide-cylinder"
+    },
+    "translations": {
+      "tr": {
+        "label": "Paslanmaz Çelik Tanklar",
+        "description": "Depolama ve proses uygulamaları için hijyenik tank çözümleri."
+      },
+      "en": {
+        "label": "Stainless Steel Tanks",
+        "description": "Hygienic tank solutions for storage and process applications."
+      }
+    },
+    "products": [
+      {
+        "id": "proses-tanklari",
+        "slugs": {
+          "tr": "proses-tanklari",
+          "en": "process-tanks"
+        },
+        "shared": {
+          "categoryId": "paslanmaz-celik-tanklar"
+        },
+        "translations": {
+          "tr": {
+            "label": "Proses Tankları",
+            "description": "Üretim hatları için proses tankları.",
+            "body": "Gıda, ilaç ve kimya sektörlerine uygun paslanmaz çelik proses tankları üretiyoruz.",
+            "features": [
+              "Paslanmaz çelik malzeme",
+              "Hijyenik tasarım",
+              "TSE standartlarına uygun",
+              "Projeye özel kapasite"
+            ]
+          },
+          "en": {
+            "label": "Process Tanks",
+            "description": "Process tanks for production lines.",
+            "body": "We manufacture stainless steel process tanks suitable for food, pharmaceutical and chemical industries.",
+            "features": [
+              "Stainless steel material",
+              "Hygienic design",
+              "TSE standard compliant",
+              "Project-specific capacity"
+            ]
+          }
+        }
+      },
+      {
+        "id": "depolama-tanklari",
+        "slugs": {
+          "tr": "depolama-tanklari",
+          "en": "storage-tanks"
+        },
+        "shared": {
+          "categoryId": "paslanmaz-celik-tanklar"
+        },
+        "translations": {
+          "tr": {
+            "label": "Depolama Tankları",
+            "description": "Hammadde ve ürün depolama tankları.",
+            "body": "Kapasite ve proses gereksinimlerine göre tasarlanmış depolama tankları.",
+            "features": [
+              "Paslanmaz çelik malzeme",
+              "Hijyenik tasarım",
+              "TSE standartlarına uygun",
+              "Projeye özel kapasite"
+            ]
+          },
+          "en": {
+            "label": "Storage Tanks",
+            "description": "Raw material and product storage tanks.",
+            "body": "Storage tanks designed according to capacity and process requirements.",
+            "features": [
+              "Stainless steel material",
+              "Hygienic design",
+              "TSE standard compliant",
+              "Project-specific capacity"
+            ]
+          }
+        }
+      },
+      {
+        "id": "karistiricili-tanklar",
+        "slugs": {
+          "tr": "karistiricili-tanklar",
+          "en": "agitated-tanks"
+        },
+        "shared": {
+          "categoryId": "paslanmaz-celik-tanklar"
+        },
+        "translations": {
+          "tr": {
+            "label": "Karıştırıcılı Tanklar",
+            "description": "Homojen karışım için entegre sistemler.",
+            "body": "Karıştırıcı entegreli tank sistemleri ile homojen üretim sağlanır.",
+            "features": [
+              "Paslanmaz çelik malzeme",
+              "Hijyenik tasarım",
+              "TSE standartlarına uygun",
+              "Projeye özel kapasite"
+            ]
+          },
+          "en": {
+            "label": "Agitated Tanks",
+            "description": "Integrated systems for homogeneous mixing.",
+            "body": "Agitator-integrated tank systems ensure homogeneous production.",
+            "features": [
+              "Stainless steel material",
+              "Hygienic design",
+              "TSE standard compliant",
+              "Project-specific capacity"
+            ]
+          }
+        }
+      },
+      {
+        "id": "basincli-tanklar",
+        "slugs": {
+          "tr": "basincli-tanklar",
+          "en": "pressure-tanks"
+        },
+        "shared": {
+          "categoryId": "paslanmaz-celik-tanklar"
+        },
+        "translations": {
+          "tr": {
+            "label": "Basınçlı Tanklar",
+            "description": "Basınçlı proses uygulamaları.",
+            "body": "Basınç gerektiren prosesler için güvenli tank çözümleri.",
+            "features": [
+              "Paslanmaz çelik malzeme",
+              "Hijyenik tasarım",
+              "TSE standartlarına uygun",
+              "Projeye özel kapasite"
+            ]
+          },
+          "en": {
+            "label": "Pressure Tanks",
+            "description": "Pressurized process applications.",
+            "body": "Safe tank solutions for processes requiring pressure.",
+            "features": [
+              "Stainless steel material",
+              "Hygienic design",
+              "TSE standard compliant",
+              "Project-specific capacity"
+            ]
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": "reaktorler-karistiricilar",
+    "slugs": {
+      "tr": "reaktorler-karistiricilar",
+      "en": "reactors-mixers"
+    },
+    "shared": {
+      "icon": "i-lucide-flask-conical"
+    },
+    "translations": {
+      "tr": {
+        "label": "Reaktörler ve Karıştırıcılar",
+        "description": "Kimyasal ve gıda prosesleri için reaktör ve karıştırıcı sistemleri."
+      },
+      "en": {
+        "label": "Reactors and Mixers",
+        "description": "Reactor and mixer systems for chemical and food processes."
+      }
+    },
+    "products": [
+      {
+        "id": "reaktorler",
+        "slugs": {
+          "tr": "reaktorler",
+          "en": "reactors"
+        },
+        "shared": {
+          "categoryId": "reaktorler-karistiricilar"
+        },
+        "translations": {
+          "tr": {
+            "label": "Reaktörler",
+            "description": "Kimyasal reaksiyon prosesleri.",
+            "body": "Proses ihtiyaçlarına göre tasarlanmış paslanmaz çelik reaktör sistemleri.",
+            "features": [
+              "Paslanmaz çelik malzeme",
+              "Hijyenik tasarım",
+              "TSE standartlarına uygun",
+              "Projeye özel kapasite"
+            ]
+          },
+          "en": {
+            "label": "Reactors",
+            "description": "Chemical reaction processes.",
+            "body": "Stainless steel reactor systems designed according to process requirements.",
+            "features": [
+              "Stainless steel material",
+              "Hygienic design",
+              "TSE standard compliant",
+              "Project-specific capacity"
+            ]
+          }
+        }
+      },
+      {
+        "id": "endustriyel-karistiricilar",
+        "slugs": {
+          "tr": "endustriyel-karistiricilar",
+          "en": "industrial-mixers"
+        },
+        "shared": {
+          "categoryId": "reaktorler-karistiricilar"
+        },
+        "translations": {
+          "tr": {
+            "label": "Endüstriyel Karıştırıcılar",
+            "description": "Yüksek verimli karıştırma.",
+            "body": "Farklı viskozite ve hacim gereksinimlerine uygun karıştırıcı çözümleri.",
+            "features": [
+              "Paslanmaz çelik malzeme",
+              "Hijyenik tasarım",
+              "TSE standartlarına uygun",
+              "Projeye özel kapasite"
+            ]
+          },
+          "en": {
+            "label": "Industrial Mixers",
+            "description": "High-efficiency mixing.",
+            "body": "Mixer solutions suitable for different viscosity and volume requirements.",
+            "features": [
+              "Stainless steel material",
+              "Hygienic design",
+              "TSE standard compliant",
+              "Project-specific capacity"
+            ]
+          }
+        }
+      },
+      {
+        "id": "homojenizatorler",
+        "slugs": {
+          "tr": "homojenizatorler",
+          "en": "homogenizers"
+        },
+        "shared": {
+          "categoryId": "reaktorler-karistiricilar"
+        },
+        "translations": {
+          "tr": {
+            "label": "Homojenizatörler",
+            "description": "Gıda ve kozmetik uygulamaları.",
+            "body": "Homojen karışım gerektiren üretim hatları için özel ekipmanlar.",
+            "features": [
+              "Paslanmaz çelik malzeme",
+              "Hijyenik tasarım",
+              "TSE standartlarına uygun",
+              "Projeye özel kapasite"
+            ]
+          },
+          "en": {
+            "label": "Homogenizers",
+            "description": "Food and cosmetic applications.",
+            "body": "Special equipment for production lines requiring homogeneous mixing.",
+            "features": [
+              "Stainless steel material",
+              "Hygienic design",
+              "TSE standard compliant",
+              "Project-specific capacity"
+            ]
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": "filtreler-etuv-sistemleri",
+    "slugs": {
+      "tr": "filtreler-etuv-sistemleri",
+      "en": "filters-oven-systems"
+    },
+    "shared": {
+      "icon": "i-lucide-filter"
+    },
+    "translations": {
+      "tr": {
+        "label": "Filtreler ve Etüv Sistemleri",
+        "description": "Filtrasyon ve ısıtma prosesleri için ekipman çözümleri."
+      },
+      "en": {
+        "label": "Filters and Oven Systems",
+        "description": "Equipment solutions for filtration and heating processes."
+      }
+    },
+    "products": [
+      {
+        "id": "endustriyel-filtreler",
+        "slugs": {
+          "tr": "endustriyel-filtreler",
+          "en": "industrial-filters"
+        },
+        "shared": {
+          "categoryId": "filtreler-etuv-sistemleri"
+        },
+        "translations": {
+          "tr": {
+            "label": "Endüstriyel Filtreler",
+            "description": "Sıvı ve proses filtrasyonu.",
+            "body": "Proses kalitesini koruyan endüstriyel filtre sistemleri.",
+            "features": [
+              "Paslanmaz çelik malzeme",
+              "Hijyenik tasarım",
+              "TSE standartlarına uygun",
+              "Projeye özel kapasite"
+            ]
+          },
+          "en": {
+            "label": "Industrial Filters",
+            "description": "Liquid and process filtration.",
+            "body": "Industrial filter systems that maintain process quality.",
+            "features": [
+              "Stainless steel material",
+              "Hygienic design",
+              "TSE standard compliant",
+              "Project-specific capacity"
+            ]
+          }
+        }
+      },
+      {
+        "id": "etuv-uygulamalari",
+        "slugs": {
+          "tr": "etuv-uygulamalari",
+          "en": "oven-applications"
+        },
+        "shared": {
+          "categoryId": "filtreler-etuv-sistemleri"
+        },
+        "translations": {
+          "tr": {
+            "label": "Etüv Uygulamaları",
+            "description": "Kontrollü ısıtma sistemleri.",
+            "body": "Üretim süreçlerinde kontrollü ısıtma için etüv ve fırın uygulamaları.",
+            "features": [
+              "Paslanmaz çelik malzeme",
+              "Hijyenik tasarım",
+              "TSE standartlarına uygun",
+              "Projeye özel kapasite"
+            ]
+          },
+          "en": {
+            "label": "Oven Applications",
+            "description": "Controlled heating systems.",
+            "body": "Oven and furnace applications for controlled heating in production processes.",
+            "features": [
+              "Stainless steel material",
+              "Hygienic design",
+              "TSE standard compliant",
+              "Project-specific capacity"
+            ]
+          }
+        }
+      },
+      {
+        "id": "separator-sistemleri",
+        "slugs": {
+          "tr": "separator-sistemleri",
+          "en": "separator-systems"
+        },
+        "shared": {
+          "categoryId": "filtreler-etuv-sistemleri"
+        },
+        "translations": {
+          "tr": {
+            "label": "Separatör Sistemleri",
+            "description": "Ayırma ve arıtma prosesleri.",
+            "body": "Proses hatlarında ayırma ve arıtma için özel sistemler.",
+            "features": [
+              "Paslanmaz çelik malzeme",
+              "Hijyenik tasarım",
+              "TSE standartlarına uygun",
+              "Projeye özel kapasite"
+            ]
+          },
+          "en": {
+            "label": "Separator Systems",
+            "description": "Separation and purification processes.",
+            "body": "Special systems for separation and purification in process lines.",
+            "features": [
+              "Stainless steel material",
+              "Hygienic design",
+              "TSE standard compliant",
+              "Project-specific capacity"
+            ]
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": "ozel-tasarim-makineler",
+    "slugs": {
+      "tr": "ozel-tasarim-makineler",
+      "en": "custom-designed-machines"
+    },
+    "shared": {
+      "icon": "i-lucide-settings"
+    },
+    "translations": {
+      "tr": {
+        "label": "Özel Tasarım Makineler",
+        "description": "Müşteri talebine göre tasarlanan proses makineleri."
+      },
+      "en": {
+        "label": "Custom Designed Machines",
+        "description": "Process machines designed according to customer requirements."
+      }
+    },
+    "products": [
+      {
+        "id": "proses-hat-makineleri",
+        "slugs": {
+          "tr": "proses-hat-makineleri",
+          "en": "process-line-machines"
+        },
+        "shared": {
+          "categoryId": "ozel-tasarim-makineler"
+        },
+        "translations": {
+          "tr": {
+            "label": "Proses Hat Makineleri",
+            "description": "Hat bazlı özel makineler.",
+            "body": "Üretim hattınıza özel tasarlanmış proses makineleri.",
+            "features": [
+              "Paslanmaz çelik malzeme",
+              "Hijyenik tasarım",
+              "TSE standartlarına uygun",
+              "Projeye özel kapasite"
+            ]
+          },
+          "en": {
+            "label": "Process Line Machines",
+            "description": "Line-based custom machines.",
+            "body": "Process machines custom-designed for your production line.",
+            "features": [
+              "Stainless steel material",
+              "Hygienic design",
+              "TSE standard compliant",
+              "Project-specific capacity"
+            ]
+          }
+        }
+      },
+      {
+        "id": "dolum-hatlari",
+        "slugs": {
+          "tr": "dolum-hatlari",
+          "en": "filling-lines"
+        },
+        "shared": {
+          "categoryId": "ozel-tasarim-makineler"
+        },
+        "translations": {
+          "tr": {
+            "label": "Dolum Hatları",
+            "description": "Otomatik dolum çözümleri.",
+            "body": "Gıda, kozmetik ve kimya sektörleri için dolum hatları.",
+            "features": [
+              "Paslanmaz çelik malzeme",
+              "Hijyenik tasarım",
+              "TSE standartlarına uygun",
+              "Projeye özel kapasite"
+            ]
+          },
+          "en": {
+            "label": "Filling Lines",
+            "description": "Automatic filling solutions.",
+            "body": "Filling lines for food, cosmetic and chemical industries.",
+            "features": [
+              "Stainless steel material",
+              "Hygienic design",
+              "TSE standard compliant",
+              "Project-specific capacity"
+            ]
+          }
+        }
+      },
+      {
+        "id": "paketleme-sistemleri",
+        "slugs": {
+          "tr": "paketleme-sistemleri",
+          "en": "packaging-systems"
+        },
+        "shared": {
+          "categoryId": "ozel-tasarim-makineler"
+        },
+        "translations": {
+          "tr": {
+            "label": "Paketleme Sistemleri",
+            "description": "Entegre paketleme ekipmanları.",
+            "body": "Üretim sonrası paketleme süreçleri için özel sistemler.",
+            "features": [
+              "Paslanmaz çelik malzeme",
+              "Hijyenik tasarım",
+              "TSE standartlarına uygun",
+              "Projeye özel kapasite"
+            ]
+          },
+          "en": {
+            "label": "Packaging Systems",
+            "description": "Integrated packaging equipment.",
+            "body": "Custom systems for post-production packaging processes.",
+            "features": [
+              "Stainless steel material",
+              "Hygienic design",
+              "TSE standard compliant",
+              "Project-specific capacity"
+            ]
+          }
+        }
+      }
+    ]
+  }
+]

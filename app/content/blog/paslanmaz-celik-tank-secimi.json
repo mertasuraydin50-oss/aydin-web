@@ -1,0 +1,68 @@
+{
+  "id": "paslanmaz-celik-tank-secimi",
+  "slugs": {
+    "tr": "paslanmaz-celik-tank-secimi",
+    "en": "stainless-steel-tank-selection"
+  },
+  "shared": {
+    "date": "2026-01-20"
+  },
+  "translations": {
+    "tr": {
+      "title": "Paslanmaz Çelik Tank Seçiminde Dikkat Edilecekler",
+      "excerpt": "Proses ihtiyaçlarına göre doğru tank malzemesi ve kapasitesi nasıl belirlenir?",
+      "category": "Rehber",
+      "body": "## Tank Seçiminde Temel Kriterler\n\nTank seçiminde proses sıcaklığı, basınç, hijyen gereksinimleri ve kapasite birlikte değerlendirilmelidir. Doğru malzeme seçimi hem üretim güvenliğini hem de bakım maliyetlerini doğrudan etkiler.\n\n## Malzeme Seçimi\n\n| Uygulama | Malzeme | Açıklama |\n| --- | --- | --- |\n| Gıda / İlaç | 316L | Korozyon direnci yüksek, hijyenik |\n| Genel Proses | 304 | Ekonomik, genel amaçlı |\n| Kimya | Proje bazlı | Proses koşullarına göre |\n\n## Kapasite ve Tasarım\n\n- Üretim hattı kapasitesi ile uyumlu hacim planlanmalı\n- CIP uyumu ve minimum ölü hacim dikkate alınmalı\n- Basınç gereksinimleri tasarım aşamasında belirlenmeli\n\nAydınox olarak tüm tank projelerimizde TSE standartlarına uygun üretim ve kalite kontrol süreçleri uygulanır.",
+      "seoTitle": "Paslanmaz Çelik Tank Seçimi | Aydınox",
+      "keywords": [
+        "paslanmaz çelik tank",
+        "tank seçimi",
+        "316L",
+        "proses tankı"
+      ],
+      "tags": [
+        "Tank",
+        "PaslanmazÇelik",
+        "Rehber"
+      ],
+      "faq": [
+        {
+          "q": "316L mi 304 mü tercih edilmeli?",
+          "a": "Gıda ve ilaç uygulamalarında 316L, genel proses uygulamalarında 304 tercih edilir."
+        },
+        {
+          "q": "Tank kapasitesi nasıl hesaplanır?",
+          "a": "Üretim hattı kapasitesi, depolama süresi ve proses akış hızı birlikte değerlendirilir."
+        }
+      ]
+    },
+    "en": {
+      "title": "Key Considerations in Stainless Steel Tank Selection",
+      "excerpt": "How to determine the right tank material and capacity according to process requirements?",
+      "category": "Guide",
+      "body": "## Key Criteria in Tank Selection\n\nProcess temperature, pressure, hygiene requirements and capacity should be evaluated together in tank selection. Correct material selection directly affects both production safety and maintenance costs.\n\n## Material Selection\n\n| Application | Material | Description |\n| --- | --- | --- |\n| Food / Pharma | 316L | High corrosion resistance, hygienic |\n| General Process | 304 | Economical, general purpose |\n| Chemical | Project-based | According to process conditions |\n\n## Capacity and Design\n\n- Volume should be planned compatible with production line capacity\n- CIP compatibility and minimum dead volume should be considered\n- Pressure requirements should be determined at design stage\n\nAt Aydınox, TSE standard production and quality control processes are applied in all our tank projects.",
+      "seoTitle": "Stainless Steel Tank Selection | Aydınox",
+      "keywords": [
+        "stainless steel tank",
+        "tank selection",
+        "316L",
+        "process tank"
+      ],
+      "tags": [
+        "Tank",
+        "StainlessSteel",
+        "Guide"
+      ],
+      "faq": [
+        {
+          "q": "Should 316L or 304 be preferred?",
+          "a": "316L is preferred for food and pharmaceutical applications, 304 for general process applications."
+        },
+        {
+          "q": "How is tank capacity calculated?",
+          "a": "Production line capacity, storage duration and process flow rate are evaluated together."
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,171 @@
+{
+  "id": "proje-tasarim-muhendislik",
+  "translations": {
+    "tr": {
+      "seoTitle": "Proje Tasarım ve Mühendislik | Aydınox",
+      "seoDescription": "Proses hatları için teknik tasarım, kapasite hesabı ve mühendislik desteği.",
+      "keywords": [
+        "Proje Tasarım ve Mühendislik",
+        "Aydınox",
+        "proses ekipmanı"
+      ],
+      "h1": "Proje Tasarım ve Mühendislik",
+      "asideLabel": "Hizmet Detayı",
+      "heroDescription": "Proses hatları için teknik tasarım, kapasite hesabı ve mühendislik desteği.",
+      "chips": [
+        "Proses mühendisliği",
+        "Teknik çizim",
+        "Kapasite hesabı",
+        "Saha keşfi"
+      ],
+      "intro": [
+        "Müşteri ihtiyaçlarına göre proses ekipmanları, tank sistemleri ve tesisat hatları için detaylı proje tasarımı hazırlıyoruz. Kapasite, akış ve hijyen gereksinimlerini birlikte planlıyoruz.",
+        "Aydınox olarak proses ekipmanı ve tesis kurulum projelerinde uçtan uca hizmet sunuyoruz."
+      ],
+      "highlights": [
+        {
+          "icon": "lucide:drafting-compass",
+          "title": "Proses mühendisliği",
+          "text": "Proses mühendisliği kapsamında deneyimli ekibimizle hizmet veriyoruz."
+        },
+        {
+          "icon": "lucide:factory",
+          "title": "Teknik çizim",
+          "text": "Teknik çizim kapsamında deneyimli ekibimizle hizmet veriyoruz."
+        },
+        {
+          "icon": "lucide:hard-hat",
+          "title": "Kapasite hesabı",
+          "text": "Kapasite hesabı kapsamında deneyimli ekibimizle hizmet veriyoruz."
+        },
+        {
+          "icon": "lucide:wrench",
+          "title": "Saha keşfi",
+          "text": "Saha keşfi kapsamında deneyimli ekibimizle hizmet veriyoruz."
+        }
+      ],
+      "processTitle": "Süreç Nasıl İlerler?",
+      "processLead": "Projelerimizde izlediğimiz standart adımlar.",
+      "process": [
+        {
+          "title": "Keşif ve Analiz",
+          "text": "Proses ihtiyaçları, kapasite ve saha koşulları değerlendirilir."
+        },
+        {
+          "title": "Tasarım ve Planlama",
+          "text": "Teknik çizim, kapasite hesabı ve proje planı hazırlanır."
+        },
+        {
+          "title": "Üretim / Uygulama",
+          "text": "Atölye üretimi veya saha uygulaması gerçekleştirilir."
+        },
+        {
+          "title": "Devreye Alma",
+          "text": "Test, kalite kontrol ve teslim süreci tamamlanır."
+        }
+      ],
+      "includedTitle": "Hizmet Kapsamı",
+      "included": [
+        "Proses mühendisliği",
+        "Teknik çizim",
+        "Kapasite hesabı",
+        "Saha keşfi"
+      ],
+      "faqTitle": "Sık Sorulan Sorular",
+      "faqLead": "Proje Tasarım ve Mühendislik hakkında merak edilenler.",
+      "faq": [
+        {
+          "q": "Proje Tasarım ve Mühendislik için nasıl teklif alabilirim?",
+          "a": "İletişim formu veya telefon ile bize ulaşabilirsiniz. Proje detaylarını paylaştıktan sonra teknik ekibimiz teklif hazırlar."
+        },
+        {
+          "q": "Hangi sektörlere hizmet veriyorsunuz?",
+          "a": "Gıda, ilaç, kimya ve kozmetik sektörlerine proses ekipmanı ve tesis kurulum hizmetleri sunuyoruz."
+        }
+      ]
+    },
+    "en": {
+      "seoTitle": "Project Design and Engineering | Aydınox",
+      "seoDescription": "Technical design, capacity calculation and engineering support for process lines.",
+      "keywords": [
+        "Project Design and Engineering",
+        "Aydınox",
+        "process equipment"
+      ],
+      "h1": "Project Design and Engineering",
+      "asideLabel": "Service Detail",
+      "heroDescription": "Technical design, capacity calculation and engineering support for process lines.",
+      "chips": [
+        "Process engineering",
+        "Technical drawing",
+        "Capacity calculation",
+        "Site survey"
+      ],
+      "intro": [
+        "We prepare detailed project designs for process equipment, tank systems and piping lines according to customer needs. We plan capacity, flow and hygiene requirements together.",
+        "At Aydınox, we provide end-to-end services in process equipment and plant installation projects."
+      ],
+      "highlights": [
+        {
+          "icon": "lucide:drafting-compass",
+          "title": "Process engineering",
+          "text": "We serve with our experienced team in Process engineering."
+        },
+        {
+          "icon": "lucide:factory",
+          "title": "Technical drawing",
+          "text": "We serve with our experienced team in Technical drawing."
+        },
+        {
+          "icon": "lucide:hard-hat",
+          "title": "Capacity calculation",
+          "text": "We serve with our experienced team in Capacity calculation."
+        },
+        {
+          "icon": "lucide:wrench",
+          "title": "Site survey",
+          "text": "We serve with our experienced team in Site survey."
+        }
+      ],
+      "processTitle": "How Does the Process Work?",
+      "processLead": "Standard steps we follow in our projects.",
+      "process": [
+        {
+          "title": "Survey and Analysis",
+          "text": "Process requirements, capacity and site conditions are evaluated."
+        },
+        {
+          "title": "Design and Planning",
+          "text": "Technical drawings, capacity calculation and project plan are prepared."
+        },
+        {
+          "title": "Production / Application",
+          "text": "Workshop production or on-site application is carried out."
+        },
+        {
+          "title": "Commissioning",
+          "text": "Testing, quality control and delivery process is completed."
+        }
+      ],
+      "includedTitle": "Service Scope",
+      "included": [
+        "Process engineering",
+        "Technical drawing",
+        "Capacity calculation",
+        "Site survey"
+      ],
+      "faqTitle": "Frequently Asked Questions",
+      "faqLead": "Common questions about Project Design and Engineering.",
+      "faq": [
+        {
+          "q": "How can I get a quote for Project Design and Engineering?",
+          "a": "You can reach us via the contact form or phone. Our technical team prepares a quote after you share project details."
+        },
+        {
+          "q": "Which industries do you serve?",
+          "a": "We provide process equipment and plant installation services to food, pharmaceutical, chemical and cosmetic industries."
+        }
+      ]
+    }
+  }
+}

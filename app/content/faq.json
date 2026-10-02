@@ -1,0 +1,158 @@
+[
+  {
+    "id": "genel",
+    "translations": {
+      "tr": {
+        "title": "Genel Sorular",
+        "description": "Aydınox hizmetleri ve proses ekipmanları hakkında genel bilgiler.",
+        "items": [
+          {
+            "q": "Aydınox hangi sektörlere hizmet veriyor?",
+            "a": "Gıda, ilaç, kimya ve kozmetik sektörlerine paslanmaz çelik proses ekipmanları, tank üretimi, tesis kurulumu ve mühendislik hizmetleri sunuyoruz."
+          },
+          {
+            "q": "Teklif almak için ne yapmam gerekiyor?",
+            "a": "İletişim formu, telefon veya e-posta ile bize ulaşabilirsiniz. Proje detaylarını paylaştıktan sonra teknik ekibimiz size özel teklif hazırlar."
+          },
+          {
+            "q": "Üretim hangi standartlara uygun yapılıyor?",
+            "a": "TSE standartlarında üretim yapıyoruz. Gıda ve ilaç sektörlerinin hijyenik sistem gereksinimlerine uygun ekipman ve tesisat çözümleri sunuyoruz."
+          }
+        ]
+      },
+      "en": {
+        "title": "General Questions",
+        "description": "General information about Aydınox services and process equipment.",
+        "items": [
+          {
+            "q": "Which industries does Aydınox serve?",
+            "a": "We provide stainless steel process equipment, tank production, plant installation and engineering services to food, pharmaceutical, chemical and cosmetic industries."
+          },
+          {
+            "q": "What do I need to do to get a quote?",
+            "a": "You can reach us via contact form, phone or email. Our technical team prepares a custom quote after you share project details."
+          },
+          {
+            "q": "What standards is production compliant with?",
+            "a": "We manufacture in accordance with TSE standards. We offer equipment and piping solutions suitable for hygienic system requirements of food and pharmaceutical industries."
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "tanklar",
+    "translations": {
+      "tr": {
+        "title": "Tank ve Depolama",
+        "description": "Paslanmaz çelik tank seçimi ve uygulamaları.",
+        "items": [
+          {
+            "q": "Hangi paslanmaz çelik kalitesi tercih edilmeli?",
+            "a": "Gıda ve ilaç uygulamalarında 316L, genel proses uygulamalarında 304 paslanmaz çelik tercih edilir. Kimyasal proseslerde proses koşullarına göre malzeme seçimi yapılır."
+          },
+          {
+            "q": "Tank kapasitesi nasıl belirlenir?",
+            "a": "Üretim hattı kapasitesi, depolama süresi ve proses akış hızı birlikte değerlendirilerek optimal tank hacmi hesaplanır."
+          },
+          {
+            "q": "Basınçlı tank üretimi yapıyor musunuz?",
+            "a": "Evet. Proses gereksinimlerine uygun basınçlı tank tasarımı ve imalatı gerçekleştiriyoruz."
+          }
+        ]
+      },
+      "en": {
+        "title": "Tanks and Storage",
+        "description": "Stainless steel tank selection and applications.",
+        "items": [
+          {
+            "q": "Which stainless steel grade should be preferred?",
+            "a": "316L is preferred for food and pharmaceutical applications, 304 for general process applications. Material selection for chemical processes is made according to process conditions."
+          },
+          {
+            "q": "How is tank capacity determined?",
+            "a": "Optimal tank volume is calculated by evaluating production line capacity, storage duration and process flow rate together."
+          },
+          {
+            "q": "Do you manufacture pressure tanks?",
+            "a": "Yes. We design and manufacture pressure tanks suitable for process requirements."
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "hizmetler",
+    "translations": {
+      "tr": {
+        "title": "Hizmetler",
+        "description": "Proje tasarım, üretim, montaj ve servis hizmetleri.",
+        "items": [
+          {
+            "q": "Montaj hizmeti hangi kapsamda sunuluyor?",
+            "a": "Saha montajı, borulama, tesisat kurulumu, otomasyon entegrasyonu ve devreye alma hizmetlerini uzman ekiplerimizle gerçekleştiriyoruz."
+          },
+          {
+            "q": "Bakım ve servis desteği var mı?",
+            "a": "Evet. Kurulan sistemler için periyodik bakım, revizyon ve acil müdahale hizmetleri sunuyoruz."
+          },
+          {
+            "q": "Proje mühendisliği hizmeti neleri kapsıyor?",
+            "a": "Proses mühendisliği, teknik çizim, kapasite hesabı ve saha keşfi hizmetlerini proje tasarım aşamasında sunuyoruz."
+          }
+        ]
+      },
+      "en": {
+        "title": "Services",
+        "description": "Project design, production, assembly and service.",
+        "items": [
+          {
+            "q": "What is the scope of assembly service?",
+            "a": "We carry out on-site assembly, piping, installation, automation integration and commissioning with our expert teams."
+          },
+          {
+            "q": "Is maintenance and service support available?",
+            "a": "Yes. We provide periodic maintenance, overhaul and emergency response services for installed systems."
+          },
+          {
+            "q": "What does project engineering service include?",
+            "a": "We provide process engineering, technical drawing, capacity calculation and site survey services during the project design phase."
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "kalite",
+    "translations": {
+      "tr": {
+        "title": "Kalite ve Belgeler",
+        "description": "Kalite standartları ve sertifikasyon.",
+        "items": [
+          {
+            "q": "Kalite kontrol süreçleriniz nelerdir?",
+            "a": "Malzeme giriş kontrolü, kaynak kalite kontrolü, basınç testi ve final kontrol aşamalarını tüm üretim süreçlerinde uyguluyoruz."
+          },
+          {
+            "q": "Sertifikalarınızı nasıl edinebilirim?",
+            "a": "Güncel belge listesi talep üzerine paylaşılmaktadır. İletişim kanallarımızdan bize ulaşabilirsiniz."
+          }
+        ]
+      },
+      "en": {
+        "title": "Quality and Certificates",
+        "description": "Quality standards and certification.",
+        "items": [
+          {
+            "q": "What are your quality control processes?",
+            "a": "We apply material incoming inspection, welding quality control, pressure testing and final inspection stages in all production processes."
+          },
+          {
+            "q": "How can I obtain your certificates?",
+            "a": "The current certificate list is shared upon request. You can reach us through our contact channels."
+          }
+        ]
+      }
+    }
+  }
+]

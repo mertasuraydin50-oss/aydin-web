@@ -1,0 +1,52 @@
+{
+  "id": "tse-standartlari-paslanmaz-celik",
+  "slugs": {
+    "tr": "tse-standartlari-paslanmaz-celik",
+    "en": "tse-standards-stainless-steel"
+  },
+  "shared": {
+    "date": "2025-12-15"
+  },
+  "translations": {
+    "tr": {
+      "title": "TSE Standartlarında Paslanmaz Çelik Üretim",
+      "excerpt": "TSE standartlarının proses ekipmanı üretimindeki önemi.",
+      "category": "Kalite",
+      "body": "TSE standartları, paslanmaz çelik ekipman üretiminde malzeme kalitesi, kaynak ve test prosedürlerini tanımlar.\n\nStandartlara uygun üretim, müşteri denetimlerinde ve sektörel sertifikasyonlarda avantaj sağlar.\n\nAydınox olarak tüm üretim süreçlerimizde kalite kontrol ve uygunluk denetimlerini uyguluyoruz.",
+      "seoTitle": "TSE Standartlarında Paslanmaz Çelik Üretim | Aydınox",
+      "keywords": [
+        "Kalite",
+        "Aydınox"
+      ],
+      "tags": [
+        "Kalite"
+      ],
+      "faq": [
+        {
+          "q": "Teklif almak için ne yapmalıyım?",
+          "a": "İletişim formu veya telefon ile bize ulaşabilirsiniz."
+        }
+      ]
+    },
+    "en": {
+      "title": "Stainless Steel Production to TSE Standards",
+      "excerpt": "The importance of TSE standards in process equipment manufacturing.",
+      "category": "Quality",
+      "body": "TSE standards define material quality, welding and testing procedures in stainless steel equipment manufacturing.\n\nProduction in accordance with standards provides advantages in customer audits and industry certifications.\n\nAt Aydınox, we apply quality control and compliance audits in all our production processes.",
+      "seoTitle": "Stainless Steel Production to TSE Standards | Aydınox",
+      "keywords": [
+        "Quality",
+        "Aydınox"
+      ],
+      "tags": [
+        "Quality"
+      ],
+      "faq": [
+        {
+          "q": "What should I do to get a quote?",
+          "a": "You can reach us via contact form or phone."
+        }
+      ]
+    }
+  }
+}

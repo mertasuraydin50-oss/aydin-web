@@ -1,0 +1,172 @@
+[
+  {
+    "id": "proje-tasarim-muhendislik",
+    "slugs": {
+      "tr": "proje-tasarim-muhendislik",
+      "en": "project-design-engineering"
+    },
+    "shared": {
+      "icon": "i-lucide-drafting-compass"
+    },
+    "translations": {
+      "tr": {
+        "label": "Proje Tasarım ve Mühendislik",
+        "description": "Proses hatları için teknik tasarım, kapasite hesabı ve mühendislik desteği.",
+        "body": "Müşteri ihtiyaçlarına göre proses ekipmanları, tank sistemleri ve tesisat hatları için detaylı proje tasarımı hazırlıyoruz. Kapasite, akış ve hijyen gereksinimlerini birlikte planlıyoruz.",
+        "features": [
+          "Proses mühendisliği",
+          "Teknik çizim",
+          "Kapasite hesabı",
+          "Saha keşfi"
+        ]
+      },
+      "en": {
+        "label": "Project Design and Engineering",
+        "description": "Technical design, capacity calculation and engineering support for process lines.",
+        "body": "We prepare detailed project designs for process equipment, tank systems and piping lines according to customer needs. We plan capacity, flow and hygiene requirements together.",
+        "features": [
+          "Process engineering",
+          "Technical drawing",
+          "Capacity calculation",
+          "Site survey"
+        ]
+      }
+    }
+  },
+  {
+    "id": "uretim-imalat",
+    "slugs": {
+      "tr": "uretim-imalat",
+      "en": "production-manufacturing"
+    },
+    "shared": {
+      "icon": "i-lucide-factory"
+    },
+    "translations": {
+      "tr": {
+        "label": "Üretim ve İmalat",
+        "description": "Paslanmaz çelik tank, reaktör, karıştırıcı ve özel makine imalatı.",
+        "body": "Atölyemizde paslanmaz çelik tanklar, reaktörler, karıştırıcılar, filtreler ve müşteri talebine özel makineler üretiyoruz. TSE standartlarında kalite kontrol süreçleri uygulanır.",
+        "features": [
+          "Paslanmaz çelik imalat",
+          "Kaynak kalite kontrolü",
+          "Özel tasarım",
+          "TSE uyumu"
+        ]
+      },
+      "en": {
+        "label": "Production and Manufacturing",
+        "description": "Stainless steel tank, reactor, mixer and custom machine manufacturing.",
+        "body": "In our workshop we manufacture stainless steel tanks, reactors, mixers, filters and custom machines. Quality control processes are applied in accordance with TSE standards.",
+        "features": [
+          "Stainless steel manufacturing",
+          "Welding quality control",
+          "Custom design",
+          "TSE compliance"
+        ]
+      }
+    }
+  },
+  {
+    "id": "montaj-tesis-kurulumu",
+    "slugs": {
+      "tr": "montaj-tesis-kurulumu",
+      "en": "assembly-plant-installation"
+    },
+    "shared": {
+      "icon": "i-lucide-hard-hat"
+    },
+    "translations": {
+      "tr": {
+        "label": "Montaj ve Tesis Kurulumu",
+        "description": "Saha montajı, tesisat kurulumu ve devreye alma hizmetleri.",
+        "body": "Üretilen ekipmanların saha montajı, borulama, otomasyon entegrasyonu ve tesis kurulum işlerini uzman ekiplerimizle gerçekleştiriyoruz.",
+        "features": [
+          "Saha montajı",
+          "Tesisat kurulumu",
+          "Devreye alma",
+          "Proje yönetimi"
+        ]
+      },
+      "en": {
+        "label": "Assembly and Plant Installation",
+        "description": "On-site assembly, piping installation and commissioning services.",
+        "body": "We carry out on-site assembly, piping, automation integration and plant installation with our expert teams.",
+        "features": [
+          "On-site assembly",
+          "Piping installation",
+          "Commissioning",
+          "Project management"
+        ]
+      }
+    }
+  },
+  {
+    "id": "bakim-servis",
+    "slugs": {
+      "tr": "bakim-servis",
+      "en": "maintenance-service"
+    },
+    "shared": {
+      "icon": "i-lucide-wrench"
+    },
+    "translations": {
+      "tr": {
+        "label": "Bakım ve Servis",
+        "description": "Periyodik bakım, revizyon ve teknik destek hizmetleri.",
+        "body": "Kurulan sistemlerin uzun ömürlü ve güvenli çalışması için bakım, revizyon ve teknik servis desteği sunuyoruz.",
+        "features": [
+          "Periyodik bakım",
+          "Yedek parça",
+          "Acil müdahale",
+          "Teknik danışmanlık"
+        ]
+      },
+      "en": {
+        "label": "Maintenance and Service",
+        "description": "Periodic maintenance, overhaul and technical support services.",
+        "body": "We provide maintenance, overhaul and technical service support for long-lasting and safe operation of installed systems.",
+        "features": [
+          "Periodic maintenance",
+          "Spare parts",
+          "Emergency response",
+          "Technical consulting"
+        ]
+      }
+    }
+  },
+  {
+    "id": "otomasyon-proses-entegrasyonu",
+    "slugs": {
+      "tr": "otomasyon-proses-entegrasyonu",
+      "en": "automation-process-integration"
+    },
+    "shared": {
+      "icon": "i-lucide-cpu"
+    },
+    "translations": {
+      "tr": {
+        "label": "Otomasyon ve Proses Entegrasyonu",
+        "description": "Proses hatlarına otomasyon ve kontrol sistemleri entegrasyonu.",
+        "body": "Üretim hatlarının verimli çalışması için otomasyon, sensör ve kontrol sistemlerinin proses ekipmanlarına entegrasyonunu sağlıyoruz.",
+        "features": [
+          "SCADA entegrasyonu",
+          "Proses kontrol",
+          "Veri izleme",
+          "Hat optimizasyonu"
+        ]
+      },
+      "en": {
+        "label": "Automation and Process Integration",
+        "description": "Integration of automation and control systems into process lines.",
+        "body": "We integrate automation, sensor and control systems into process equipment for efficient operation of production lines.",
+        "features": [
+          "SCADA integration",
+          "Process control",
+          "Data monitoring",
+          "Line optimization"
+        ]
+      }
+    }
+  }
+]

@@ -1,0 +1,52 @@
+{
+  "id": "tesis-kurulumu-proje-yonetimi",
+  "slugs": {
+    "tr": "tesis-kurulumu-proje-yonetimi",
+    "en": "plant-installation-project-management"
+  },
+  "shared": {
+    "date": "2025-11-30"
+  },
+  "translations": {
+    "tr": {
+      "title": "Tesis Kurulumunda Proje Yönetimi",
+      "excerpt": "Fabrika kurulum projelerinde zamanında teslim için kritik adımlar.",
+      "category": "Proje",
+      "body": "Tesis kurulum projelerinde detaylı planlama, ekipman üretim takvimi ve saha koordinasyonu başarıyı belirler.\n\nMontaj öncesi saha hazırlığı ve tesisat altyapısı kontrolü gecikmeleri önler.\n\nUçtan uca proje yönetimi ile üretimden devreye almaya kadar tüm süreçleri koordine ediyoruz.",
+      "seoTitle": "Tesis Kurulumunda Proje Yönetimi | Aydınox",
+      "keywords": [
+        "Proje",
+        "Aydınox"
+      ],
+      "tags": [
+        "Proje"
+      ],
+      "faq": [
+        {
+          "q": "Teklif almak için ne yapmalıyım?",
+          "a": "İletişim formu veya telefon ile bize ulaşabilirsiniz."
+        }
+      ]
+    },
+    "en": {
+      "title": "Project Management in Plant Installation",
+      "excerpt": "Critical steps for on-time delivery in factory installation projects.",
+      "category": "Project",
+      "body": "Detailed planning, equipment production schedule and site coordination determine success in plant installation projects.\n\nPre-assembly site preparation and piping infrastructure checks prevent delays.\n\nWe coordinate all processes from production to commissioning with end-to-end project management.",
+      "seoTitle": "Project Management in Plant Installation | Aydınox",
+      "keywords": [
+        "Project",
+        "Aydınox"
+      ],
+      "tags": [
+        "Project"
+      ],
+      "faq": [
+        {
+          "q": "What should I do to get a quote?",
+          "a": "You can reach us via contact form or phone."
+        }
+      ]
+    }
+  }
+}

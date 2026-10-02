@@ -1,0 +1,171 @@
+{
+  "id": "otomasyon-proses-entegrasyonu",
+  "translations": {
+    "tr": {
+      "seoTitle": "Otomasyon ve Proses Entegrasyonu | Aydınox",
+      "seoDescription": "Proses hatlarına otomasyon ve kontrol sistemleri entegrasyonu.",
+      "keywords": [
+        "Otomasyon ve Proses Entegrasyonu",
+        "Aydınox",
+        "proses ekipmanı"
+      ],
+      "h1": "Otomasyon ve Proses Entegrasyonu",
+      "asideLabel": "Hizmet Detayı",
+      "heroDescription": "Proses hatlarına otomasyon ve kontrol sistemleri entegrasyonu.",
+      "chips": [
+        "SCADA entegrasyonu",
+        "Proses kontrol",
+        "Veri izleme",
+        "Hat optimizasyonu"
+      ],
+      "intro": [
+        "Üretim hatlarının verimli çalışması için otomasyon, sensör ve kontrol sistemlerinin proses ekipmanlarına entegrasyonunu sağlıyoruz.",
+        "Aydınox olarak proses ekipmanı ve tesis kurulum projelerinde uçtan uca hizmet sunuyoruz."
+      ],
+      "highlights": [
+        {
+          "icon": "lucide:drafting-compass",
+          "title": "SCADA entegrasyonu",
+          "text": "SCADA entegrasyonu kapsamında deneyimli ekibimizle hizmet veriyoruz."
+        },
+        {
+          "icon": "lucide:factory",
+          "title": "Proses kontrol",
+          "text": "Proses kontrol kapsamında deneyimli ekibimizle hizmet veriyoruz."
+        },
+        {
+          "icon": "lucide:hard-hat",
+          "title": "Veri izleme",
+          "text": "Veri izleme kapsamında deneyimli ekibimizle hizmet veriyoruz."
+        },
+        {
+          "icon": "lucide:wrench",
+          "title": "Hat optimizasyonu",
+          "text": "Hat optimizasyonu kapsamında deneyimli ekibimizle hizmet veriyoruz."
+        }
+      ],
+      "processTitle": "Süreç Nasıl İlerler?",
+      "processLead": "Projelerimizde izlediğimiz standart adımlar.",
+      "process": [
+        {
+          "title": "Keşif ve Analiz",
+          "text": "Proses ihtiyaçları, kapasite ve saha koşulları değerlendirilir."
+        },
+        {
+          "title": "Tasarım ve Planlama",
+          "text": "Teknik çizim, kapasite hesabı ve proje planı hazırlanır."
+        },
+        {
+          "title": "Üretim / Uygulama",
+          "text": "Atölye üretimi veya saha uygulaması gerçekleştirilir."
+        },
+        {
+          "title": "Devreye Alma",
+          "text": "Test, kalite kontrol ve teslim süreci tamamlanır."
+        }
+      ],
+      "includedTitle": "Hizmet Kapsamı",
+      "included": [
+        "SCADA entegrasyonu",
+        "Proses kontrol",
+        "Veri izleme",
+        "Hat optimizasyonu"
+      ],
+      "faqTitle": "Sık Sorulan Sorular",
+      "faqLead": "Otomasyon ve Proses Entegrasyonu hakkında merak edilenler.",
+      "faq": [
+        {
+          "q": "Otomasyon ve Proses Entegrasyonu için nasıl teklif alabilirim?",
+          "a": "İletişim formu veya telefon ile bize ulaşabilirsiniz. Proje detaylarını paylaştıktan sonra teknik ekibimiz teklif hazırlar."
+        },
+        {
+          "q": "Hangi sektörlere hizmet veriyorsunuz?",
+          "a": "Gıda, ilaç, kimya ve kozmetik sektörlerine proses ekipmanı ve tesis kurulum hizmetleri sunuyoruz."
+        }
+      ]
+    },
+    "en": {
+      "seoTitle": "Automation and Process Integration | Aydınox",
+      "seoDescription": "Integration of automation and control systems into process lines.",
+      "keywords": [
+        "Automation and Process Integration",
+        "Aydınox",
+        "process equipment"
+      ],
+      "h1": "Automation and Process Integration",
+      "asideLabel": "Service Detail",
+      "heroDescription": "Integration of automation and control systems into process lines.",
+      "chips": [
+        "SCADA integration",
+        "Process control",
+        "Data monitoring",
+        "Line optimization"
+      ],
+      "intro": [
+        "We integrate automation, sensor and control systems into process equipment for efficient operation of production lines.",
+        "At Aydınox, we provide end-to-end services in process equipment and plant installation projects."
+      ],
+      "highlights": [
+        {
+          "icon": "lucide:drafting-compass",
+          "title": "SCADA integration",
+          "text": "We serve with our experienced team in SCADA integration."
+        },
+        {
+          "icon": "lucide:factory",
+          "title": "Process control",
+          "text": "We serve with our experienced team in Process control."
+        },
+        {
+          "icon": "lucide:hard-hat",
+          "title": "Data monitoring",
+          "text": "We serve with our experienced team in Data monitoring."
+        },
+        {
+          "icon": "lucide:wrench",
+          "title": "Line optimization",
+          "text": "We serve with our experienced team in Line optimization."
+        }
+      ],
+      "processTitle": "How Does the Process Work?",
+      "processLead": "Standard steps we follow in our projects.",
+      "process": [
+        {
+          "title": "Survey and Analysis",
+          "text": "Process requirements, capacity and site conditions are evaluated."
+        },
+        {
+          "title": "Design and Planning",
+          "text": "Technical drawings, capacity calculation and project plan are prepared."
+        },
+        {
+          "title": "Production / Application",
+          "text": "Workshop production or on-site application is carried out."
+        },
+        {
+          "title": "Commissioning",
+          "text": "Testing, quality control and delivery process is completed."
+        }
+      ],
+      "includedTitle": "Service Scope",
+      "included": [
+        "SCADA integration",
+        "Process control",
+        "Data monitoring",
+        "Line optimization"
+      ],
+      "faqTitle": "Frequently Asked Questions",
+      "faqLead": "Common questions about Automation and Process Integration.",
+      "faq": [
+        {
+          "q": "How can I get a quote for Automation and Process Integration?",
+          "a": "You can reach us via the contact form or phone. Our technical team prepares a quote after you share project details."
+        },
+        {
+          "q": "Which industries do you serve?",
+          "a": "We provide process equipment and plant installation services to food, pharmaceutical, chemical and cosmetic industries."
+        }
+      ]
+    }
+  }
+}
