@@ -8,7 +8,7 @@ function routeName() {
 }
 
 const options = computed(() =>
-  (locales.value as Array<{ code: 'tr' | 'en', name: string }>).map(item => ({
+  (locales.value as Array<{ code: 'tr' | 'en' | 'ar', name: string }>).map(item => ({
     code: item.code,
     label: item.code.toUpperCase(),
     to: localePath({

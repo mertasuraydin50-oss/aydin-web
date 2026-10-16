@@ -3,7 +3,7 @@ import { findProduct } from '~/content/load'
 import { localizeProductLanding } from '~/content/landings'
 import { productPath } from '~/constants/products'
 import { brand, siteUrl } from '~/constants/site'
-import { categorySlugs, localizeSlug, productSlugs } from '~/constants/slugs'
+import { syncedProductParams } from '~/constants/slugs'
 import ProductLandingPage from '~/components/product/ProductLandingPage.vue'
 
 const route = useRoute()
@@ -21,16 +21,7 @@ if (!found) {
 const categoryId = found.category.id
 const productId = found.product.id
 
-await useSyncedI18nParams({
-  tr: {
-    kategori: localizeSlug(categorySlugs, categoryId, 'tr'),
-    slug: localizeSlug(productSlugs, productId, 'tr')
-  },
-  en: {
-    kategori: localizeSlug(categorySlugs, categoryId, 'en'),
-    slug: localizeSlug(productSlugs, productId, 'en')
-  }
-})
+await useSyncedI18nParams(syncedProductParams(categoryId, productId))
 
 const category = computed(() => getLocalizedCategory(kategoriParam))
 const product = computed(() => {

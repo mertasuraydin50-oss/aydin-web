@@ -14,7 +14,8 @@ if (!record) {
 
 await useSyncedI18nParams({
   tr: { slug: record.slugs.tr },
-  en: { slug: record.slugs.en }
+  en: { slug: record.slugs.en },
+  ar: { slug: record.slugs.ar ?? record.slugs.en }
 })
 
 const { t, locale } = useI18n()
@@ -23,8 +24,14 @@ const localized = computed(() => toBlogView(record, locale.value))
 const blocks = computed(() => localized.value.body)
 const others = computed(() => localizedPosts.value.filter(p => p.slug !== record.id).slice(0, 3))
 const minutes = computed(() => readingMinutes(localized.value))
+const dateLocale = computed(() => {
+  if (locale.value === 'ar') return 'ar-SA'
+  if (locale.value === 'en') return 'en-GB'
+  return 'tr-TR'
+})
+
 const formattedDate = computed(() =>
-  new Date(`${record.shared.date}T00:00:00`).toLocaleDateString(locale.value === 'en' ? 'en-GB' : 'tr-TR', {
+  new Date(`${record.shared.date}T00:00:00`).toLocaleDateString(dateLocale.value, {
     day: 'numeric',
     month: 'long',
     year: 'numeric'

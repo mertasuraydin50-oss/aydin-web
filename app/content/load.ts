@@ -10,7 +10,8 @@ import tesisKurulumu from './blog/tesis-kurulumu-proje-yonetimi.json'
 import kimyaOtomasyon from './blog/kimya-sektorunde-proses-otomasyonu.json'
 import type { BlogPost } from '~/constants/blogTypes'
 import { parseBlogBody } from '~/constants/blogTypes'
-import type { AppLocale, ContentRecord, LocaleSlugs } from '~/content/types'
+import type { ContentRecord, LocaleSlugs } from '~/content/types'
+import { normalizeAppLocale, pickLocalizedCopy, type AppLocale } from '~/utils/appLocale'
 import { findBySlug } from '~/content/types'
 
 export type CatalogCopy = {
@@ -34,8 +35,28 @@ export type ServiceRecord = ContentRecord<{
   icon: string
 }, Required<CatalogCopy>>
 
+export type CorporateCertificateCopy = {
+  subtitle: string
+}
+
+export type CorporateCertificate = {
+  id: string
+  image: string
+  certificateNo: string
+  standard: string
+  issued: string
+  expires: string
+  translations: {
+    tr: CorporateCertificateCopy
+    en: CorporateCertificateCopy
+    ar?: CorporateCertificateCopy
+  }
+}
+
 export type CorporateRecord = ContentRecord<{
   layout?: 'about' | 'mission' | 'quality' | 'documents' | 'careers' | 'legal'
+  certificates?: CorporateCertificate[]
+  certificatePdf?: string
 }, {
   title: string
   badge: string
@@ -45,11 +66,23 @@ export type CorporateRecord = ContentRecord<{
 
 export type FaqRecord = {
   id: string
-  translations: Record<AppLocale, {
-    title: string
-    description: string
-    items: { q: string, a: string }[]
-  }>
+  translations: {
+    tr: {
+      title: string
+      description: string
+      items: { q: string, a: string }[]
+    }
+    en: {
+      title: string
+      description: string
+      items: { q: string, a: string }[]
+    }
+    ar?: {
+      title: string
+      description: string
+      items: { q: string, a: string }[]
+    }
+  }
 }
 
 export type BlogCopy = {
@@ -81,11 +114,11 @@ const BLOG_ORDER = [
 ] as const
 
 function asLocale(locale: string): AppLocale {
-  return locale === 'en' ? 'en' : 'tr'
+  return normalizeAppLocale(locale)
 }
 
-function pickCopy<T extends object>(translations: Record<AppLocale, T>, locale: string): T {
-  return asLocale(locale) === 'en' ? translations.en : translations.tr
+function pickCopy<T extends object>(translations: { tr: T, en: T, ar?: T }, locale: string): T {
+  return pickLocalizedCopy(translations, locale)
 }
 
 const blogById: Record<string, BlogRecord> = {
@@ -182,13 +215,27 @@ export function toServiceView(record: ServiceRecord, locale: string) {
 
 export function toCorporateView(record: CorporateRecord, locale: string) {
   const copy = pickCopy(record.translations, locale)
+  const certificates = (record.shared.certificates ?? []).map((certificate) => {
+    const certCopy = pickCopy(certificate.translations, locale)
+    return {
+      id: certificate.id,
+      image: certificate.image,
+      certificateNo: certificate.certificateNo,
+      standard: certificate.standard,
+      issued: certificate.issued,
+      expires: certificate.expires,
+      subtitle: certCopy.subtitle
+    }
+  })
   return {
     slug: record.id,
     title: copy.title,
     badge: copy.badge,
     description: copy.description,
     sections: copy.sections,
-    layout: record.shared.layout
+    layout: record.shared.layout,
+    certificates,
+    certificatePdf: record.shared.certificatePdf
   }
 }
 

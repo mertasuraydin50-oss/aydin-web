@@ -3,6 +3,7 @@
     "label": "Dil",
     "tr": "TR",
     "en": "EN",
+    "ar": "AR",
     "switchTo": "Dili değiştir"
   },
   "brand": {
@@ -181,7 +182,11 @@
   "corporatePage": {
     "valuesTitle": "Değerlerimiz",
     "rolesTitle": "Açık Pozisyonlar",
-    "certificatesTitle": "Sertifikalar",
+    "certificatesTitle": "Sertifikalarımız",
+    "certificateNo": "Sertifika No",
+    "validUntil": "Geçerlilik",
+    "viewPdf": "PDF görüntüle",
+    "downloadAllCertificates": "Tüm sertifikaları indir (PDF)",
     "applyTitle": "Başvuru",
     "applyBody": "Özgeçmişinizi info{'@'}aydinox.com.tr adresine gönderebilirsiniz."
   }

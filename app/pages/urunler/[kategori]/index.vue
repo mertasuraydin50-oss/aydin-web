@@ -2,7 +2,7 @@
 import { categoryHero, productHero } from '~/constants/images'
 import { findCategory } from '~/content/load'
 import { brand } from '~/constants/site'
-import { categorySlugs, localizeSlug } from '~/constants/slugs'
+import { syncedCategoryParams } from '~/constants/slugs'
 
 const route = useRoute()
 const { t } = useI18n()
@@ -17,10 +17,7 @@ if (!found) {
 
 const categoryId = found.id
 
-await useSyncedI18nParams({
-  tr: { kategori: localizeSlug(categorySlugs, categoryId, 'tr') },
-  en: { kategori: localizeSlug(categorySlugs, categoryId, 'en') }
-})
+await useSyncedI18nParams(syncedCategoryParams(categoryId))
 
 const category = computed(() => getLocalizedCategory(kategoriParam)!)
 

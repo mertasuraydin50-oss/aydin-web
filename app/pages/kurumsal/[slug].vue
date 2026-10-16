@@ -1,11 +1,11 @@
 <script setup lang="ts">
 import { findCorporate } from '~/content/load'
 import { brand } from '~/constants/site'
-import { corporateImage, documentImages, productionGallery } from '~/constants/images'
-import { corporateSlugs, localizeSlug } from '~/constants/slugs'
+import { corporateImage, productionGallery } from '~/constants/images'
+import { corporateSlugs, i18nSlugParams } from '~/constants/slugs'
 
 const route = useRoute()
-const { t } = useI18n()
+const { t, locale } = useI18n()
 const { localePath, localizedCorporatePages, getLocalizedCorporate } = useLocalizedContent()
 
 const slugParam = route.params.slug as string
@@ -18,15 +18,24 @@ if (!found) {
 const pageId = found.id
 const layout = found.shared.layout ?? 'about'
 
-await useSyncedI18nParams({
-  tr: { slug: localizeSlug(corporateSlugs, pageId, 'tr') },
-  en: { slug: localizeSlug(corporateSlugs, pageId, 'en') }
-})
+await useSyncedI18nParams(i18nSlugParams(corporateSlugs, pageId))
 
 const page = computed(() => getLocalizedCorporate(slugParam)!)
 const cover = computed(() => corporateImage(pageId))
 const productionPhotos = computed(() => productionGallery(6))
-const certificateImages = computed(() => documentImages())
+const dateLocale = computed(() => {
+  if (locale.value === 'ar') return 'ar-SA'
+  if (locale.value === 'en') return 'en-GB'
+  return 'tr-TR'
+})
+
+function formatCertDate(value: string) {
+  return new Date(`${value}T12:00:00`).toLocaleDateString(dateLocale.value, {
+    day: 'numeric',
+    month: 'long',
+    year: 'numeric'
+  })
+}
 
 useSeoMeta({
   title: () => `${page.value.title} | ${brand.shortName}`,
@@ -159,36 +168,69 @@ useSeoMeta({
           <h2 class="text-2xl font-bold mb-8 text-center">
             {{ t('corporatePage.certificatesTitle') }}
           </h2>
-          <div class="grid sm:grid-cols-2 lg:grid-cols-3 gap-6 mb-12">
-            <div
-              v-for="(src, i) in certificateImages"
-              :key="src"
-              class="rounded-xl overflow-hidden border border-gray-100 bg-white shadow-sm"
+          <div class="grid sm:grid-cols-2 gap-6 mb-10">
+            <article
+              v-for="certificate in page.certificates"
+              :key="certificate.id"
+              class="rounded-xl overflow-hidden border border-gray-100 bg-white shadow-sm flex flex-col"
             >
-              <AppImg
-                :src="src"
-                :alt="`${t('corporatePage.certificatesTitle')} ${i + 1}`"
-                aspect="video"
-              />
-              <div class="p-4 text-center">
-                <p class="font-bold text-sm">
-                  {{ t('corporatePage.certificatesTitle') }} {{ i + 1 }}
+              <a
+                :href="page.certificatePdf"
+                target="_blank"
+                rel="noopener noreferrer"
+                class="block group"
+              >
+                <AppImg
+                  :src="certificate.image"
+                  :alt="`${certificate.standard} — ${certificate.subtitle}`"
+                  aspect="video"
+                />
+              </a>
+              <div class="p-5 flex-1 flex flex-col gap-2">
+                <p class="text-lg font-bold text-blue-800">
+                  {{ certificate.standard }}
                 </p>
+                <p class="text-sm text-gray-700 font-medium">
+                  {{ certificate.subtitle }}
+                </p>
+                <p class="text-xs text-gray-500">
+                  {{ t('corporatePage.certificateNo') }}: {{ certificate.certificateNo }}
+                </p>
+                <p class="text-xs text-gray-500">
+                  {{ t('corporatePage.validUntil') }}: {{ formatCertDate(certificate.expires) }}
+                </p>
+                <a
+                  v-if="page.certificatePdf"
+                  :href="page.certificatePdf"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  class="mt-2 inline-flex items-center gap-1 text-xs font-bold uppercase tracking-wide text-blue-800 hover:text-blue-900"
+                >
+                  {{ t('corporatePage.viewPdf') }}
+                  <Icon
+                    name="lucide:external-link"
+                    class="w-3 h-3"
+                  />
+                </a>
               </div>
-            </div>
-            <div
-              v-for="i in Math.max(0, 3 - certificateImages.length)"
-              :key="`cert-placeholder-${i}`"
-              class="p-6 rounded-xl border border-gray-100 bg-gray-50 text-center"
+            </article>
+          </div>
+          <div
+            v-if="page.certificatePdf"
+            class="mb-12 text-center"
+          >
+            <a
+              :href="page.certificatePdf"
+              target="_blank"
+              rel="noopener noreferrer"
+              class="inline-flex items-center gap-2 px-6 py-3 bg-blue-800 text-white font-bold text-sm uppercase tracking-wider rounded hover:bg-blue-900 transition-colors"
             >
               <Icon
-                name="lucide:file-check"
-                class="w-10 h-10 text-blue-800 mx-auto mb-3"
+                name="lucide:download"
+                class="w-4 h-4"
               />
-              <p class="font-bold text-sm">
-                {{ t('corporatePage.certificatesTitle') }} {{ certificateImages.length + i + 1 }}
-              </p>
-            </div>
+              {{ t('corporatePage.downloadAllCertificates') }}
+            </a>
           </div>
           <div
             v-for="section in page.sections"

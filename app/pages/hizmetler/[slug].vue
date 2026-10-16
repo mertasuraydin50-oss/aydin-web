@@ -3,7 +3,7 @@ import { findService } from '~/content/load'
 import { hasServiceLanding, localizeServiceLanding } from '~/content/landings'
 import { servicePath } from '~/constants/services'
 import { brand, siteUrl } from '~/constants/site'
-import { localizeSlug, serviceSlugs } from '~/constants/slugs'
+import { i18nSlugParams, serviceSlugs } from '~/constants/slugs'
 import ServiceLandingPage from '~/components/service/ServiceLandingPage.vue'
 
 const route = useRoute()
@@ -19,10 +19,7 @@ if (!found || !hasServiceLanding(found.id)) {
 
 const serviceId = found.id
 
-await useSyncedI18nParams({
-  tr: { slug: localizeSlug(serviceSlugs, serviceId, 'tr') },
-  en: { slug: localizeSlug(serviceSlugs, serviceId, 'en') }
-})
+await useSyncedI18nParams(i18nSlugParams(serviceSlugs, serviceId))
 
 const service = computed(() => getLocalizedService(slugParam)!)
 const page = computed(() => localizeServiceLanding(serviceId, locale.value)!)

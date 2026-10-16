@@ -1,6 +1,11 @@
 @import "tailwindcss";
 @import "@nuxt/ui";
 
+html[dir="rtl"] body.locale-ar,
+html[dir="rtl"] .font-montserrat {
+  font-family: 'Cairo', 'Montserrat', ui-sans-serif, system-ui, sans-serif;
+}
+
 @theme static {
   --font-sans: 'Montserrat', ui-sans-serif, system-ui, sans-serif;
   --color-brand-navy: #1e3a5f;

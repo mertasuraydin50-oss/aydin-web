@@ -18,8 +18,8 @@ import uretimImalat from './landings/services/uretim-imalat.json'
 import montajTesis from './landings/services/montaj-tesis-kurulumu.json'
 import bakimServis from './landings/services/bakim-servis.json'
 import otomasyon from './landings/services/otomasyon-proses-entegrasyonu.json'
-import type { AppLocale } from '~/content/types'
 import { pickLocale } from '~/content/types'
+import { normalizeAppLocale, type AppLocale } from '~/utils/appLocale'
 
 export type ProductLandingContent = {
   seoTitle: string
@@ -62,7 +62,7 @@ export type ServiceLandingContent = {
 
 type LandingRecord<T> = {
   id: string
-  translations: Record<AppLocale, T>
+  translations: { tr: T, en: T, ar?: T }
 }
 
 const productLandings: LandingRecord<ProductLandingContent>[] = [
@@ -78,7 +78,7 @@ const serviceLandings: LandingRecord<ServiceLandingContent>[] = [
 ] as LandingRecord<ServiceLandingContent>[]
 
 function asLocale(locale: string): AppLocale {
-  return locale === 'en' ? 'en' : 'tr'
+  return normalizeAppLocale(locale)
 }
 
 function findById<T extends { id: string }>(records: T[], slug: string) {

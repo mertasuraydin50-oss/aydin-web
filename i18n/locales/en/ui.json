@@ -3,6 +3,7 @@
     "label": "Language",
     "tr": "TR",
     "en": "EN",
+    "ar": "AR",
     "switchTo": "Switch language"
   },
   "brand": {
@@ -181,7 +182,11 @@
   "corporatePage": {
     "valuesTitle": "Our Values",
     "rolesTitle": "Open Positions",
-    "certificatesTitle": "Certificates",
+    "certificatesTitle": "Our Certificates",
+    "certificateNo": "Certificate No.",
+    "validUntil": "Valid until",
+    "viewPdf": "View PDF",
+    "downloadAllCertificates": "Download all certificates (PDF)",
     "applyTitle": "Application",
     "applyBody": "You can send your CV to info{'@'}aydinox.com.tr."
   }

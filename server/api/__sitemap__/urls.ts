@@ -12,7 +12,7 @@ import {
   type AppLocale
 } from '~/constants/slugs'
 
-const LOCALES: AppLocale[] = ['tr', 'en']
+const LOCALES: AppLocale[] = ['tr', 'en', 'ar']
 
 export default defineSitemapEventHandler(() => {
   const urls: {

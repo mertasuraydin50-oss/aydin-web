@@ -12,30 +12,69 @@
       "tr": {
         "title": "Hakkımızda",
         "badge": "Kurumsal",
-        "description": "Aydınox Proses Makine, paslanmaz çelik proses ekipmanları ve tesis kurulumu alanında güvenilir bir çözüm ortağıdır.",
+        "description": "Gebze-Kocaeli merkezli Aydınox; paslanmaz çelik proses ekipmanları, mühendislik ve tesis kurulumunda uçtan uca çözüm sunar.",
         "sections": [
           {
             "heading": "Biz Kimiz?",
-            "body": "Aydınox Proses Makine, proses, makine, imalat, tank ve fabrika kurulumu alanlarında proje tasarım, üretim, montaj ve servis hizmetleri sunan global odaklı bir üreticidir."
+            "body": "Aydın Proses Makine Sanayi Ticaret Limited Şirketi (Aydınox), kimya, gıda, ilaç, kozmetik ve boya sektörlerine yönelik paslanmaz çelik proses ekipmanları üreten; mühendislik, tasarım, imalat, montaj, devreye alma ve servis faaliyetlerini tek çatı altında yürüten bir üretim ve proje firmasıdır."
           },
           {
             "heading": "Ne Yapıyoruz?",
-            "body": "Paslanmaz çelik tanklar, reaktörler, karıştırıcılar, filtreler, etüv uygulamaları ve müşteri talebine özel makineler üretiyor; tesisat montaj ve otomasyon hizmetleriyle projeleri uçtan uca tamamlıyoruz."
+            "body": "Reaktörler, tanklar, silo sistemleri, ısı eşanjörleri, karıştırıcılar, filtreler, etüv hatları ve özel tasarım makineler imal ediyoruz. Proje tasarımından saha montajına ve otomasyona kadar tüm süreci müşterilerimizle birlikte planlıyoruz."
+          },
+          {
+            "heading": "Hizmet Verdiğimiz Sektörler",
+            "body": "Gıda ve içecek, ilaç, kozmetik, kimya ve boya endüstrilerinde hijyenik ve proses güvenliği odaklı ekipmanlar sunuyoruz. Her proje için kapasite, akışkan özellikleri ve yerel mevzuat gereksinimleri dikkate alınır."
+          },
+          {
+            "heading": "Neden Aydınox?",
+            "body": "Sahada kanıtlanmış referans projeler, TSE uyumlu üretim disiplini ve ISO yönetim sistemleriyle belgelenmiş süreçlerimiz; müşterilerimize güvenilir teslimat ve uzun ömürlü ekipman anlamına gelir. Teknik ekibimiz tekliften devreye almaya kadar yanınızda kalır."
           }
         ]
       },
       "en": {
         "title": "About Us",
         "badge": "Corporate",
-        "description": "Aydınox Process Machinery is a trusted partner in stainless steel process equipment and plant installation.",
+        "description": "Based in Gebze-Kocaeli, Aydınox delivers end-to-end stainless steel process equipment, engineering and plant installation.",
         "sections": [
           {
             "heading": "Who We Are",
-            "body": "Aydınox Process Machinery is a globally focused manufacturer offering project design, production, assembly and service in process, machinery, manufacturing, tanks and plant installation."
+            "body": "Aydın Process Machinery Industry and Trade Ltd. (Aydınox) manufactures stainless steel process equipment for chemical, food, pharmaceutical, cosmetic and paint industries, covering engineering, design, manufacturing, assembly, commissioning and service under one roof."
           },
           {
             "heading": "What We Do",
-            "body": "We manufacture stainless steel tanks, reactors, mixers, filters, oven applications and custom machines; we complete projects end-to-end with piping assembly and automation services."
+            "body": "We build reactors, tanks, silo systems, heat exchangers, mixers, filters, oven lines and custom-designed machines. From project design to on-site assembly and automation, we plan the full journey with our customers."
+          },
+          {
+            "heading": "Industries We Serve",
+            "body": "We supply hygienic, process-safe equipment for food and beverage, pharmaceutical, cosmetic, chemical and paint industries. Capacity, fluid properties and local regulatory requirements are considered for every project."
+          },
+          {
+            "heading": "Why Aydınox",
+            "body": "Proven reference projects, TSE-aligned manufacturing discipline and ISO-certified management systems mean reliable delivery and long-lasting equipment. Our technical team stays with you from quote to commissioning."
+          }
+        ]
+      },
+      "ar": {
+        "title": "من نحن",
+        "badge": "الشركة",
+        "description": "أيدينوكس في غبزة-قوجا إيلي تقدم معدات عمليات من الفولاذ المقاوم للصدأ والهندسة وتركيب المنشآت بشكل متكامل.",
+        "sections": [
+          {
+            "heading": "من نحن؟",
+            "body": "شركة أيدين بروسيس ماشيني للصناعة والتجارة المحدودة (أيدينوكس) تصنع معدات عمليات من الفولاذ المقاوم للصدأ لقطاعات الكيماويات والغذاء والأدوية ومستحضرات التجميل والدهانات، وتغطي الهندسة والتصميم والتصنيع والتركيب والتشغيل والخدمة."
+          },
+          {
+            "heading": "ماذا نقدم؟",
+            "body": "نصنع المفاعلات والخزانات وأنظمة الصوامع ومبادلات الحرارة والخلاطات والفلاتر وخطوط الأفران والآلات المصممة خصيصاً. نخطط المسار الكامل مع العملاء من التصميم إلى التركيب في الموقع والأتمتة."
+          },
+          {
+            "heading": "القطاعات",
+            "body": "نورد معدات صحية وآمنة للعمليات في صناعات الغذاء والمشروبات والأدوية ومستحضرات التجميل والكيماويات والدهانات."
+          },
+          {
+            "heading": "لماذا أيدينوكس؟",
+            "body": "مشاريع مرجعية مثبتة وانضباط إنتاج متوافق مع TSE وأنظمة إدارة معتمدة وفق ISO تعني تسليماً موثوقاً ومعدات طويلة العمر."
           }
         ]
       }
@@ -54,30 +93,69 @@
       "tr": {
         "title": "Misyon & Vizyon",
         "badge": "Kurumsal",
-        "description": "Kaliteli, güvenilir ve yenilikçi üretim çözümleriyle sektörde öncü olma hedefimiz.",
+        "description": "Kalite, güvenlik, çevre ve müşteri memnuniyetini birlikte yöneten bir üretim kültürü.",
         "sections": [
           {
             "heading": "Misyonumuz",
-            "body": "Müşterilerimize kaliteli, güvenilir ve yenilikçi üretim ve mühendislik çözümleri sunarak işlerini daha verimli hale getirmeyi ve başarılarını artırmayı hedefliyoruz."
+            "body": "Müşterilerimizin proses ihtiyaçlarına uygun, güvenli ve verimli ekipmanlar tasarlayıp üretmek; montaj ve servisle yatırımların zamanında ve sürdürülebilir şekilde devreye alınmasını sağlamak."
           },
           {
             "heading": "Vizyonumuz",
-            "body": "Proses makine ve paslanmaz çelik ekipman üretiminde Türkiye'nin ve bölgenin tercih edilen, teknolojide lider üreticilerinden biri olmak."
+            "body": "Paslanmaz çelik proses ekipmanlarında Türkiye ve çevre bölgelerde ilk akla gelen, teknoloji ve mühendislik gücüyle fark yaratan bir marka olmak."
+          },
+          {
+            "heading": "Değerlerimiz",
+            "body": "İş güvenliği, çevreye saygı, şeffaf iletişim, mühendislikte doğruluk ve müşteri odaklılık. Her projede kaliteyi ölçülebilir standartlarla takip ederiz."
+          },
+          {
+            "heading": "Sürdürülebilirlik",
+            "body": "ISO 14001 ve ISO 45001 sistemleriyle çevresel etkiyi ve iş sağlığı güvenliğini yönetir; ISO 10002 ile müşteri geri bildirimlerini sürekli iyileştirme döngüsüne dahil ederiz."
           }
         ]
       },
       "en": {
         "title": "Mission & Vision",
         "badge": "Corporate",
-        "description": "Our goal is to be a leader in the industry with quality, reliable and innovative production solutions.",
+        "description": "A production culture that manages quality, safety, environment and customer satisfaction together.",
         "sections": [
           {
             "heading": "Our Mission",
-            "body": "We aim to make our customers' businesses more efficient and increase their success by providing quality, reliable and innovative production and engineering solutions."
+            "body": "To design and manufacture safe, efficient equipment aligned with our customers' process needs, and to deliver and commission investments on time through assembly and service."
           },
           {
             "heading": "Our Vision",
-            "body": "To be one of Turkey's and the region's preferred, technology-leading manufacturers in process machinery and stainless steel equipment production."
+            "body": "To be the first brand that comes to mind in stainless steel process equipment in Turkey and neighbouring regions, standing out with engineering and technology strength."
+          },
+          {
+            "heading": "Our Values",
+            "body": "Occupational safety, respect for the environment, transparent communication, engineering integrity and customer focus. We track quality with measurable standards on every project."
+          },
+          {
+            "heading": "Sustainability",
+            "body": "We manage environmental impact and occupational health and safety through ISO 14001 and ISO 45001, and integrate customer feedback into continuous improvement through ISO 10002."
+          }
+        ]
+      },
+      "ar": {
+        "title": "الرسالة والرؤية",
+        "badge": "الشركة",
+        "description": "ثقافة إنتاج تدير الجودة والسلامة والبيئة ورضا العملاء معاً.",
+        "sections": [
+          {
+            "heading": "رسالتنا",
+            "body": "تصميم وتصنيع معدات آمنة وفعالة وفق احتياجات عمليات العملاء، وضمان التشغيل في الوقت المناسب عبر التركيب والخدمة."
+          },
+          {
+            "heading": "رؤيتنا",
+            "body": "أن نكون العلامة الأولى في معدات العمليات من الفولاذ المقاوم للصدأ في تركيا والمنطقة."
+          },
+          {
+            "heading": "قيمنا",
+            "body": "سلامة العمل، احترام البيئة، تواصل شفاف، دقة هندسية وتركيز على العميل."
+          },
+          {
+            "heading": "الاستدامة",
+            "body": "إدارة الأثر البيئي وسلامة العمل عبر ISO 14001 و ISO 45001، وتحسين مستمر عبر ISO 10002."
           }
         ]
       }
@@ -100,11 +178,19 @@
         "sections": [
           {
             "heading": "Kalite Anlayışımız",
-            "body": "Kalite politikamız; kanunlara ve yasal düzenlemelere titizlikle uyarak, topluma, doğal çevreye ve insanlığa yararlı olma hassasiyetini göstererek, müşterilerimizin ihtiyaç ve beklentilerini karşılayacak kaliteli ve güvenli ürünler üretmektir."
+            "body": "Kalite; yalnızca ürün kontrolü değil, tasarımdan montaja kadar tüm süreçlerde müşteri şartnamesine, yasal düzenlemelere ve iş güvenliği kurallarına uyumdur. Her aşamada kayıt altına alınan kontrollerle izlenebilir üretim yapılır."
           },
           {
-            "heading": "Standartlar",
-            "body": "TSE standartlarında üretim yapıyor; gıda, ilaç, kozmetik ve kimya sektörlerinin hijyenik sistem gereksinimlerine uygun ekipman ve tesisat çözümleri sunuyoruz."
+            "heading": "TSE ve Sektörel Uyum",
+            "body": "TSE standartları ve sektörel hijyen gereksinimleri temel referansımızdır. Gıda, ilaç, kozmetik ve kimya projelerinde malzeme seçimi, yüzey işlemi ve kaynak kalitesi proses risklerine göre belirlenir."
+          },
+          {
+            "heading": "Entegre Yönetim Sistemleri",
+            "body": "ISO 9001 kalite, ISO 14001 çevre, ISO 45001 iş sağlığı ve güvenliği ile ISO 10002 müşteri memnuniyeti sertifikalarımız DSR Belgelendirme denetimleriyle yürütülür. Sertifikalarımız Belgeler sayfasında ayrı ayrı yayınlanmaktadır."
+          },
+          {
+            "heading": "Sürekli İyileştirme",
+            "body": "İç denetimler, müşteri geri bildirimleri ve saha servis kayıtları iyileştirme planlarımızın girdisidir. Hedefimiz; daha güvenli üretim, daha az çevresel etki ve daha yüksek müşteri memnuniyeti."
           }
         ]
       },
@@ -115,11 +201,42 @@
         "sections": [
           {
             "heading": "Our Quality Approach",
-            "body": "Our quality policy is to produce quality and safe products that meet our customers' needs and expectations, while strictly complying with laws and regulations and showing sensitivity to society, the environment and humanity."
+            "body": "Quality is not only final inspection but compliance with customer specifications, regulations and safety rules from design to assembly. Production is traceable through documented controls at every stage."
           },
           {
-            "heading": "Standards",
-            "body": "We manufacture in accordance with TSE standards; we offer equipment and piping solutions suitable for the hygienic system requirements of food, pharmaceutical, cosmetic and chemical industries."
+            "heading": "TSE and Industry Compliance",
+            "body": "TSE standards and industry hygiene requirements are our baseline. Material selection, surface finish and weld quality are defined according to process risks in food, pharmaceutical, cosmetic and chemical projects."
+          },
+          {
+            "heading": "Integrated Management Systems",
+            "body": "Our ISO 9001, ISO 14001, ISO 45001 and ISO 10002 certificates are maintained through DSR Certification audits. Each certificate is published separately on the Certificates page."
+          },
+          {
+            "heading": "Continuous Improvement",
+            "body": "Internal audits, customer feedback and field service records feed our improvement plans. We aim for safer production, lower environmental impact and higher customer satisfaction."
+          }
+        ]
+      },
+      "ar": {
+        "title": "سياسة الجودة",
+        "badge": "الشركة",
+        "description": "إنتاج عالي الجودة متوافق مع القوانين واللوائح وتوقعات العملاء.",
+        "sections": [
+          {
+            "heading": "نهج الجودة",
+            "body": "الجودة هي الامتثال للمواصفات واللوائح وقواعد السلامة من التصميم إلى التركيب."
+          },
+          {
+            "heading": "TSE والامتثال القطاعي",
+            "body": "معايير TSE ومتطلبات النظافة الصناعية هي مرجعنا الأساسي."
+          },
+          {
+            "heading": "أنظمة الإدارة المتكاملة",
+            "body": "شهادات ISO 9001 و14001 و45001 و10002 تُدار عبر تدقيقات DSR ومنشورة في صفحة الشهادات."
+          },
+          {
+            "heading": "التحسين المستمر",
+            "body": "التدقيق الداخلي وملاحظات العملاء وسجلات الخدمة تغذي خطط التحسين."
           }
         ]
       }
@@ -132,36 +249,118 @@
       "en": "certificates"
     },
     "shared": {
-      "layout": "documents"
+      "layout": "documents",
+      "certificatePdf": "/certificates/aydinox-iso-belgeleri.pdf",
+      "certificates": [
+        {
+          "id": "iso-9001",
+          "image": "/certificates/iso-1.png",
+          "certificateNo": "QMS-26.01.346",
+          "standard": "ISO 9001:2015",
+          "issued": "2026-02-03",
+          "expires": "2027-02-02",
+          "translations": {
+            "tr": { "subtitle": "Kalite Yönetim Sistemi" },
+            "en": { "subtitle": "Quality Management System" },
+            "ar": { "subtitle": "نظام إدارة الجودة" }
+          }
+        },
+        {
+          "id": "iso-14001",
+          "image": "/certificates/iso-2.png",
+          "certificateNo": "EMS-26.01.346",
+          "standard": "ISO 14001:2015",
+          "issued": "2026-02-03",
+          "expires": "2027-02-02",
+          "translations": {
+            "tr": { "subtitle": "Çevre Yönetim Sistemi" },
+            "en": { "subtitle": "Environmental Management System" },
+            "ar": { "subtitle": "نظام الإدارة البيئية" }
+          }
+        },
+        {
+          "id": "iso-45001",
+          "image": "/certificates/iso-3.png",
+          "certificateNo": "ISG-26.01.346",
+          "standard": "ISO 45001:2018",
+          "issued": "2026-02-03",
+          "expires": "2027-02-02",
+          "translations": {
+            "tr": { "subtitle": "İş Sağlığı ve Güvenliği Yönetim Sistemi" },
+            "en": { "subtitle": "Occupational Health and Safety Management System" },
+            "ar": { "subtitle": "نظام إدارة السلامة والصحة المهنية" }
+          }
+        },
+        {
+          "id": "iso-10002",
+          "image": "/certificates/iso-4.png",
+          "certificateNo": "M-26.01.346",
+          "standard": "ISO 10002:2018",
+          "issued": "2026-02-03",
+          "expires": "2027-02-02",
+          "translations": {
+            "tr": { "subtitle": "Müşteri Memnuniyeti Yönetim Sistemi" },
+            "en": { "subtitle": "Customer Satisfaction Management System" },
+            "ar": { "subtitle": "نظام إدارة رضا العملاء" }
+          }
+        }
+      ]
     },
     "translations": {
       "tr": {
         "title": "Belgeler",
         "badge": "Kurumsal",
-        "description": "Kalite, güvenlik ve uygunluk belgelerimiz.",
+        "description": "DSR Belgelendirme tarafından verilen ISO yönetim sistemi sertifikalarımız.",
         "sections": [
           {
-            "heading": "Sertifikalar & Uygunluk",
-            "body": "Ürün ve hizmetlerimiz ilgili teknik standartlara uygun olarak üretilmektedir. Güncel belge listesi talep üzerine paylaşılmaktadır."
+            "heading": "Sertifika Kapsamı",
+            "body": "Kimya, gıda, ilaç, kozmetik ve boya sektörlerine yönelik paslanmaz çelik proses ekipmanları, reaktörler, tanklar, silo sistemleri, ısı eşanjörleri ve özel tasarım makinelerin mühendislik, tasarım, imalat, montaj, devreye alma ve servis faaliyetleri sertifika kapsamındadır."
+          },
+          {
+            "heading": "Belgelendirme Kuruluşu",
+            "body": "Sertifikalar DSR Certification and Inspection, LLC tarafından düzenlenmiş ve denetlenmektedir. Sertifika numaraları ve geçerlilik tarihleri her kartın altında belirtilmiştir."
           },
           {
             "heading": "Teknik Dokümantasyon",
-            "body": "Montaj kılavuzları, proses şemaları ve proje dokümanları teknik ekibimiz tarafından hazırlanmaktadır."
+            "body": "Montaj kılavuzları, P&ID ve proje dosyaları proje bazında hazırlanır. Talep halinde müşterilerimizle paylaşılır."
           }
         ]
       },
       "en": {
         "title": "Certificates",
         "badge": "Corporate",
-        "description": "Our quality, safety and compliance certificates.",
+        "description": "Our ISO management system certificates issued by DSR Certification.",
         "sections": [
           {
-            "heading": "Certificates & Compliance",
-            "body": "Our products and services are manufactured in accordance with relevant technical standards. The current certificate list is shared upon request."
+            "heading": "Certificate Scope",
+            "body": "Engineering, design, manufacturing, assembly, commissioning and service of stainless steel process equipment, reactors, tanks, silo systems, heat exchangers and custom-designed machines for chemical, food, pharmaceutical, cosmetic and paint industries."
+          },
+          {
+            "heading": "Certification Body",
+            "body": "Certificates are issued and audited by DSR Certification and Inspection, LLC. Certificate numbers and validity dates are shown on each card."
           },
           {
             "heading": "Technical Documentation",
-            "body": "Assembly manuals, process diagrams and project documents are prepared by our technical team."
+            "body": "Assembly manuals, P&IDs and project files are prepared per project and shared with customers on request."
+          }
+        ]
+      },
+      "ar": {
+        "title": "الشهادات",
+        "badge": "الشركة",
+        "description": "شهادات نظم الإدارة ISO من DSR.",
+        "sections": [
+          {
+            "heading": "نطاق الشهادة",
+            "body": "الهندسة والتصميم والتصنيع والتركيب والتشغيل والخدمة لمعدات العمليات من الفولاذ المقاوم للصدأ للقطاعات الكيميائية والغذائية والدوائية ومستحضرات التجميل والدهانات."
+          },
+          {
+            "heading": "جهة الاعتماد",
+            "body": "الشهادات صادرة عن DSR Certification and Inspection, LLC."
+          },
+          {
+            "heading": "الوثائق الفنية",
+            "body": "أدلة التركيب ومخططات العمليات تُعد لكل مشروع عند الطلب."
           }
         ]
       }

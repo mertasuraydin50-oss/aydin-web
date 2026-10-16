@@ -3,7 +3,12 @@ import * as uiLocales from '@nuxt/ui/locale'
 import { brand, seoKeywords, seoKeywordsMeta, siteUrl } from '~/constants/site'
 
 const { locale, t } = useI18n()
-const uiLocale = computed(() => uiLocales[locale.value as keyof typeof uiLocales] ?? uiLocales.tr)
+const uiLocale = computed(() => {
+  const key = locale.value as keyof typeof uiLocales
+  return uiLocales[key] ?? (locale.value === 'ar' ? uiLocales.ar : uiLocales.tr)
+})
+
+const pageDir = computed(() => (locale.value === 'ar' ? 'rtl' : 'ltr'))
 
 useHead({
   meta: [
@@ -11,10 +16,19 @@ useHead({
     { name: 'keywords', content: seoKeywordsMeta }
   ],
   link: [
-    { rel: 'icon', href: '/logo.jpeg' }
+    { rel: 'icon', href: '/logo.jpeg' },
+    {
+      rel: 'stylesheet',
+      href: 'https://fonts.googleapis.com/css2?family=Cairo:wght@400;500;600;700;800&display=swap',
+      key: 'cairo-font'
+    }
   ],
   htmlAttrs: {
-    lang: locale
+    lang: () => locale.value,
+    dir: () => pageDir.value
+  },
+  bodyAttrs: {
+    class: () => (locale.value === 'ar' ? 'locale-ar' : '')
   },
   script: [
     {
