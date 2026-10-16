@@ -2,6 +2,7 @@
 import { blogCover, categoryHero, homeImages } from '~/constants/images'
 import { brand } from '~/constants/site'
 
+  
 const { t } = useI18n()
 const {
   localizedCategories,
