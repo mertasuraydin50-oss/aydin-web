@@ -1,0 +1,195 @@
+{
+  "id": "ms-serisi-kum-degirmeni",
+  "translations": {
+    "tr": {
+      "seoTitle": "MS Serisi Kum Değirmeni 30L 60L 100L | Aydınox Distribütör",
+      "seoDescription": "MS 30L, MS 60L ve MS 100L yatay kum değirmenleri Aydınox distribütörlüğündedir. 15–30 μm incelik, zirkonya ortam ve ceketli soğutma.",
+      "keywords": [
+        "MS serisi kum değirmeni",
+        "MS 30L",
+        "MS 60L",
+        "MS 100L",
+        "yatay kum değirmeni",
+        "Aydınox distribütör"
+      ],
+      "heroDescription": "MS 30L, MS 60L ve MS 100L yatay kum değirmenleri. Tedarik Aydınox distribütörlüğü üzerinden yapılır.",
+      "chips": [
+        "Aydınox distribütörlüğü",
+        "30 L / 60 L / 100 L",
+        "Zirkonya boncuk",
+        "IP55 patlamaya dayanıklı pano"
+      ],
+      "intro": [
+        "MS serisi; 30 L, 60 L ve 100 L kapasiteli yatay kum değirmenlerini kapsar. Uygulanabilir viskozite 30–30.000 cps aralığındadır. Öğütme inceliği 15–30 μm’dir; MS 30L modelinde 15 μm altına inilebilir.",
+        "MS 30L disk tipi, MS 60L ve MS 100L bıçak tipi öğütme yapısına sahiptir. Aydınox bu serinin distribütörüdür. Model seçimi, teknik doğrulama ve teklif Aydınox üzerinden ilerler."
+      ],
+      "highlights": [
+        {
+          "icon": "lucide:handshake",
+          "title": "Aydınox distribütörlüğü",
+          "text": "MS 30L, MS 60L ve MS 100L Aydınox distribütörlüğü ile tedarik edilir."
+        },
+        {
+          "icon": "lucide:layers",
+          "title": "Üç kapasite",
+          "text": "30 L disk tipi, 60 L ve 100 L bıçak tipi öğütme yapısı ile seri seçenek sunar."
+        },
+        {
+          "icon": "lucide:sparkles",
+          "title": "Zirkonya öğütme ortamı",
+          "text": "0,8–1,6 mm zirkonya (ZrO₂) boncuk kullanılır. Yaklaşık makine ağırlığı 900–2.500 kg aralığındadır."
+        },
+        {
+          "icon": "lucide:shield-check",
+          "title": "Dört koruma",
+          "text": "Basınç, salmastra sızıntısı, sirkülasyon basıncı ve sıcaklık koruması bulunur. Elektrik kutusu IP55 ve patlamaya dayanıklıdır."
+        }
+      ],
+      "specs": [
+        ["Tedarik", "Aydınox distribütörlüğü"],
+        ["Modeller", "MS 30L / MS 60L / MS 100L"],
+        ["Uygulanabilir viskozite", "30–30.000 cps"],
+        ["Öğütme inceliği", "15–30 μm (MS 30L’de 15 μm altı)"],
+        ["Öğütme ortamı", "0,8–1,6 mm zirkonya (ZrO₂) boncuk"],
+        ["Yaklaşık ağırlık", "900–2.500 kg"],
+        ["Öğütme yapısı", "MS 30L disk tipi; MS 60L ve MS 100L bıçak tipi"],
+        ["Boşaltma", "MS 30L elekli boşaltma; MS 60L ve MS 100L yüksek debili dinamik elek ayırıcı"],
+        ["Salmastra", "MS 30L ve MS 60L tek yüzlü; MS 100L çift yüzlü mekanik salmastra, maks. 0,6 MPa"],
+        ["Gövde", "Aşınmaya dayanıklı alaşımlı çelik iç silindir, 304 paslanmaz çelik dış silindir"],
+        ["Soğutma", "Hazne ceketinde spiral su kanalı, 5–15 °C endüstriyel soğutma suyu"],
+        ["Kontrol", "Doğrudan yıldız-üçgen, patlamaya dayanıklı elektrik kutusu, IP55"],
+        ["Koruma", "Basınç, salmastra sızıntısı, sirkülasyon basıncı, sıcaklık"],
+        ["Uygulama", "Su bazlı ve solvent bazlı süspansiyonlar"]
+      ],
+      "usesTitle": "Kullanım Alanları",
+      "usesLead": "MS serisi, süspansiyon formundaki ürünlerin ince öğütülmesi için tercih edilir.",
+      "uses": [
+        {
+          "title": "Su bazlı süspansiyon",
+          "text": "Su bazlı karışımlarda hedef inceliğe kadar öğütme."
+        },
+        {
+          "title": "Solvent bazlı süspansiyon",
+          "text": "Solvent bazlı karışımlarda kapalı öğütme ve elekli ayırma."
+        },
+        {
+          "title": "Kapasite seçimi",
+          "text": "Parti hacmine göre 30 L, 60 L veya 100 L model seçilir."
+        }
+      ],
+      "faqTitle": "Sık Sorulan Sorular",
+      "faqLead": "MS serisi kum değirmeni hakkında.",
+      "faq": [
+        {
+          "q": "Aydınox bu serinin üreticisi mi?",
+          "a": "Hayır. Aydınox, MS 30L, MS 60L ve MS 100L kum değirmenlerinin distribütörüdür."
+        },
+        {
+          "q": "Modeller arasındaki temel fark nedir?",
+          "a": "MS 30L disk tipi öğütme ve elekli boşaltma kullanır. MS 60L ve MS 100L bıçak tipi öğütme ve yüksek debili dinamik elek ayırıcı kullanır. MS 100L çift yüzlü mekanik salmastraya sahiptir."
+        },
+        {
+          "q": "Fiyat nasıl alınır?",
+          "a": "Güncel fiyat kur ve teslim koşullarına bağlıdır. İstediğiniz kapasiteyi belirterek teklif isteyebilirsiniz."
+        }
+      ],
+      "specsTitle": "Teknik Özellikler",
+      "specsLead": "MS 30L, MS 60L ve MS 100L için birleşik teknik değerler."
+    },
+    "en": {
+      "seoTitle": "MS Series Sand Mill 30L 60L 100L | Aydınox Distributor",
+      "seoDescription": "MS 30L, MS 60L and MS 100L horizontal sand mills are supplied through Aydınox distribution. 15–30 μm fineness, zirconia media and jacketed cooling.",
+      "keywords": [
+        "MS series sand mill",
+        "MS 30L",
+        "MS 60L",
+        "MS 100L",
+        "horizontal sand mill",
+        "Aydınox distributor"
+      ],
+      "heroDescription": "MS 30L, MS 60L and MS 100L horizontal sand mills. Supply is handled through Aydınox distribution.",
+      "chips": [
+        "Aydınox distribution",
+        "30 L / 60 L / 100 L",
+        "Zirconia beads",
+        "IP55 explosion-proof panel"
+      ],
+      "intro": [
+        "The MS series covers horizontal sand mills in 30 L, 60 L and 100 L. Applicable viscosity is 30–30,000 cps. Grinding fineness is 15–30 μm, and the MS 30L can go below 15 μm.",
+        "The MS 30L uses a disc grinding structure. The MS 60L and MS 100L use a blade structure. Aydınox is the distributor of this series. Model selection, technical confirmation and quotes go through Aydınox."
+      ],
+      "highlights": [
+        {
+          "icon": "lucide:handshake",
+          "title": "Aydınox distribution",
+          "text": "The MS 30L, MS 60L and MS 100L are supplied through Aydınox distribution."
+        },
+        {
+          "icon": "lucide:layers",
+          "title": "Three capacities",
+          "text": "The series offers a 30 L disc mill and 60 L and 100 L blade mills."
+        },
+        {
+          "icon": "lucide:sparkles",
+          "title": "Zirconia grinding media",
+          "text": "0.8–1.6 mm zirconia (ZrO₂) beads are used. Approximate machine weight is 900–2,500 kg."
+        },
+        {
+          "icon": "lucide:shield-check",
+          "title": "Four protections",
+          "text": "Pressure, seal leakage, circulation pressure and temperature protection are included. The electrical box is IP55 and explosion-proof."
+        }
+      ],
+      "specs": [
+        ["Supply", "Aydınox distribution"],
+        ["Models", "MS 30L / MS 60L / MS 100L"],
+        ["Applicable viscosity", "30–30,000 cps"],
+        ["Grinding fineness", "15–30 μm (below 15 μm on the MS 30L)"],
+        ["Grinding media", "0.8–1.6 mm zirconia (ZrO₂) beads"],
+        ["Approximate weight", "900–2,500 kg"],
+        ["Grinding structure", "Disc type on the MS 30L; blade type on the MS 60L and MS 100L"],
+        ["Discharge", "Screen discharge on the MS 30L; high-flow dynamic screen separator on the MS 60L and MS 100L"],
+        ["Seal", "Single-face mechanical seal on the MS 30L and MS 60L; double-face on the MS 100L, max. 0.6 MPa"],
+        ["Body", "Wear-resistant alloy steel inner cylinder, 304 stainless steel outer cylinder"],
+        ["Cooling", "Spiral water channel in the chamber jacket, 5–15 °C industrial chilled water"],
+        ["Control", "Direct star-delta, explosion-proof electrical box, IP55"],
+        ["Protection", "Pressure, seal leakage, circulation pressure, temperature"],
+        ["Application", "Water-based and solvent-based slurries"]
+      ],
+      "usesTitle": "Applications",
+      "usesLead": "The MS series is used for fine grinding of slurry products.",
+      "uses": [
+        {
+          "title": "Water-based slurry",
+          "text": "Grinding water-based mixtures down to the target fineness."
+        },
+        {
+          "title": "Solvent-based slurry",
+          "text": "Closed grinding and screen separation for solvent-based mixtures."
+        },
+        {
+          "title": "Capacity selection",
+          "text": "The 30 L, 60 L or 100 L model is selected according to batch volume."
+        }
+      ],
+      "faqTitle": "Frequently Asked Questions",
+      "faqLead": "About the MS series sand mill.",
+      "faq": [
+        {
+          "q": "Is Aydınox the manufacturer of this series?",
+          "a": "No. Aydınox is the distributor of the MS 30L, MS 60L and MS 100L sand mills."
+        },
+        {
+          "q": "What is the main difference between the models?",
+          "a": "The MS 30L uses disc grinding and screen discharge. The MS 60L and MS 100L use blade grinding and a high-flow dynamic screen separator. The MS 100L has a double-face mechanical seal."
+        },
+        {
+          "q": "How do I get a price?",
+          "a": "Current pricing depends on exchange rates and delivery terms. Request a quote and state the capacity you need."
+        }
+      ],
+      "specsTitle": "Technical Specifications",
+      "specsLead": "Combined technical values for the MS 30L, MS 60L and MS 100L."
+    }
+  }
+}

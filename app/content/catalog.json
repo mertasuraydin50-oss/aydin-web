@@ -528,5 +528,95 @@
         }
       }
     ]
+  },
+  {
+    "id": "distributorler",
+    "slugs": {
+      "tr": "distributorler",
+      "en": "distributors"
+    },
+    "shared": {
+      "icon": "i-lucide-handshake"
+    },
+    "translations": {
+      "tr": {
+        "label": "Distribütörler",
+        "description": "Aydınox distribütörlüğündeki yatay kum değirmenleri."
+      },
+      "en": {
+        "label": "Distributors",
+        "description": "Horizontal sand mills supplied through Aydınox distribution."
+      }
+    },
+    "products": [
+      {
+        "id": "ms-30l-yatay-kum-degirmeni",
+        "slugs": {
+          "tr": "ms-30l-yatay-kum-degirmeni",
+          "en": "ms-30l-horizontal-sand-mill"
+        },
+        "shared": {
+          "categoryId": "distributorler"
+        },
+        "translations": {
+          "tr": {
+            "label": "MS-30L Yatay Kum Değirmeni",
+            "description": "30 L kapasiteli yatay kum değirmeni. Aydınox distribütörlüğündedir.",
+            "body": "Konsol tipi, soğutma ceketli ve mekanik salmastralı 30 L yatay kum değirmeni. Tedarik ve teklif Aydınox distribütörlüğü üzerinden yürür.",
+            "features": [
+              "30 L kapasite",
+              "22 kW ana motor",
+              "Mekanik salmastra",
+              "Aydınox distribütörlüğü"
+            ]
+          },
+          "en": {
+            "label": "MS-30L Horizontal Sand Mill",
+            "description": "30 L horizontal sand mill, supplied through Aydınox distribution.",
+            "body": "Cantilever-type 30 L horizontal sand mill with a cooling jacket and mechanical seal. Supply and quotes are handled through Aydınox distribution.",
+            "features": [
+              "30 L capacity",
+              "22 kW main motor",
+              "Mechanical seal",
+              "Aydınox distribution"
+            ]
+          }
+        }
+      },
+      {
+        "id": "ms-serisi-kum-degirmeni",
+        "slugs": {
+          "tr": "ms-serisi-kum-degirmeni",
+          "en": "ms-series-sand-mill"
+        },
+        "shared": {
+          "categoryId": "distributorler"
+        },
+        "translations": {
+          "tr": {
+            "label": "MS Serisi Kum Değirmeni",
+            "description": "MS 30L, MS 60L ve MS 100L yatay kum değirmenleri. Aydınox distribütörlüğündedir.",
+            "body": "30 L, 60 L ve 100 L kapasiteli MS serisi yatay kum değirmenleri. Su bazlı ve solvent bazlı süspansiyonlar için ince öğütme sağlar.",
+            "features": [
+              "30 L / 60 L / 100 L",
+              "15–30 μm öğütme inceliği",
+              "Zirkonya öğütme ortamı",
+              "Aydınox distribütörlüğü"
+            ]
+          },
+          "en": {
+            "label": "MS Series Sand Mill",
+            "description": "MS 30L, MS 60L and MS 100L horizontal sand mills, supplied through Aydınox distribution.",
+            "body": "MS series horizontal sand mills in 30 L, 60 L and 100 L. They provide fine grinding for water-based and solvent-based slurries.",
+            "features": [
+              "30 L / 60 L / 100 L",
+              "15–30 μm grinding fineness",
+              "Zirconia grinding media",
+              "Aydınox distribution"
+            ]
+          }
+        }
+      }
+    ]
   }
 ]

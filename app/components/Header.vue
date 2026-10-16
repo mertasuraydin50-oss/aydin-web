@@ -16,7 +16,8 @@ const productIcons: Record<string, string> = {
   'paslanmaz-celik-tanklar': 'mdi:cylinder',
   'reaktorler-karistiricilar': 'mdi:flask',
   'filtreler-etuv-sistemleri': 'mdi:filter',
-  'ozel-tasarim-makineler': 'mdi:cog'
+  'ozel-tasarim-makineler': 'mdi:cog',
+  'distributorler': 'mdi:handshake'
 }
 
 const serviceIcons: Record<string, string> = {

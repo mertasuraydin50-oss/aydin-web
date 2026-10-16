@@ -11,6 +11,8 @@ import separatorSistemleri from './landings/products/separator-sistemleri.json'
 import prosesHatMakineleri from './landings/products/proses-hat-makineleri.json'
 import dolumHatlari from './landings/products/dolum-hatlari.json'
 import paketlemeSistemleri from './landings/products/paketleme-sistemleri.json'
+import ms30lYatayKumDegirmeni from './landings/products/ms-30l-yatay-kum-degirmeni.json'
+import msSerisiKumDegirmeni from './landings/products/ms-serisi-kum-degirmeni.json'
 import projeTasarim from './landings/services/proje-tasarim-muhendislik.json'
 import uretimImalat from './landings/services/uretim-imalat.json'
 import montajTesis from './landings/services/montaj-tesis-kurulumu.json'
@@ -67,7 +69,8 @@ const productLandings: LandingRecord<ProductLandingContent>[] = [
   prosesTanklari, depolamaTanklari, karistiriciliTanklar, basincliTanklar,
   reaktorler, endustriyelKaristiricilar, homojenizatorler,
   endustriyelFiltreler, etuvUygulamalari, separatorSistemleri,
-  prosesHatMakineleri, dolumHatlari, paketlemeSistemleri
+  prosesHatMakineleri, dolumHatlari, paketlemeSistemleri,
+  ms30lYatayKumDegirmeni, msSerisiKumDegirmeni
 ] as LandingRecord<ProductLandingContent>[]
 
 const serviceLandings: LandingRecord<ServiceLandingContent>[] = [

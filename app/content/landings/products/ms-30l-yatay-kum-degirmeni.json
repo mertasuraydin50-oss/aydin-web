@@ -1,0 +1,187 @@
+{
+  "id": "ms-30l-yatay-kum-degirmeni",
+  "translations": {
+    "tr": {
+      "seoTitle": "MS-30L Yatay Kum Değirmeni | Aydınox Distribütör",
+      "seoDescription": "30 L yatay kum değirmeni Aydınox distribütörlüğündedir. 22 kW motor, mekanik salmastra ve soğutma ceketli öğütme odası.",
+      "keywords": [
+        "MS-30L",
+        "yatay kum değirmeni",
+        "kum değirmeni",
+        "Aydınox distribütör",
+        "ince öğütme"
+      ],
+      "heroDescription": "30 L kapasiteli yatay kum değirmeni. Tedarik Aydınox distribütörlüğü üzerinden yapılır.",
+      "chips": [
+        "Aydınox distribütörlüğü",
+        "30 L kapasite",
+        "22 kW ana motor",
+        "Mekanik salmastra"
+      ],
+      "intro": [
+        "MS-30L, konsol tipi öğütme odasına sahip yatay kum değirmenidir. Kılavuz raylar odanın sökülmesini kolaylaştırır. Üç katmanlı gövde ve ceketli su sirkülasyonu öğütme sırasında soğutmayı destekler.",
+        "Bu makinenin üreticisi Aydınox değildir. Aydınox, MS-30L yatay kum değirmeninin distribütörüdür. Teknik bilgi, tedarik ve teklif talepleri Aydınox üzerinden karşılanır."
+      ],
+      "highlights": [
+        {
+          "icon": "lucide:handshake",
+          "title": "Aydınox distribütörlüğü",
+          "text": "Makine Aydınox distribütörlüğü ile tedarik edilir. Teklif ve teslim planı talep üzerine paylaşılır."
+        },
+        {
+          "icon": "lucide:gauge",
+          "title": "30 L öğütme kapasitesi",
+          "text": "Öğütme odası 30 L’dir. Besleme 1 inç pnömatik diyafram pompa ile yapılır."
+        },
+        {
+          "icon": "lucide:shield",
+          "title": "Aşınmaya dayanıklı iç yapı",
+          "text": "İç silindir ve dağıtma diski yüksek aşınmaya dayanıklı alaşımdan üretilir. Sızdırmazlık mekanik salmastra iledir."
+        },
+        {
+          "icon": "lucide:droplets",
+          "title": "Ceketli soğutma",
+          "text": "Öğütme odasında ceketli su sirkülasyonu vardır. Çalışma sırasında soğutma suyunun kesintisiz akması gerekir."
+        }
+      ],
+      "specs": [
+        ["Tedarik", "Aydınox distribütörlüğü"],
+        ["Kapasite", "30 L"],
+        ["İç silindir", "Yüksek aşınmaya dayanıklı alaşım çelik"],
+        ["Silindir yapısı", "Konsol tipi, kılavuz raylı, üç katmanlı soğutma ceketli gövde"],
+        ["Dağıtma diski", "Yüksek aşınmaya dayanıklı alaşım"],
+        ["Sızdırmazlık", "Mekanik salmastra"],
+        ["Ana motor gücü", "22 kW"],
+        ["Elektrik bileşenleri", "Delixi"],
+        ["Gerilim", "380 V"],
+        ["Besleme", "1 inç pnömatik diyafram pompa"],
+        ["Boşaltma", "Elek halkası üzerinden yüksek debili boşaltma"]
+      ],
+      "usesTitle": "Kullanım",
+      "usesLead": "MS-30L ince öğütme gereken süspansiyon proseslerinde kullanılır.",
+      "uses": [
+        {
+          "title": "İnce öğütme",
+          "text": "Öğütme ortamı doldurulmuş haznede dağıtma diski ile ince partikül elde edilir."
+        },
+        {
+          "title": "Sürekli besleme",
+          "text": "Pnömatik diyafram pompa ile besleme hızı hava basıncı ve hız kontrol valfi üzerinden ayarlanır."
+        },
+        {
+          "title": "Kontrollü boşaltma",
+          "text": "Ürün elek halkası üzerinden yüksek debili olarak tahliye edilir."
+        }
+      ],
+      "faqTitle": "Sık Sorulan Sorular",
+      "faqLead": "MS-30L yatay kum değirmeni hakkında.",
+      "faq": [
+        {
+          "q": "Aydınox bu makinenin üreticisi mi?",
+          "a": "Hayır. Aydınox, MS-30L yatay kum değirmeninin distribütörüdür. Tedarik, teknik bilgi ve teklif Aydınox üzerinden yürür."
+        },
+        {
+          "q": "Fiyat bilgisi sitede neden yok?",
+          "a": "Tedarik fiyatı kur ve teslim koşullarına göre değişir. Güncel teklif için iletişime geçmeniz yeterlidir."
+        },
+        {
+          "q": "Devreye almadan önce nelere dikkat edilir?",
+          "a": "Su, elektrik ve hava bağlantıları tamamlanır; yağ tankı doldurulur; öğütme ortamı belirtilen oranda hazneye konur. Uzun duruştan sonra kasnak elle birkaç tur çevrilerek çalıştırma kontrol edilir."
+        }
+      ],
+      "specsTitle": "Teknik Özellikler",
+      "specsLead": "MS-30L yatay kum değirmeninin temel teknik değerleri."
+    },
+    "en": {
+      "seoTitle": "MS-30L Horizontal Sand Mill | Aydınox Distributor",
+      "seoDescription": "The 30 L horizontal sand mill is supplied through Aydınox distribution. 22 kW motor, mechanical seal and jacketed grinding chamber.",
+      "keywords": [
+        "MS-30L",
+        "horizontal sand mill",
+        "sand mill",
+        "Aydınox distributor",
+        "fine grinding"
+      ],
+      "heroDescription": "30 L horizontal sand mill. Supply is handled through Aydınox distribution.",
+      "chips": [
+        "Aydınox distribution",
+        "30 L capacity",
+        "22 kW main motor",
+        "Mechanical seal"
+      ],
+      "intro": [
+        "The MS-30L is a horizontal sand mill with a cantilever grinding chamber. Guide rails make the chamber easier to remove. The three-layer body and jacketed water circulation support cooling during grinding.",
+        "Aydınox is not the manufacturer of this machine. Aydınox is the distributor of the MS-30L horizontal sand mill. Technical information, supply and quote requests are handled by Aydınox."
+      ],
+      "highlights": [
+        {
+          "icon": "lucide:handshake",
+          "title": "Aydınox distribution",
+          "text": "The machine is supplied through Aydınox distribution. Quote and delivery planning are shared on request."
+        },
+        {
+          "icon": "lucide:gauge",
+          "title": "30 L grinding capacity",
+          "text": "The grinding chamber is 30 L. Feeding is done with a 1-inch pneumatic diaphragm pump."
+        },
+        {
+          "icon": "lucide:shield",
+          "title": "Wear-resistant inner parts",
+          "text": "The inner cylinder and dispersing disc are made of high wear-resistant alloy. Sealing is by mechanical seal."
+        },
+        {
+          "icon": "lucide:droplets",
+          "title": "Jacketed cooling",
+          "text": "The grinding chamber has jacketed water circulation. Cooling water must keep flowing while the machine is running."
+        }
+      ],
+      "specs": [
+        ["Supply", "Aydınox distribution"],
+        ["Capacity", "30 L"],
+        ["Inner cylinder", "High wear-resistant alloy steel"],
+        ["Cylinder structure", "Cantilever type, guide rails, three-layer jacketed cooling body"],
+        ["Dispersing disc", "High wear-resistant alloy"],
+        ["Seal", "Mechanical seal"],
+        ["Main motor power", "22 kW"],
+        ["Electrical components", "Delixi"],
+        ["Voltage", "380 V"],
+        ["Feeding", "1-inch pneumatic diaphragm pump"],
+        ["Discharge", "High-flow discharge through the screen ring"]
+      ],
+      "usesTitle": "Use",
+      "usesLead": "The MS-30L is used in slurry processes that need fine grinding.",
+      "uses": [
+        {
+          "title": "Fine grinding",
+          "text": "The dispersing disc produces fine particles in a chamber charged with grinding media."
+        },
+        {
+          "title": "Continuous feeding",
+          "text": "Feed rate is set with a pneumatic diaphragm pump through air pressure and a speed-control valve."
+        },
+        {
+          "title": "Controlled discharge",
+          "text": "Product leaves through the screen ring at high flow."
+        }
+      ],
+      "faqTitle": "Frequently Asked Questions",
+      "faqLead": "About the MS-30L horizontal sand mill.",
+      "faq": [
+        {
+          "q": "Is Aydınox the manufacturer of this machine?",
+          "a": "No. Aydınox is the distributor of the MS-30L horizontal sand mill. Supply, technical information and quotes are handled by Aydınox."
+        },
+        {
+          "q": "Why is the price not listed?",
+          "a": "Supply pricing changes with exchange rates and delivery terms. Contact us for a current quote."
+        },
+        {
+          "q": "What should be checked before startup?",
+          "a": "Water, power and air connections are completed, the oil tank is filled, and grinding media is charged at the specified ratio. After a long shutdown, the pulley is turned a few revolutions by hand before startup."
+        }
+      ],
+      "specsTitle": "Technical Specifications",
+      "specsLead": "Key technical values of the MS-30L horizontal sand mill."
+    }
+  }
+}
