@@ -19,12 +19,15 @@ const currentYear = new Date().getFullYear()
         <div class="space-y-6">
           <NuxtLink
             :to="localePath('/')"
-            class="flex items-center"
+            class="inline-flex items-center rounded-lg bg-white px-3 py-2 shadow-sm ring-1 ring-white/10 transition hover:bg-gray-50"
           >
             <img
               src="/logo.jpeg"
               alt="Aydınox Proses Makine"
-              class="w-auto h-10 brightness-0 invert"
+              width="160"
+              height="44"
+              class="h-9 w-auto max-w-[10.5rem] object-contain"
+              loading="lazy"
             >
           </NuxtLink>
 

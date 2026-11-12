@@ -4,7 +4,12 @@
     "tr": "TR",
     "en": "EN",
     "ar": "AR",
-    "switchTo": "Switch language"
+    "switchTo": "Switch language",
+    "names": {
+      "tr": "Türkçe",
+      "en": "English",
+      "ar": "العربية"
+    }
   },
   "brand": {
     "name": "Aydınox Process Machinery",

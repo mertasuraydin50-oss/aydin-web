@@ -37,7 +37,7 @@ watch(() => useRoute().path, () => {
 <template>
   <header class="bg-white border-b border-gray-100 sticky top-0 z-50 font-montserrat">
     <nav class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-      <div class="flex justify-between items-center h-24">
+      <div class="flex justify-between items-center h-16 md:h-[4.25rem]">
         <div class="flex-shrink-0 flex items-center">
           <NuxtLink
             :to="localePath('/')"
@@ -46,14 +46,14 @@ watch(() => useRoute().path, () => {
             <img
               src="/logo.jpeg"
               alt="Aydınox Proses Makine"
-              class="w-auto h-16 md:h-20"
+              class="w-auto h-10 md:h-11 max-h-11 object-contain"
             >
           </NuxtLink>
         </div>
 
         <div class="hidden lg:flex items-center space-x-6">
-          <div class="relative group h-24 flex items-center">
-            <button class="flex items-center gap-1 text-sm font-bold text-gray-700 uppercase tracking-wide group-hover:text-blue-800 transition-colors py-8 outline-none">
+          <div class="relative group h-16 md:h-[4.25rem] flex items-center">
+            <button class="flex items-center gap-1 text-sm font-bold text-gray-700 uppercase tracking-wide group-hover:text-blue-800 transition-colors py-4 outline-none">
               {{ t('nav.products') }}
               <Icon
                 name="lucide:chevron-down"
@@ -61,7 +61,11 @@ watch(() => useRoute().path, () => {
               />
             </button>
 
-            <div class="absolute top-full left-1/2 transform -translate-x-1/2 w-[520px] bg-white shadow-2xl border-t-4 border-blue-800 rounded-b-xl opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-300 translate-y-4 group-hover:translate-y-0 z-50 overflow-hidden">
+            <div class="absolute top-full left-1/2 transform -translate-x-1/2 w-[520px] bg-white shadow-2xl rounded-b-xl opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-300 translate-y-4 group-hover:translate-y-0 z-50 overflow-hidden">
+              <div
+                class="h-1 bg-blue-800"
+                aria-hidden="true"
+              />
               <div class="grid grid-cols-1 gap-1 p-3">
                 <NuxtLink
                   v-for="category in localizedCategories"
@@ -100,8 +104,8 @@ watch(() => useRoute().path, () => {
             </div>
           </div>
 
-          <div class="relative group h-24 flex items-center">
-            <button class="flex items-center gap-1 text-sm font-bold text-gray-700 uppercase tracking-wide group-hover:text-blue-800 transition-colors py-8 outline-none">
+          <div class="relative group h-16 md:h-[4.25rem] flex items-center">
+            <button class="flex items-center gap-1 text-sm font-bold text-gray-700 uppercase tracking-wide group-hover:text-blue-800 transition-colors py-4 outline-none">
               {{ t('nav.services') }}
               <Icon
                 name="lucide:chevron-down"
@@ -109,7 +113,11 @@ watch(() => useRoute().path, () => {
               />
             </button>
 
-            <div class="absolute top-full left-1/2 transform -translate-x-1/2 w-[560px] bg-white shadow-2xl border-t-4 border-blue-800 rounded-b-xl opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-300 translate-y-4 group-hover:translate-y-0 z-50 overflow-hidden">
+            <div class="absolute top-full left-1/2 transform -translate-x-1/2 w-[560px] bg-white shadow-2xl rounded-b-xl opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-300 translate-y-4 group-hover:translate-y-0 z-50 overflow-hidden">
+              <div
+                class="h-1 bg-blue-800"
+                aria-hidden="true"
+              />
               <div class="grid grid-cols-2 gap-1 p-3">
                 <NuxtLink
                   v-for="service in localizedServices"
@@ -148,8 +156,8 @@ watch(() => useRoute().path, () => {
             </div>
           </div>
 
-          <div class="relative group h-24 flex items-center">
-            <button class="flex items-center gap-1 text-sm font-bold text-gray-700 uppercase tracking-wide group-hover:text-blue-800 transition-colors py-8 outline-none">
+          <div class="relative group h-16 md:h-[4.25rem] flex items-center">
+            <button class="flex items-center gap-1 text-sm font-bold text-gray-700 uppercase tracking-wide group-hover:text-blue-800 transition-colors py-4 outline-none">
               {{ t('nav.corporate') }}
               <Icon
                 name="lucide:chevron-down"
@@ -157,15 +165,21 @@ watch(() => useRoute().path, () => {
               />
             </button>
 
-            <div class="absolute top-full left-0 w-56 bg-white shadow-2xl border-t-4 border-blue-800 rounded-b-xl opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-300 translate-y-4 group-hover:translate-y-0 z-50 overflow-hidden py-2">
-              <NuxtLink
-                v-for="link in localizedCorporateLinks"
-                :key="link.to"
-                :to="link.to"
-                class="block px-4 py-2.5 text-sm font-medium text-gray-700 hover:text-blue-800 hover:bg-gray-50 transition"
-              >
-                {{ link.label }}
-              </NuxtLink>
+            <div class="absolute top-full left-0 w-56 bg-white shadow-2xl rounded-b-xl opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-300 translate-y-4 group-hover:translate-y-0 z-50 overflow-hidden">
+              <div
+                class="h-1 bg-blue-800"
+                aria-hidden="true"
+              />
+              <div class="py-2">
+                <NuxtLink
+                  v-for="link in localizedCorporateLinks"
+                  :key="link.to"
+                  :to="link.to"
+                  class="block px-4 py-2.5 text-sm font-medium text-gray-700 hover:text-blue-800 hover:bg-gray-50 transition"
+                >
+                  {{ link.label }}
+                </NuxtLink>
+              </div>
             </div>
           </div>
 
@@ -228,7 +242,7 @@ watch(() => useRoute().path, () => {
     >
       <div
         v-if="mobileMenuOpen"
-        class="lg:hidden bg-white border-t border-gray-100 shadow-xl max-h-[calc(100vh-6rem)] overflow-y-auto"
+        class="lg:hidden bg-white border-t border-gray-100 shadow-xl max-h-[calc(100vh-4.25rem)] overflow-y-auto"
       >
         <div class="px-4 py-6 space-y-1">
           <div class="pb-2 mb-2 border-b border-gray-100">

@@ -1,0 +1,35 @@
+{
+  "detector": {
+    "ignoreRules": [],
+    "ignoreFiles": [],
+    "ignoreValues": [
+      {
+        "rule": "overused-font",
+        "value": "montserrat",
+        "files": [
+          "app/components/LanguageSwitcher.vue"
+        ],
+        "createdAt": "2026-11-12T10:55:37.991Z",
+        "reason": "Site-wide brand typography in Header and layouts"
+      },
+      {
+        "rule": "overused-font",
+        "value": "montserrat",
+        "files": [
+          "app/components/Header.vue"
+        ],
+        "createdAt": "2026-11-12T10:59:43.163Z",
+        "reason": "Site-wide brand typography"
+      },
+      {
+        "rule": "overused-font",
+        "value": "montserrat",
+        "files": [
+          "app/components/Footer.vue"
+        ],
+        "createdAt": "2026-11-12T10:59:43.197Z",
+        "reason": "Site-wide brand typography"
+      }
+    ]
+  }
+}

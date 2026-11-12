@@ -4,7 +4,12 @@
     "tr": "TR",
     "en": "EN",
     "ar": "AR",
-    "switchTo": "تغيير اللغة"
+    "switchTo": "تغيير اللغة",
+    "names": {
+      "tr": "Türkçe",
+      "en": "English",
+      "ar": "العربية"
+    }
   },
   "brand": {
     "name": "أيدينوكس لمعدات العمليات",
