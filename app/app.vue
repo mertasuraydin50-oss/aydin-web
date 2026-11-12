@@ -8,6 +8,7 @@ const uiLocale = computed(() => {
   return uiLocales[key] ?? (locale.value === 'ar' ? uiLocales.ar : uiLocales.tr)
 })
 
+  
 const pageDir = computed(() => (locale.value === 'ar' ? 'rtl' : 'ltr'))
 
 useHead({
